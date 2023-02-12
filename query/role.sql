@@ -33,3 +33,5 @@ grant app_readonly to app_reporting_user2;
 grant read_write to app_user1;
 grant read_write to app_user2;
 
+
+

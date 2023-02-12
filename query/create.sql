@@ -1,3 +1,67 @@
+create table if not exists stadium(
+	stadium_id serial primary key,
+	team varchar(50),
+	name varchar(50),
+	capacity int
+);
+
+create table if not exists club(
+	club_id serial primary key,
+	club_name varchar(50),
+	country varchar(5),
+	stadium_id int,
+	foreign key(stadium_id) references stadium(stadium_id) on delete set null
+);
+
+create table if not exists player(
+	player_id serial primary key,
+	player_name varchar(50),
+	nation varchar(5),
+	positions varchar(10),
+	age int
+);
+
+create table if not exists is_member(
+	player_id serial,
+	club_id serial,
+	season varchar(15), -- khoảng thời gian thi đấu. E.g: 2013 - 2016
+	match_played int,
+	goal int,
+	assist int,
+    primary key(player_id, club_id, season),
+	foreign key(player_id) references player(player_id) on delete set null,
+	foreign key(club_id) references club(club_id) on delete set null
+);
+
+create table if not exists league(
+	league_id serial primary key,
+	name varchar(30),
+	first_season varchar(10),
+	won_most_title_club varchar(30)
+);
+create table if not exists lyear(
+	lyear_id serial primary key,
+	season varchar(20),
+	num_of_squad int,
+	champion varchar(30),
+	champion_point int,
+	top_scorer_name varchar(50),
+	goals int,
+	league_id int,
+	foreign key(league_id) references league(league_id) on delete set null
+);
+create table if not exists match(
+	match_id serial primary key,
+	home_club_id serial,
+	away_club_id serial,
+	lyear_id serial,
+	score varchar(10) not null,
+	attendance int not null,
+	referee varchar(50)  not null,
+	foreign key(lyear_id) references lyear(lyear_id) on delete set null,
+	foreign key(home_club_id) references club(club_id) on delete set null,
+	foreign key(away_club_id) references club(club_id) on delete set null
+);
 
 create table if not exists stats(
 	match_id serial,
@@ -55,7 +119,7 @@ create table if not exists standings(
 	pts int,
 	goal int,
 	goal_against int,
+	primary key(lyear_id,club_id),
 	foreign key(club_id) references club(club_id) on delete set null,
-	foreign key(lyear_id) references lyear(lyear_id) on delete set null,
-	primary key(club_id, lyear_id)
-);	
+	foreign key(lyear_id) references lyear(lyear_id) on delete set null
+);

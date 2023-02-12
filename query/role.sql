@@ -10,7 +10,6 @@ grant usage on schema app_schema to app_readonly;
 grant select on all tables in schema app_schema to app_readonly;
 alter default privileges in schema app_schema grant select on tables to app_readonly;
 
-
 drop role read_write;
 create role read_write;
 

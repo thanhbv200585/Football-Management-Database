@@ -1,0 +1,99 @@
+club_id,club_name,nation,stadium_id
+1,Manchester Utd,ENG,1
+2,West Ham,ENG,2
+3,Tottenham,ENG,3
+4,Arsenal,ENG,4
+5,Manchester City,ENG,5
+6,Liverpool,ENG,6
+7,Newcastle Utd,ENG,7
+8,Aston Villa,ENG,8
+9,Chelsea,ENG,9
+10,Everton,ENG,10
+11,Leeds United,ENG,11
+12,Southampton,ENG,12
+13,Leicester City,ENG,13
+14,Wolves,ENG,14
+15,Brighton,ENG,15
+16,Nott'ham Forest,ENG,16
+17,Crystal Palace,ENG,17
+18,Fulham,ENG,18
+19,Brentford,ENG,19
+20,Bournemouth,ENG,20
+21,Milan,ITA,21
+22,Inter,ITA,22
+23,Roma,ITA,23
+24,Lazio,ITA,24
+25,Napoli,ITA,25
+26,Fiorentina,ITA,26
+27,Juventus,ITA,27
+28,Hellas Verona,ITA,28
+29,Bologna,ITA,29
+30,Sampdoria,ITA,30
+31,Lecce,ITA,31
+32,Salernitana,ITA,32
+33,Torino,ITA,33
+34,Udinese,ITA,34
+35,Sassuolo,ITA,35
+36,Empoli,ITA,36
+37,Atalanta,ITA,37
+38,Cremonese,ITA,38
+39,Monza,ITA,39
+40,Spezia,ITA,40
+41,Barcelona,ESP,41
+42,Real Madrid,ESP,42
+43,Atlético Madrid,ESP,43
+44,Betis,ESP,44
+45,Athletic Club,ESP,45
+46,Valencia,ESP,46
+47,Sevilla,ESP,47
+48,Espanyol,ESP,48
+49,Real Sociedad,ESP,49
+50,Elche,ESP,50
+51,Celta Vigo,ESP,51
+52,Valladolid,ESP,52
+53,Osasuna,ESP,53
+54,Villarreal,ESP,54
+55,Cádiz,ESP,55
+56,Mallorca,ESP,56
+57,Getafe,ESP,57
+58,Almería,ESP,58
+59,Rayo Vallecano,ESP,59
+60,Girona,ESP,60
+61,Marseille,FRA,61
+62,Lyon,FRA,62
+63,Lille,FRA,63
+64,Paris S-G,FRA,64
+65,Lens,FRA,65
+66,Nantes,FRA,66
+67,Nice,FRA,67
+68,Toulouse,FRA,68
+69,Montpellier,FRA,69
+70,Rennes,FRA,70
+71,Strasbourg,FRA,71
+72,Troyes,FRA,72
+73,Reims,FRA,73
+74,Angers,FRA,74
+75,Lorient,FRA,75
+76,Auxerre,FRA,76
+77,Monaco,FRA,77
+78,Brest,FRA,78
+79,Clermont Foot,FRA,79
+80,Ajaccio,FRA,80
+81,Dortmund,GER,81
+82,Bayern Munich,GER,82
+83,Hertha BSC,GER,83
+84,Schalke 04,GER,84
+85,Stuttgart,GER,85
+86,M'Gladbach,GER,86
+87,Eint Frankfurt,GER,87
+88,Köln,GER,88
+89,RB Leipzig,GER,89
+90,Werder Bremen,GER,90
+91,Freiburg,GER,91
+92,Mainz 05,GER,92
+93,Augsburg,GER,93
+94,Leverkusen,GER,94
+95,Hoffenheim,GER,95
+96,Wolfsburg,GER,96
+97,Bochum,GER,97
+98,Union Berlin,GER,98

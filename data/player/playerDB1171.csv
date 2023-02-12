@@ -1,0 +1,3274 @@
+Player,club_name,Nation,Pos,Age,MP,Gls,Ast
+Gabriel Dos Santos,Arsenal,BRA,DF,25.0,20,2,0
+Aaron Ramsdale,Arsenal,ENG,GK,24.0,20,0,0
+William Saliba,Arsenal,FRA,DF,21.0,20,2,1
+Bukayo Saka,Arsenal,ENG,FW,21.0,20,7,7
+Granit Xhaka,Arsenal,SUI,MF,30.0,20,3,5
+Martinelli,Arsenal,BRA,FW,21.0,20,7,2
+Ben White,Arsenal,ENG,DF,25.0,20,0,2
+Martin Ødegaard,Arsenal,NOR,MF,24.0,19,8,5
+Thomas Partey,Arsenal,GHA,MF,29.0,17,2,0
+Gabriel Jesus,Arsenal,BRA,FW,25.0,14,5,5
+Oleksandr Zinchenko,Arsenal,UKR,DF,26.0,13,0,1
+Eddie Nketiah,Arsenal,ENG,FW,23.0,18,4,0
+Takehiro Tomiyasu,Arsenal,JPN,DF,24.0,16,0,1
+Kieran Tierney,Arsenal,SCO,DF,25.0,15,0,0
+Albert Sambi Lokonga,Arsenal,BEL,MF,23.0,6,0,0
+Fabio Vieira,Arsenal,POR,"MF,FW",22.0,11,1,1
+Mohamed Elneny,Arsenal,EGY,MF,30.0,5,0,0
+Reiss Nelson,Arsenal,ENG,FW,23.0,2,2,1
+Emile Smith Rowe,Arsenal,ENG,"MF,FW",22.0,5,0,0
+Leandro Trossard,Arsenal,BEL,FW,28.0,2,0,0
+Jorginho,Arsenal,ITA,MF,31.0,1,0,0
+Cédric Soares,Arsenal,POR,DF,31.0,2,0,0
+Rob Holding,Arsenal,ENG,DF,27.0,6,0,0
+Marquinhos,Arsenal,BRA,MF,19.0,1,0,0
+Ethan Nwaneri,Arsenal,ENG,FW,15.0,1,0,0
+Nathan Butler-Oyedeji,Arsenal,ENG,FW,20.0,0,0,0
+Amario Duberry,Arsenal,ENG,FW,17.0,0,0,0
+Karl Jakob Hein,Arsenal,EST,GK,20.0,0,0,0
+Jakub Kiwior,Arsenal,POL,"DF,MF",22.0,0,0,0
+Nicolas Pépé,Arsenal,CIV,"FW,MF",27.0,0,0,0
+Matthew Smith,Arsenal,ENG,MF,22.0,0,0,0
+Lino Sousa,Arsenal,ENG,DF,18.0,0,0,0
+Matt Turner,Arsenal,USA,GK,28.0,0,0,0
+Ederson,Manchester City,BRA,GK,29.0,21,0,1
+Rodri,Manchester City,ESP,MF,26.0,20,1,4
+Erling Haaland,Manchester City,NOR,FW,22.0,20,25,3
+Kevin De Bruyne,Manchester City,BEL,MF,31.0,20,3,11
+Bernardo Silva,Manchester City,POR,"MF,FW",28.0,20,2,5
+João Cancelo,Manchester City,POR,DF,28.0,17,2,1
+Manuel Akanji,Manchester City,SUI,DF,27.0,15,0,1
+İlkay Gündoğan,Manchester City,GER,MF,32.0,18,2,2
+John Stones,Manchester City,ENG,DF,28.0,14,0,2
+Nathan Aké,Manchester City,NED,DF,27.0,15,0,0
+Phil Foden,Manchester City,ENG,"FW,DF",22.0,18,7,4
+Jack Grealish,Manchester City,ENG,FW,27.0,15,2,3
+Riyad Mahrez,Manchester City,ALG,"FW,MF",31.0,16,4,3
+Kyle Walker,Manchester City,ENG,DF,32.0,11,0,0
+Rúben Dias,Manchester City,POR,DF,25.0,13,0,0
+Julián Álvarez,Manchester City,ARG,"FW,MF",23.0,16,4,0
+Rico Lewis,Manchester City,ENG,"DF,MF",18.0,9,0,0
+Aymeric Laporte,Manchester City,ESP,DF,28.0,5,0,0
+Cole Palmer,Manchester City,ENG,"FW,MF",20.0,9,0,0
+Sergio Gómez,Manchester City,ESP,"DF,MF",22.0,5,0,1
+Kalvin Phillips,Manchester City,ENG,MF,27.0,3,0,0
+Scott Carson,Manchester City,ENG,GK,37.0,0,0,0
+Liam Delap,Manchester City,ENG,FW,20.0,0,0,0
+Claudio Gomes,Manchester City,FRA,MF,22.0,0,0,0
+Ben Knight,Manchester City,ENG,MF,20.0,0,0,0
+Luke Mbete-Tatu,Manchester City,ENG,DF,19.0,0,0,0
+Stefan Ortega,Manchester City,GER,GK,30.0,0,0,0
+Máximo Perrone,Manchester City,ARG,MF,20.0,0,0,0
+Josh Wilson-Esbrand,Manchester City,ENG,DF,20.0,0,0,0
+David de Gea,Manchester Utd,ESP,GK,32.0,21,0,0
+Bruno Fernandes,Manchester Utd,POR,"MF,FW",28.0,20,5,4
+Marcus Rashford,Manchester Utd,ENG,FW,25.0,21,10,3
+Christian Eriksen,Manchester Utd,DEN,MF,30.0,19,1,7
+Lisandro Martínez,Manchester Utd,ARG,DF,25.0,19,1,0
+Luke Shaw,Manchester Utd,ENG,DF,27.0,17,1,1
+Raphaël Varane,Manchester Utd,FRA,DF,29.0,16,0,0
+Casemiro,Manchester Utd,BRA,MF,30.0,17,2,3
+Diogo Dalot,Manchester Utd,POR,DF,23.0,14,0,1
+Antony,Manchester Utd,BRA,FW,22.0,12,3,0
+Jadon Sancho,Manchester Utd,ENG,FW,22.0,10,2,1
+Tyrell Malacia,Manchester Utd,NED,DF,23.0,12,0,0
+Scott McTominay,Manchester Utd,SCO,MF,26.0,15,0,0
+Aaron Wan-Bissaka,Manchester Utd,ENG,DF,25.0,8,0,0
+Fred,Manchester Utd,BRA,MF,29.0,18,2,0
+Anthony Martial,Manchester Utd,FRA,FW,27.0,9,3,2
+Anthony Elanga,Manchester Utd,SWE,FW,20.0,13,0,1
+Cristiano Ronaldo,Manchester Utd,POR,FW,38.0,10,1,0
+Victor Lindelöf,Manchester Utd,SWE,DF,28.0,7,0,0
+Harry Maguire,Manchester Utd,ENG,DF,29.0,9,0,0
+Wout Weghorst,Manchester Utd,NED,FW,30.0,3,0,0
+Alejandro Garnacho,Manchester Utd,ESP,FW,18.0,10,1,2
+Donny van de Beek,Manchester Utd,NED,MF,25.0,7,0,0
+Marcel Sabitzer,Manchester Utd,AUT,MF,28.0,1,0,0
+Rhys Bennett,Manchester Utd,ENG,DF,19.0,0,0,0
+Nathan Bishop,Manchester Utd,ENG,GK,23.0,0,0,0
+Martin Dúbravka,Manchester Utd,SVK,GK,34.0,0,0,0
+James Garner,Manchester Utd,ENG,MF,21.0,0,0,0
+Tom Heaton,Manchester Utd,ENG,GK,36.0,0,0,0
+Zidane Iqbal,Manchester Utd,IRQ,MF,19.0,0,0,0
+Matej Kovar,Manchester Utd,CZE,GK,22.0,0,0,0
+Kobbie Mainoo,Manchester Utd,ENG,MF,17.0,0,0,0
+Facundo Pellistri,Manchester Utd,URU,MF,21.0,0,0,0
+Shola Shoretire,Manchester Utd,ENG,MF,19.0,0,0,0
+Brandon Williams,Manchester Utd,ENG,DF,22.0,0,0,0
+Nick Pope,Newcastle Utd,ENG,GK,30.0,21,0,0
+Kieran Trippier,Newcastle Utd,ENG,DF,32.0,21,1,4
+Miguel Almirón,Newcastle Utd,PAR,FW,28.0,21,9,1
+Fabian Schär,Newcastle Utd,SUI,DF,31.0,20,1,0
+Dan Burn,Newcastle Utd,ENG,DF,30.0,21,0,0
+Joe Willock,Newcastle Utd,ENG,MF,23.0,21,2,2
+Joelinton,Newcastle Utd,BRA,"MF,FW",26.0,19,2,1
+Sven Botman,Newcastle Utd,NED,DF,23.0,19,0,0
+Sean Longstaff,Newcastle Utd,ENG,MF,25.0,21,1,3
+Bruno Guimarães,Newcastle Utd,BRA,MF,25.0,17,3,3
+Callum Wilson,Newcastle Utd,ENG,FW,30.0,16,7,3
+Allan Saint-Maximin,Newcastle Utd,FRA,FW,25.0,13,1,3
+Jacob Murphy,Newcastle Utd,ENG,FW,27.0,21,1,1
+Chris Wood,Newcastle Utd,NZL,FW,31.0,18,2,0
+Matt Targett,Newcastle Utd,ENG,DF,27.0,10,0,0
+Ryan Fraser,Newcastle Utd,SCO,FW,28.0,8,0,0
+Alexander Isak,Newcastle Utd,SWE,FW,23.0,5,3,0
+Jamaal Lascelles,Newcastle Utd,ENG,DF,29.0,4,0,0
+Elliot Anderson,Newcastle Utd,SCO,"FW,MF",20.0,9,0,0
+Jonjo Shelvey,Newcastle Utd,ENG,MF,30.0,3,0,0
+Anthony Gordon,Newcastle Utd,ENG,FW,21.0,1,0,0
+Javier Manquillo,Newcastle Utd,ESP,DF,28.0,1,0,0
+Jamal Lewis,Newcastle Utd,NIR,DF,25.0,1,0,0
+Matt Ritchie,Newcastle Utd,SCO,FW,33.0,2,0,0
+Emil Krafth,Newcastle Utd,SWE,DF,28.0,1,0,0
+Karl Darlow,Newcastle Utd,ENG,GK,32.0,0,0,0
+Martin Dúbravka,Newcastle Utd,SVK,GK,34.0,0,0,0
+Paul Dummett,Newcastle Utd,WAL,DF,31.0,0,0,0
+Loris Karius,Newcastle Utd,GER,GK,29.0,0,0,0
+Harry Kane,Tottenham,ENG,FW,29.0,22,17,1
+Hugo Lloris,Tottenham,FRA,GK,36.0,21,0,0
+Pierre Højbjerg,Tottenham,DEN,MF,27.0,21,4,3
+Eric Dier,Tottenham,ENG,DF,29.0,21,2,0
+Son Heung-min,Tottenham,KOR,"MF,FW",30.0,20,4,3
+Rodrigo Bentancur,Tottenham,URU,MF,25.0,17,4,2
+Ben Davies,Tottenham,WAL,DF,29.0,19,2,1
+Ivan Perišić,Tottenham,CRO,"DF,MF",34.0,22,0,5
+Emerson,Tottenham,BRA,DF,24.0,17,1,1
+Cristian Romero,Tottenham,ARG,DF,24.0,14,0,0
+Dejan Kulusevski,Tottenham,SWE,"MF,FW",22.0,14,2,5
+Clément Lenglet,Tottenham,FRA,DF,27.0,13,0,2
+Ryan Sessegnon,Tottenham,ENG,DF,22.0,17,2,0
+Yves Bissouma,Tottenham,MLI,MF,26.0,20,0,0
+Matt Doherty,Tottenham,IRL,"DF,MF",31.0,12,1,0
+Davinson Sánchez,Tottenham,COL,DF,26.0,12,0,0
+Richarlison,Tottenham,BRA,"MF,FW",25.0,13,0,2
+Oliver Skipp,Tottenham,ENG,MF,22.0,8,0,0
+Bryan,Tottenham,ESP,"MF,FW",21.0,4,0,1
+Pape Matar Sarr,Tottenham,SEN,MF,20.0,3,0,0
+Fraser Forster,Tottenham,ENG,GK,34.0,1,0,0
+Japhet Tanganga,Tottenham,ENG,DF,23.0,1,0,0
+Lucas Moura,Tottenham,BRA,"MF,DF",30.0,8,0,0
+Djed Spence,Tottenham,ENG,"FW,DF",22.0,4,0,0
+Harvey White,Tottenham,ENG,MF,21.0,1,0,0
+Arnaut Danjuma,Tottenham,NED,"FW,MF",26.0,0,0,0
+Pedro Porro,Tottenham,ESP,"DF,MF",23.0,0,0,0
+Robert Sánchez,Brighton,ESP,GK,25.0,20,0,0
+Lewis Dunk,Brighton,ENG,DF,31.0,20,0,0
+Pascal Groß,Brighton,GER,"MF,DF",31.0,20,6,3
+Solly March,Brighton,ENG,"FW,DF",28.0,20,4,4
+Moisés Caicedo,Brighton,ECU,MF,21.0,19,1,1
+Alexis Mac Allister,Brighton,ARG,MF,24.0,17,5,0
+Leandro Trossard,Brighton,BEL,"FW,MF",28.0,16,7,2
+Joël Veltman,Brighton,NED,DF,31.0,18,0,1
+Pervis Estupiñán,Brighton,ECU,DF,25.0,17,0,2
+Adam Webster,Brighton,ENG,DF,28.0,15,0,0
+Danny Welbeck,Brighton,ENG,FW,32.0,16,1,2
+Adam Lallana,Brighton,ENG,"MF,FW",34.0,16,2,1
+Kaoru Mitoma,Brighton,JPN,"FW,DF",25.0,15,5,1
+Levi Colwill,Brighton,ENG,DF,19.0,7,0,0
+Tariq Lamptey,Brighton,GHA,DF,22.0,17,0,0
+Enock Mwepu,Brighton,ZAM,"FW,MF",25.0,6,0,1
+Evan Ferguson,Brighton,IRL,FW,18.0,5,3,2
+Billy Gilmour,Brighton,SCO,MF,21.0,7,0,0
+Deniz Undav,Brighton,GER,"FW,MF",26.0,9,0,0
+Jeremy Sarmiento,Brighton,ECU,MF,20.0,7,0,1
+Jan Paul van Hecke,Brighton,NED,DF,22.0,2,0,0
+Julio César Enciso,Brighton,PAR,"FW,MF",19.0,5,0,0
+Facundo Buonanotte,Brighton,ARG,"MF,FW",18.0,1,0,0
+Andrew Moran,Brighton,IRL,FW,19.0,1,0,0
+Steven Alzate,Brighton,COL,MF,24.0,0,0,0
+James Furlong,Brighton,IRL,DF,20.0,0,0,0
+Jack Hinshelwood,Brighton,ENG,MF,17.0,0,0,0
+Neal Maupay,Brighton,FRA,"FW,MF",26.0,0,0,0
+Odeluga Offiah,Brighton,ENG,DF,20.0,0,0,0
+Jason Steele,Brighton,ENG,GK,32.0,0,0,0
+Ed Turns,Brighton,WAL,DF,20.0,0,0,0
+David Raya,Brentford,ESP,GK,27.0,21,0,0
+Bryan Mbeumo,Brentford,CMR,FW,23.0,21,5,2
+Mathias Jensen,Brentford,DEN,MF,27.0,21,3,4
+Rico Henry,Brentford,ENG,DF,25.0,20,0,2
+Ben Mee,Brentford,ENG,DF,33.0,20,3,0
+Ivan Toney,Brentford,ENG,FW,26.0,19,13,3
+Vitaly Janelt,Brentford,GER,"MF,DF",24.0,21,2,1
+Ethan Pinnock,Brentford,JAM,DF,29.0,13,0,0
+Josh Dasilva,Brentford,ENG,MF,24.0,21,3,2
+Christian Nørgaard,Brentford,DEN,MF,28.0,11,1,1
+Yoane Wissa,Brentford,COD,FW,26.0,21,4,2
+Mads Roerslev,Brentford,DEN,DF,23.0,13,0,0
+Aaron Hickey,Brentford,SCO,DF,20.0,10,0,0
+Mathias Jørgensen,Brentford,DEN,DF,32.0,13,0,0
+Kristoffer Ajer,Brentford,NOR,DF,24.0,8,0,0
+Pontus Jansson,Brentford,SWE,DF,31.0,7,0,0
+Frank Onyeka,Brentford,NGA,MF,25.0,12,0,1
+Shandon Baptiste,Brentford,GRN,MF,24.0,12,0,0
+Keane Lewis-Potter,Brentford,ENG,"FW,MF",21.0,9,0,1
+Mikkel Damsgaard,Brentford,DEN,"MF,FW",22.0,11,0,0
+Saman Ghoddos,Brentford,IRN,"MF,FW",29.0,9,0,0
+Sergi Canós,Brentford,ESP,"FW,DF",26.0,5,0,0
+Kevin Schade,Brentford,GER,"FW,MF",21.0,2,0,0
+Mads Bech Sørensen,Brentford,DEN,"DF,MF",24.0,4,0,0
+Halil Dervişoğlu,Brentford,TUR,MF,23.0,1,0,0
+Matthew Cox,Brentford,ENG,GK,19.0,0,0,0
+Tristan Crama,Brentford,FRA,MF,21.0,0,0,0
+Charlie Goode,Brentford,ENG,DF,27.0,0,0,0
+Finley Stevens,Brentford,WAL,DF,19.0,0,0,0
+Thomas Strakosha,Brentford,ALB,GK,27.0,0,0,0
+Ryan Trevitt,Brentford,ENG,MF,19.0,0,0,0
+Yehor Yarmoliuk,Brentford,UKR,MF,18.0,0,0,0
+Tim Ream,Fulham,USA,DF,35.0,22,1,0
+Andreas Pereira,Fulham,BRA,MF,27.0,22,2,5
+João Palhinha,Fulham,POR,MF,27.0,21,3,0
+Bobby Reid,Fulham,JAM,"FW,DF",30.0,21,4,1
+Harrison Reed,Fulham,ENG,MF,28.0,21,2,1
+Bernd Leno,Fulham,GER,GK,30.0,20,0,0
+Antonee Robinson,Fulham,USA,DF,25.0,19,0,0
+Aleksandar Mitrović,Fulham,SRB,FW,28.0,18,11,1
+Kenny Tete,Fulham,NED,DF,27.0,16,0,4
+Willian,Fulham,BRA,FW,34.0,15,2,2
+Tosin Adarabioyo,Fulham,ENG,DF,25.0,14,1,0
+Issa Diop,Fulham,FRA,DF,26.0,14,1,0
+Neeskens Kebano,Fulham,COD,FW,30.0,12,0,3
+Carlos Vinícius,Fulham,BRA,FW,27.0,14,1,0
+Daniel James,Fulham,WAL,FW,25.0,12,1,0
+Harry Wilson,Fulham,WAL,FW,25.0,13,0,0
+Marek Rodák,Fulham,SVK,GK,26.0,2,0,0
+Layvin Kurzawa,Fulham,FRA,DF,30.0,3,0,0
+Tom Cairney,Fulham,SCO,MF,32.0,22,0,0
+Kevin Mbabu,Fulham,SUI,"DF,FW",27.0,6,0,1
+Jay Stansfield,Fulham,ENG,FW,20.0,3,0,0
+Nathaniel Chalobah,Fulham,ENG,MF,28.0,4,0,0
+Manor Solomon,Fulham,ISR,FW,23.0,4,0,0
+Josh Onomah,Fulham,ENG,MF,25.0,2,0,0
+Luke Harris,Fulham,WAL,"MF,FW",17.0,3,0,0
+Shane Duffy,Fulham,IRL,"FW,DF",31.0,4,0,0
+Tyrese Francois,Fulham,AUS,FW,22.0,1,0,0
+Terry Ablade,Fulham,FIN,FW,21.0,0,0,0
+Martial Godo,Fulham,ENG,MF,19.0,0,0,0
+Rodrigo Muniz,Fulham,BRA,FW,21.0,0,0,0
+Stefan Parkes,Fulham,ENG,DF,18.0,0,0,0
+Kristian Sekularac,Fulham,ENG,MF,19.0,0,0,0
+Mason Mount,Chelsea,ENG,"MF,FW",24.0,20,3,2
+Thiago Silva,Chelsea,BRA,DF,38.0,19,0,2
+Kai Havertz,Chelsea,GER,"FW,MF",23.0,20,5,1
+Marc Cucurella,Chelsea,ESP,DF,24.0,19,0,2
+Jorginho,Chelsea,ITA,MF,31.0,18,2,0
+Raheem Sterling,Chelsea,ENG,"FW,MF",28.0,16,4,2
+Kepa Arrizabalaga,Chelsea,ESP,GK,28.0,13,0,0
+Kalidou Koulibaly,Chelsea,SEN,DF,31.0,14,2,0
+Ruben Loftus-Cheek,Chelsea,ENG,"MF,DF",27.0,14,0,0
+Trevoh Chalobah,Chelsea,ENG,DF,23.0,12,0,0
+César Azpilicueta,Chelsea,ESP,DF,33.0,18,0,0
+Conor Gallagher,Chelsea,ENG,"MF,FW",23.0,19,1,1
+Edouard Mendy,Chelsea,SEN,GK,30.0,9,0,0
+Reece James,Chelsea,ENG,"DF,MF",23.0,9,1,1
+Mateo Kovačić,Chelsea,CRO,MF,28.0,15,0,1
+Christian Pulisic,Chelsea,USA,"FW,DF",24.0,16,1,1
+Hakim Ziyech,Chelsea,MAR,"FW,MF",29.0,11,0,1
+Pierre-Emerick Aubameyang,Chelsea,GAB,FW,33.0,11,1,0
+Ben Chilwell,Chelsea,ENG,"DF,MF",26.0,10,1,1
+Lewis Hall,Chelsea,ENG,"DF,MF",18.0,5,0,0
+Denis Zakaria,Chelsea,SUI,MF,26.0,4,0,0
+Benoît Badiashile,Chelsea,FRA,DF,21.0,3,0,0
+Armando Broja,Chelsea,ALB,FW,21.0,12,1,0
+Wesley Fofana,Chelsea,FRA,DF,22.0,2,0,0
+N'Golo Kanté,Chelsea,FRA,MF,31.0,2,0,0
+Carney Chukwuemeka,Chelsea,ENG,"MF,FW",19.0,8,0,0
+Enzo Fernández,Chelsea,ARG,MF,22.0,1,0,0
+Mykhailo Mudryk,Chelsea,UKR,FW,22.0,2,0,0
+João Félix,Chelsea,POR,FW,23.0,1,0,0
+Noni Madueke,Chelsea,ENG,FW,20.0,1,0,0
+Omari Hutchinson,Chelsea,ENG,FW,19.0,1,0,0
+Datro Fofana,Chelsea,CIV,"FW,MF",20.0,1,0,0
+Ethan Ampadu,Chelsea,WAL,"DF,MF",22.0,0,0,0
+Marcus Bettinelli,Chelsea,ENG,GK,30.0,0,0,0
+Billy Gilmour,Chelsea,SCO,MF,21.0,0,0,0
+Callum Hudson-Odoi,Chelsea,ENG,"FW,MF",22.0,0,0,0
+Bashir Humphreys,Chelsea,ENG,DF,19.0,0,0,0
+Harvey Vale,Chelsea,ENG,MF,19.0,0,0,0
+Alisson,Liverpool,BRA,GK,30.0,20,0,1
+Mohamed Salah,Liverpool,EGY,FW,30.0,20,7,4
+Virgil van Dijk,Liverpool,NED,DF,31.0,17,2,0
+Trent Alexander-Arnold,Liverpool,ENG,DF,24.0,20,1,1
+Andrew Robertson,Liverpool,SCO,DF,28.0,18,0,5
+Fabinho,Liverpool,BRA,MF,29.0,18,0,0
+Thiago Alcántara,Liverpool,ESP,MF,31.0,14,0,0
+Harvey Elliott,Liverpool,ENG,"MF,FW",19.0,20,1,1
+Joe Gomez,Liverpool,ENG,DF,25.0,17,0,0
+Darwin Núñez,Liverpool,URU,FW,23.0,15,5,2
+Roberto Firmino,Liverpool,BRA,"FW,MF",31.0,13,7,3
+Jordan Henderson,Liverpool,ENG,MF,32.0,17,0,0
+Joël Matip,Liverpool,CMR,DF,31.0,9,0,0
+Luis Díaz,Liverpool,COL,FW,26.0,8,3,2
+James Milner,Liverpool,ENG,"DF,MF",37.0,14,0,1
+Kostas Tsimikas,Liverpool,GRE,DF,26.0,13,0,3
+Ibrahima Konaté,Liverpool,FRA,DF,23.0,5,0,0
+Fabio Carvalho,Liverpool,POR,"MF,FW",20.0,11,2,0
+Alex Oxlade-Chamberlain,Liverpool,ENG,"FW,MF",29.0,8,1,0
+Cody Gakpo,Liverpool,NED,FW,23.0,3,0,0
+Naby Keïta,Liverpool,GUI,MF,27.0,6,0,0
+Diogo Jota,Liverpool,POR,"FW,MF",26.0,4,0,1
+Stefan Bajcetic,Liverpool,ESP,MF,18.0,5,1,0
+Curtis Jones,Liverpool,ENG,"MF,FW",22.0,6,0,0
+Nathaniel Phillips,Liverpool,ENG,DF,25.0,2,0,0
+Ben Doak,Liverpool,SCO,FW,17.0,2,0,0
+Bobby Clark,Liverpool,ENG,MF,18.0,1,0,0
+Adrián,Liverpool,ESP,GK,36.0,0,0,0
+Luke Chambers,Liverpool,ENG,DF,18.0,0,0,0
+Harvey Davies,Liverpool,ENG,GK,19.0,0,0,0
+Sepp van den Berg,Liverpool,NED,"DF,MF",21.0,0,0,0
+Caoimhín Kelleher,Liverpool,IRL,GK,24.0,0,0,0
+Arthur Melo,Liverpool,BRA,MF,26.0,0,0,0
+Calvin Ramsay,Liverpool,SCO,DF,19.0,0,0,0
+Ezri Konsa,Aston Villa,ENG,DF,25.0,21,0,0
+Tyrone Mings,Aston Villa,ENG,DF,29.0,19,0,1
+Emiliano Martínez,Aston Villa,ARG,GK,30.0,19,0,0
+Ollie Watkins,Aston Villa,ENG,FW,27.0,20,5,4
+Leon Bailey,Aston Villa,JAM,"FW,MF",25.0,20,4,2
+Douglas Luiz,Aston Villa,BRA,MF,24.0,20,2,4
+Jacob Ramsey,Aston Villa,ENG,MF,21.0,18,2,2
+John McGinn,Aston Villa,SCO,MF,28.0,17,0,1
+Boubacar Kamara,Aston Villa,FRA,MF,23.0,15,0,1
+Lucas Digne,Aston Villa,FRA,DF,29.0,15,1,0
+Emi Buendía,Aston Villa,ARG,"MF,FW",26.0,21,3,0
+Ashley Young,Aston Villa,ENG,DF,37.0,17,1,0
+Matty Cash,Aston Villa,POL,DF,25.0,17,0,0
+Danny Ings,Aston Villa,ENG,FW,30.0,18,6,0
+Philippe Coutinho,Aston Villa,BRA,"MF,FW",30.0,18,0,0
+Leander Dendoncker,Aston Villa,BEL,MF,27.0,12,0,0
+Robin Olsen,Aston Villa,SWE,GK,33.0,3,0,0
+Diego Carlos,Aston Villa,BRA,DF,29.0,2,0,0
+Álex Moreno,Aston Villa,ESP,DF,29.0,3,0,0
+Calum Chambers,Aston Villa,ENG,"DF,MF",28.0,4,0,0
+Jan Bednarek,Aston Villa,POL,DF,26.0,3,0,0
+Ludwig Augustinsson,Aston Villa,SWE,DF,28.0,3,0,0
+Cameron Archer,Aston Villa,ENG,"FW,MF",21.0,6,0,0
+Morgan Sanson,Aston Villa,FRA,MF,28.0,2,0,0
+Jhon Durán,Aston Villa,COL,FW,19.0,1,0,0
+Lamare Bogarde,Aston Villa,NED,MF,19.0,0,0,0
+Tim Iroegbunam,Aston Villa,ENG,MF,19.0,0,0,0
+Filip Marshall,Aston Villa,ENG,GK,19.0,0,0,0
+Marvelous Nakamba,Aston Villa,ZIM,MF,29.0,0,0,0
+Viljami Sinisalo,Aston Villa,FIN,GK,21.0,0,0,0
+Kadan Young,Aston Villa,ENG,MF,17.0,0,0,0
+Vicente Guaita,Crystal Palace,ESP,GK,36.0,21,0,0
+Marc Guéhi,Crystal Palace,ENG,DF,22.0,20,0,0
+Wilfried Zaha,Crystal Palace,CIV,"FW,MF",30.0,19,6,2
+Cheick Doucouré,Crystal Palace,MLI,MF,23.0,19,0,2
+Eberechi Eze,Crystal Palace,ENG,"MF,FW",24.0,21,3,3
+Jeffrey Schlupp,Crystal Palace,GHA,MF,30.0,21,1,0
+Joachim Andersen,Crystal Palace,DEN,DF,26.0,17,1,0
+Jordan Ayew,Crystal Palace,GHA,"FW,MF",31.0,21,1,1
+Tyrick Mitchell,Crystal Palace,ENG,DF,23.0,19,0,2
+Joel Ward,Crystal Palace,ENG,DF,33.0,16,0,0
+Michael Olise,Crystal Palace,FRA,"MF,FW",21.0,20,2,4
+Nathaniel Clyne,Crystal Palace,ENG,DF,31.0,15,0,0
+Odsonne Édouard,Crystal Palace,FRA,"FW,MF",25.0,19,3,2
+Jean-Philippe Mateta,Crystal Palace,FRA,FW,25.0,17,1,0
+Chris Richards,Crystal Palace,USA,DF,22.0,7,0,0
+Will Hughes,Crystal Palace,ENG,MF,27.0,15,0,0
+Luka Milivojević,Crystal Palace,SRB,MF,31.0,11,0,0
+James Tomkins,Crystal Palace,ENG,DF,33.0,3,0,0
+Jaïro Riedewald,Crystal Palace,NED,"DF,FW",26.0,4,0,0
+Malcolm Ebiowei,Crystal Palace,ENG,"MF,FW",19.0,3,0,0
+Albert Sambi Lokonga,Crystal Palace,BEL,MF,23.0,1,0,0
+Naouirou Ahamada,Crystal Palace,FRA,MF,20.0,1,0,0
+David Ozoh,Crystal Palace,,FW,17.0,1,0,0
+Kofi Balmer,Crystal Palace,NIR,DF,22.0,0,0,0
+Jack Butland,Crystal Palace,ENG,GK,29.0,0,0,0
+Owen Goodman,Crystal Palace,ENG,GK,19.0,0,0,0
+John-Kymani Gordon,Crystal Palace,ENG,FW,19.0,0,0,0
+Sam Johnstone,Crystal Palace,ENG,GK,29.0,0,0,0
+Killian Phillips,Crystal Palace,IRL,DF,20.0,0,0,0
+Luke Plange,Crystal Palace,ENG,FW,20.0,0,0,0
+Kaden Rodney,Crystal Palace,ENG,MF,18.0,0,0,0
+Jack Wells-Morrison,Crystal Palace,ENG,MF,18.0,0,0,0
+Joseph Whitworth,Crystal Palace,ENG,GK,18.0,0,0,0
+Brennan Johnson,Nott'ham Forest,WAL,FW,21.0,21,5,2
+Dean Henderson,Nott'ham Forest,ENG,GK,25.0,18,0,0
+Morgan Gibbs-White,Nott'ham Forest,ENG,"MF,FW",23.0,18,2,4
+Scott McKenna,Nott'ham Forest,SCO,DF,26.0,17,0,0
+Ryan Yates,Nott'ham Forest,ENG,MF,25.0,18,0,1
+Remo Freuler,Nott'ham Forest,SUI,MF,30.0,17,0,0
+Neco Williams,Nott'ham Forest,WAL,DF,21.0,21,0,0
+Joe Worrall,Nott'ham Forest,ENG,DF,26.0,16,0,0
+Renan Lodi,Nott'ham Forest,BRA,DF,24.0,13,0,0
+Serge Aurier,Nott'ham Forest,CIV,DF,30.0,13,1,0
+Steve Cook,Nott'ham Forest,ENG,DF,31.0,12,0,0
+Jesse Lingard,Nott'ham Forest,ENG,"FW,MF",30.0,14,0,0
+Taiwo Awoniyi,Nott'ham Forest,NGA,FW,25.0,16,4,0
+Cheikhou Kouyaté,Nott'ham Forest,SEN,"MF,DF",33.0,12,1,0
+Orel Mangala,Nott'ham Forest,BEL,MF,24.0,13,0,0
+Willy Boly,Nott'ham Forest,CIV,DF,32.0,7,0,1
+Harry Toffolo,Nott'ham Forest,ENG,DF,27.0,10,0,0
+Lewis O'Brien,Nott'ham Forest,ENG,MF,24.0,13,1,0
+Emmanuel Dennis,Nott'ham Forest,NGA,FW,25.0,10,1,1
+Wayne Hennessey,Nott'ham Forest,WAL,GK,36.0,2,0,0
+Moussa Niakhate,Nott'ham Forest,FRA,DF,26.0,2,0,0
+Chris Wood,Nott'ham Forest,NZL,FW,31.0,2,0,0
+Jack Colback,Nott'ham Forest,ENG,MF,33.0,8,0,0
+Sam Surridge,Nott'ham Forest,ENG,FW,24.0,14,1,0
+Gustavo Scarpa,Nott'ham Forest,BRA,MF,29.0,3,0,0
+Danilo,Nott'ham Forest,BRA,MF,21.0,2,0,0
+Keylor Navas,Nott'ham Forest,CRC,GK,36.0,1,0,0
+Giulian Biancone,Nott'ham Forest,FRA,DF,22.0,2,0,0
+Alexander Mighten,Nott'ham Forest,ENG,FW,20.0,1,0,0
+Cafú,Nott'ham Forest,POR,MF,29.0,1,0,0
+André Ayew,Nott'ham Forest,GHA,FW,33.0,1,0,0
+Loïc Bade,Nott'ham Forest,FRA,DF,22.0,0,0,0
+Felipe,Nott'ham Forest,BRA,DF,33.0,0,0,0
+Oliver Hammond,Nott'ham Forest,WAL,MF,20.0,0,0,0
+Loïc Mbe Soh,Nott'ham Forest,FRA,DF,21.0,0,0,0
+Jordan Smith,Nott'ham Forest,ENG,GK,28.0,0,0,0
+Dale Taylor,Nott'ham Forest,NIR,FW,19.0,0,0,0
+Lyle Taylor,Nott'ham Forest,MSR,FW,32.0,0,0,0
+Danny Ward,Leicester City,WAL,GK,29.0,21,0,0
+Timothy Castagne,Leicester City,BEL,DF,27.0,20,1,2
+Youri Tielemans,Leicester City,BEL,MF,25.0,21,3,1
+Harvey Barnes,Leicester City,ENG,"MF,FW",25.0,19,7,1
+Kiernan Dewsbury-Hall,Leicester City,ENG,MF,24.0,19,2,2
+Daniel Amartey,Leicester City,GHA,DF,28.0,17,0,0
+Wout Faes,Leicester City,BEL,DF,24.0,15,0,0
+James Justin,Leicester City,ENG,DF,24.0,14,0,0
+James Maddison,Leicester City,ENG,"MF,FW",26.0,15,8,4
+Boubakary Soumaré,Leicester City,FRA,MF,23.0,14,0,0
+Jamie Vardy,Leicester City,ENG,FW,36.0,21,1,4
+Wilfred Ndidi,Leicester City,NGA,"MF,DF",26.0,14,0,0
+Jonny Evans,Leicester City,NIR,DF,35.0,9,0,0
+Patson Daka,Leicester City,ZAM,FW,24.0,17,3,3
+Luke Thomas,Leicester City,ENG,DF,21.0,10,0,0
+Dennis Praet,Leicester City,BEL,MF,28.0,11,1,0
+Ayoze Pérez,Leicester City,ESP,"MF,FW",29.0,8,0,1
+Kelechi Iheanacho,Leicester City,NGA,"FW,MF",26.0,15,2,3
+Nampalys Mendy,Leicester City,SEN,MF,30.0,10,0,0
+Wesley Fofana,Leicester City,FRA,DF,22.0,2,0,0
+Marc Albrighton,Leicester City,ENG,"FW,MF",33.0,6,1,0
+Harry Souttar,Leicester City,AUS,DF,24.0,1,0,0
+Tetê,Leicester City,BRA,FW,22.0,1,1,0
+Victor Bernth Kristiansen,Leicester City,DEN,DF,20.0,1,0,0
+Çağlar Söyüncü,Leicester City,TUR,DF,26.0,2,0,0
+Lewis Brunt,Leicester City,ENG,DF,22.0,1,0,0
+Sammy Braybroke,Leicester City,MEX,MF,,0,0,0
+Samuel Braybrooke,Leicester City,ENG,MF,18.0,0,0,0
+Daniel Iversen,Leicester City,DEN,GK,25.0,0,0,0
+Wanya Marcal-Madivadua,Leicester City,ENG,MF,20.0,0,0,0
+Kasey McAteer,Leicester City,ENG,MF,21.0,0,0,0
+Jannik Vestergaard,Leicester City,DEN,DF,30.0,0,0,0
+Joe Wormleighton,Leicester City,ENG,MF,19.0,0,0,0
+Max Kilman,Wolves,ENG,DF,25.0,21,0,0
+José Sá,Wolves,POR,GK,30.0,21,0,0
+Rúben Neves,Wolves,POR,MF,25.0,20,5,0
+Nathan Collins,Wolves,IRL,DF,21.0,17,0,0
+Matheus Nunes,Wolves,POR,MF,24.0,18,0,1
+Daniel Podence,Wolves,POR,"FW,MF",27.0,21,5,0
+João Moutinho,Wolves,POR,MF,36.0,19,0,2
+Nélson Semedo,Wolves,POR,DF,29.0,19,0,1
+Jonny Castro,Wolves,ESP,DF,28.0,14,0,0
+Hugo Bueno,Wolves,ESP,DF,20.0,11,0,1
+Hwang Hee-chan,Wolves,KOR,FW,27.0,17,0,1
+Rayan Aït Nouri,Wolves,FRA,DF,21.0,16,1,0
+Gonçalo Guedes,Wolves,POR,"FW,MF",26.0,13,1,1
+Diego Costa,Wolves,ESP,FW,34.0,9,0,0
+Pedro Neto,Wolves,POR,"FW,MF",22.0,8,0,0
+Adama Traoré,Wolves,ESP,"FW,MF",27.0,18,1,1
+Boubacar Traoré,Wolves,MLI,MF,21.0,8,0,1
+Raúl Jiménez,Wolves,MEX,FW,31.0,7,0,0
+Toti Gomes,Wolves,POR,DF,24.0,7,0,0
+Leander Dendoncker,Wolves,BEL,MF,27.0,4,0,0
+Matheus Cunha,Wolves,BRA,FW,23.0,4,0,0
+Morgan Gibbs-White,Wolves,ENG,"FW,MF",23.0,2,0,0
+Mario Lemina,Wolves,GAB,MF,29.0,3,0,0
+Joseph Hodge,Wolves,IRL,MF,20.0,5,0,0
+Pablo Sarabia,Wolves,ESP,FW,30.0,2,0,0
+Craig Dawson,Wolves,ENG,DF,32.0,1,1,0
+Sasa Kalajdzic,Wolves,AUT,FW,25.0,1,0,0
+Chem Campbell,Wolves,WAL,"FW,MF",20.0,5,0,0
+Dexter Lembikisa,Wolves,JAM,DF,19.0,1,0,0
+Connor Ronan,Wolves,IRL,MF,24.0,1,0,0
+Daniel Bentley,Wolves,ENG,GK,29.0,0,0,0
+Willy Boly,Wolves,CIV,DF,32.0,0,0,0
+Conor Coady,Wolves,ENG,"DF,MF",29.0,0,0,0
+Luke Cundle,Wolves,ENG,MF,20.0,0,0,0
+Nathan Fraser,Wolves,IRL,FW,17.0,0,0,0
+Harvey Griffiths,Wolves,ENG,MF,19.0,0,0,0
+Yerson Mosquera,Wolves,COL,DF,21.0,0,0,0
+Matija Šarkić,Wolves,MNE,GK,25.0,0,0,0
+Declan Rice,West Ham,ENG,MF,24.0,21,1,1
+Jarrod Bowen,West Ham,ENG,"FW,MF",26.0,21,4,0
+Łukasz Fabiański,West Ham,POL,GK,37.0,21,0,0
+Tomáš Souček,West Ham,CZE,MF,27.0,21,1,1
+Aaron Cresswell,West Ham,ENG,DF,33.0,18,0,0
+Thilo Kehrer,West Ham,GER,DF,26.0,16,0,0
+Kurt Zouma,West Ham,FRA,DF,28.0,15,1,0
+Vladimír Coufal,West Ham,CZE,DF,30.0,15,0,0
+Lucas Paquetá,West Ham,BRA,MF,25.0,14,2,2
+Saïd Benrahma,West Ham,ALG,"FW,MF",27.0,19,3,1
+Pablo Fornals,West Ham,ESP,"FW,MF",26.0,18,1,0
+Gianluca Scamacca,West Ham,ITA,FW,24.0,16,3,0
+Michail Antonio,West Ham,JAM,FW,32.0,20,2,2
+Craig Dawson,West Ham,ENG,DF,32.0,8,0,0
+Ben Johnson,West Ham,ENG,DF,23.0,9,0,0
+Emerson Palmieri,West Ham,ITA,"DF,MF",28.0,10,0,0
+Nayef Aguerd,West Ham,MAR,DF,26.0,5,0,0
+Angelo Ogbonna,West Ham,ITA,DF,34.0,6,0,0
+Flynn Downes,West Ham,ENG,MF,24.0,9,0,0
+Manuel Lanzini,West Ham,ARG,"MF,FW",29.0,5,0,0
+Maxwel Cornet,West Ham,CIV,FW,26.0,5,0,0
+Alphonse Areola,West Ham,FRA,GK,29.0,2,0,0
+Danny Ings,West Ham,ENG,FW,30.0,2,0,0
+Divin Mubama,West Ham,ENG,FW,18.0,1,0,0
+Conor Coventry,West Ham,IRL,"MF,FW",22.0,1,0,0
+Joseph Anang,West Ham,ENG,GK,22.0,0,0,0
+Harrison Ashby,West Ham,SCO,DF,21.0,0,0,0
+Krisztián Hegyi,West Ham,HUN,GK,20.0,0,0,0
+Armstrong Okoflex,West Ham,IRL,MF,20.0,0,0,0
+Darren Randolph,West Ham,IRL,GK,35.0,0,0,0
+Nikola Vlašić,West Ham,CRO,"FW,MF",25.0,0,0,0
+Illan Meslier,Leeds United,FRA,GK,22.0,20,0,0
+Robin Koch,Leeds United,GER,DF,26.0,19,0,0
+Pascal Struijk,Leeds United,NED,DF,23.0,19,2,1
+Brenden Aaronson,Leeds United,USA,"MF,FW",22.0,19,1,2
+Marc Roca,Leeds United,ESP,MF,26.0,20,1,1
+Tyler Adams,Leeds United,USA,MF,23.0,18,0,0
+Rodrigo,Leeds United,ESP,"FW,MF",31.0,18,10,1
+Jack Harrison,Leeds United,ENG,"FW,MF",26.0,18,1,4
+Rasmus Nissen,Leeds United,DEN,DF,25.0,14,0,1
+Liam Cooper,Leeds United,SCO,DF,31.0,13,1,0
+Diego Llorente,Leeds United,ESP,DF,29.0,8,0,0
+Degnand Gnonto,Leeds United,ITA,"FW,MF",19.0,9,1,1
+Luis Sinisterra,Leeds United,COL,FW,23.0,11,2,0
+Luke Ayling,Leeds United,ENG,DF,31.0,13,0,1
+Crysencio Summerville,Leeds United,NED,FW,21.0,13,4,1
+Patrick Bamford,Leeds United,ENG,FW,29.0,13,1,1
+Sam Greenwood,Leeds United,ENG,"MF,FW",21.0,11,1,2
+Maximilian Wöber,Leeds United,AUT,DF,25.0,3,0,0
+Daniel James,Leeds United,WAL,FW,25.0,4,0,0
+Adam Forshaw,Leeds United,ENG,MF,31.0,5,0,0
+Joe Gelhardt,Leeds United,ENG,FW,20.0,15,0,2
+Junior Firpo,Leeds United,ESP,DF,26.0,4,0,0
+Cody Drameh,Leeds United,ENG,DF,21.0,1,0,0
+Mateusz Klich,Leeds United,POL,"MF,FW",32.0,14,0,0
+Weston McKennie,Leeds United,USA,MF,24.0,1,0,0
+Georginio Rutter,Leeds United,FRA,FW,20.0,1,0,0
+Darko Gyabi,Leeds United,ENG,FW,18.0,1,0,0
+Mateo Fernández,Leeds United,ESP,MF,19.0,1,0,0
+Leo Fuhr Hjelde,Leeds United,NOR,DF,19.0,0,0,0
+Archie Gray,Leeds United,ENG,MF,16.0,0,0,0
+Kristoffer Klaesson,Leeds United,NOR,GK,22.0,0,0,0
+Sonny Perkins,Leeds United,ENG,FW,18.0,0,0,0
+Joel Robles,Leeds United,ESP,GK,32.0,0,0,0
+James Tarkowski,Everton,ENG,DF,30.0,21,1,0
+Alex Iwobi,Everton,NGA,MF,26.0,21,1,5
+Vitaliy Mykolenko,Everton,UKR,"DF,MF",23.0,21,0,0
+Jordan Pickford,Everton,ENG,GK,28.0,20,0,1
+Conor Coady,Everton,ENG,DF,29.0,19,1,1
+Demarai Gray,Everton,ENG,"FW,MF",26.0,20,3,1
+Amadou Onana,Everton,BEL,MF,21.0,19,1,1
+Idrissa Gana Gueye,Everton,SEN,MF,33.0,16,0,1
+Anthony Gordon,Everton,ENG,FW,21.0,16,3,0
+Nathan Patterson,Everton,SCO,"DF,MF",21.0,13,0,0
+Dwight McNeil,Everton,ENG,"FW,DF",23.0,19,2,2
+Séamus Coleman,Everton,IRL,DF,34.0,13,0,0
+Dominic Calvert-Lewin,Everton,ENG,FW,25.0,11,1,0
+Neal Maupay,Everton,FRA,FW,26.0,14,1,0
+Tom Davies,Everton,ENG,MF,24.0,10,0,0
+Mason Holgate,Everton,ENG,DF,26.0,4,0,0
+Abdoulaye Doucouré,Everton,MLI,MF,30.0,11,0,0
+Yerry Mina,Everton,COL,DF,28.0,3,1,0
+Ben Godfrey,Everton,ENG,DF,25.0,4,0,0
+Salomón Rondón,Everton,VEN,FW,33.0,7,0,0
+Asmir Begović,Everton,BIH,GK,35.0,1,0,0
+James Garner,Everton,ENG,MF,21.0,6,0,0
+Dele Alli,Everton,ENG,MF,26.0,2,0,0
+Isaac Price,Everton,NIR,MF,19.0,1,0,0
+Rúben Vinagre,Everton,POR,"DF,MF",23.0,2,0,0
+Thomas Cannon,Everton,IRL,FW,20.0,2,0,0
+Michael Keane,Everton,ENG,DF,30.0,1,0,0
+Ellis Simms,Everton,ENG,FW,22.0,2,0,0
+Kyle Alex John,Everton,ENG,DF,21.0,0,0,0
+Allan,Everton,BRA,"DF,MF",32.0,0,0,0
+Jean-Philippe Gbamin,Everton,CIV,"DF,MF",27.0,0,0,0
+André Gomes,Everton,POR,MF,29.0,0,0,0
+Eldin Jakupović,Everton,SUI,GK,38.0,0,0,0
+Stanley Mills,Everton,ENG,MF,19.0,0,0,0
+Lewis Warrington,Everton,ENG,MF,20.0,0,0,0
+Reece Welch,Everton,ENG,DF,19.0,0,0,0
+Jefferson Lerma,Bournemouth,COL,"MF,DF",28.0,21,2,0
+Adam Smith,Bournemouth,ENG,DF,31.0,20,0,1
+Philip Billing,Bournemouth,DEN,"MF,FW",26.0,20,4,1
+Chris Mepham,Bournemouth,WAL,DF,25.0,17,0,0
+Lewis Cook,Bournemouth,ENG,MF,26.0,19,0,2
+Marcos Senesi,Bournemouth,ARG,DF,25.0,17,0,0
+Dominic Solanke,Bournemouth,ENG,"FW,MF",25.0,16,3,3
+Marcus Tavernier,Bournemouth,ENG,"MF,FW",23.0,15,2,4
+Jordan Zemura,Bournemouth,ZIM,DF,23.0,15,0,1
+Kieffer Moore,Bournemouth,WAL,FW,30.0,20,4,0
+Ryan Christie,Bournemouth,SCO,"MF,FW",27.0,19,1,0
+Neto,Bournemouth,BRA,GK,33.0,11,0,0
+Mark Travers,Bournemouth,IRL,GK,23.0,11,0,0
+Lloyd Kelly,Bournemouth,ENG,DF,24.0,10,0,2
+Jaidon Anthony,Bournemouth,ENG,"MF,FW",23.0,16,3,0
+Ryan Fredericks,Bournemouth,ENG,DF,30.0,8,0,0
+Jack Stacey,Bournemouth,ENG,DF,26.0,9,0,0
+Ben Pearson,Bournemouth,ENG,MF,28.0,7,0,0
+Jack Stephens,Bournemouth,ENG,DF,29.0,4,0,0
+Dango Ouattara,Bournemouth,BFA,MF,20.0,2,0,1
+Joe Rothwell,Bournemouth,ENG,"MF,DF",28.0,7,0,0
+Antoine Semenyo,Bournemouth,GHA,FW,23.0,1,0,0
+Hamed Junior Traorè,Bournemouth,CIV,FW,22.0,1,0,0
+Siriki Dembélé,Bournemouth,CIV,"FW,MF",26.0,6,0,0
+Junior Stanislas,Bournemouth,ENG,MF,33.0,4,0,0
+Jamal Lowe,Bournemouth,JAM,"MF,FW",28.0,2,0,0
+Matías Viña,Bournemouth,URU,MF,25.0,1,0,0
+Owen Bevan,Bournemouth,WAL,DF,19.0,1,0,0
+Emiliano Marcondes,Bournemouth,DEN,MF,27.0,1,0,0
+Daniel Adu-Adjei,Bournemouth,ENG,FW,17.0,0,0,0
+Michael DaCosta,Bournemouth,ESP,FW,17.0,0,0,0
+Will Dennis,Bournemouth,ENG,GK,22.0,0,0,0
+Ben Greenwood,Bournemouth,IRL,DF,19.0,0,0,0
+James Hill,Bournemouth,ENG,DF,21.0,0,0,0
+Cameron Plain,Bournemouth,ENG,GK,20.0,0,0,0
+Euan Pollock,Bournemouth,ENG,FW,20.0,0,0,0
+Dominic Sadi,Bournemouth,ENG,MF,19.0,0,0,0
+Christian Saydee,Bournemouth,LBR,FW,20.0,0,0,0
+Maxwell Wellings,Bournemouth,ENG,DF,18.0,0,0,0
+Gavin Bazunu,Southampton,IRL,GK,20.0,21,0,0
+James Ward-Prowse,Southampton,ENG,MF,28.0,21,5,2
+Mohammed Salisu,Southampton,GHA,DF,23.0,20,0,1
+Che Adams,Southampton,SCO,FW,26.0,20,4,2
+Mohamed Elyounoussi,Southampton,NOR,"MF,FW",28.0,20,0,1
+Kyle Walker-Peters,Southampton,ENG,DF,25.0,16,1,0
+Romain Perraud,Southampton,FRA,DF,25.0,19,2,2
+Armel Bella Kotchap,Southampton,GER,DF,21.0,13,0,1
+Adam Armstrong,Southampton,ENG,FW,25.0,20,1,1
+Joe Aribo,Southampton,NGA,"MF,FW",26.0,18,2,0
+Roméo Lavia,Southampton,BEL,MF,19.0,12,1,0
+Ibrahima Diallo,Southampton,FRA,MF,23.0,13,0,0
+Stuart Armstrong,Southampton,SCO,"MF,FW",30.0,17,1,0
+Duje Ćaleta-Car,Southampton,CRO,DF,26.0,10,0,0
+Lyanco,Southampton,BRA,DF,26.0,12,0,0
+Moussa Djenepo,Southampton,MLI,"DF,FW",24.0,12,0,1
+Ainsley Maitland-Niles,Southampton,ENG,"MF,DF",25.0,10,0,0
+Samuel Edozie,Southampton,ENG,"FW,MF",20.0,14,0,0
+Sekou Mara,Southampton,FRA,"FW,MF",20.0,14,0,1
+Jan Bednarek,Southampton,POL,DF,26.0,3,0,0
+Juan Larios,Southampton,ESP,DF,19.0,5,0,0
+Theo Walcott,Southampton,ENG,"FW,MF",33.0,4,0,0
+James Bree,Southampton,ENG,DF,25.0,1,0,0
+Oriol Romeu,Southampton,ESP,MF,31.0,1,0,0
+Yan Valery,Southampton,TUN,DF,23.0,1,0,0
+Carlos Alcaraz,Southampton,ARG,MF,20.0,2,0,0
+Jack Stephens,Southampton,ENG,DF,29.0,2,0,0
+Paul Onuachu,Southampton,NGA,FW,28.0,1,0,0
+Kamaldeen Sulemana,Southampton,GHA,MF,20.0,1,0,0
+Mislav Oršić,Southampton,CRO,MF,30.0,1,0,0
+Nathan Redmond,Southampton,ENG,DF,28.0,1,0,0
+Willy Caballero,Southampton,ARG,GK,41.0,0,0,0
+Ryan Finnigan,Southampton,ENG,MF,19.0,0,0,0
+Alex McCarthy,Southampton,ENG,GK,33.0,0,0,0
+Jimmy Morgan,Southampton,ENG,FW,17.0,0,0,0
+Lewis Payne,Southampton,ENG,DF,18.0,0,0,0
+Alex Meret,Napoli,ITA,GK,25.0,21,0,0
+Giovanni Di Lorenzo,Napoli,ITA,DF,29.0,21,1,3
+Kim Min-jae,Napoli,KOR,DF,26.0,20,2,0
+Stanislav Lobotka,Napoli,SVK,MF,28.0,21,1,1
+Andre-Frank Zambo Anguissa,Napoli,CMR,MF,27.0,19,2,4
+Victor Osimhen,Napoli,NGA,FW,24.0,17,16,3
+Mário Rui,Napoli,POR,DF,31.0,17,0,6
+Piotr Zieliński,Napoli,POL,MF,28.0,21,3,6
+Khvicha Kvaratskhelia,Napoli,GEO,FW,21.0,17,8,9
+Amir Rrahmani,Napoli,KVX,DF,28.0,14,1,0
+Hirving Lozano,Napoli,MEX,FW,27.0,20,3,3
+Matteo Politano,Napoli,ITA,FW,29.0,19,3,3
+Juan Jesus,Napoli,BRA,DF,31.0,7,1,0
+Giacomo Raspadori,Napoli,ITA,"FW,MF",22.0,14,1,0
+Elif Elmas,Napoli,MKD,"FW,MF",23.0,20,5,1
+Tanguy Ndombele,Napoli,FRA,MF,26.0,19,0,0
+Mathías Olivera,Napoli,URU,DF,25.0,15,1,0
+Leo Skiri Østigård,Napoli,NOR,DF,23.0,4,0,0
+Giovanni Simeone,Napoli,ARG,FW,27.0,12,3,0
+Alessio Zerbin,Napoli,ITA,FW,23.0,4,0,0
+Gianluca Gaetano,Napoli,ITA,MF,22.0,3,0,1
+Diego Demme,Napoli,GER,MF,31.0,3,0,0
+Adam Ounas,Napoli,ALG,FW,26.0,2,0,0
+Alessandro Zanoli,Napoli,ITA,DF,22.0,1,0,0
+Bartosz Bereszyński,Napoli,POL,"DF,FW",30.0,0,0,0
+Pierluigi Gollini,Napoli,ITA,GK,27.0,0,0,0
+Hubert Idasiak,Napoli,POL,GK,21.0,0,0,0
+Davide Marfella,Napoli,ITA,GK,23.0,0,0,0
+Salvatore Sirigu,Napoli,ITA,GK,36.0,0,0,0
+Karim Zedadka,Napoli,FRA,DF,22.0,0,0,0
+Milan Škriniar,Inter,SVK,DF,27.0,20,0,0
+Lautaro Martínez,Inter,ARG,FW,25.0,21,12,3
+Nicolò Barella,Inter,ITA,MF,26.0,20,5,5
+Hakan Çalhanoğlu,Inter,TUR,MF,29.0,20,2,5
+Federico Dimarco,Inter,ITA,DF,25.0,21,3,1
+Edin Džeko,Inter,BIH,FW,36.0,21,7,3
+Alessandro Bastoni,Inter,ITA,DF,23.0,17,0,2
+Denzel Dumfries,Inter,NED,DF,26.0,18,1,2
+André Onana,Inter,CMR,GK,26.0,13,0,0
+Henrikh Mkhitaryan,Inter,ARM,MF,34.0,18,1,1
+Francesco Acerbi,Inter,ITA,DF,34.0,14,0,1
+Stefan de Vrij,Inter,NED,DF,31.0,13,1,0
+Matteo Darmian,Inter,ITA,DF,33.0,16,1,2
+Samir Handanović,Inter,SVN,GK,38.0,8,0,0
+Marcelo Brozović,Inter,CRO,MF,30.0,11,2,0
+Joaquín Correa,Inter,ARG,FW,28.0,17,3,1
+Romelu Lukaku,Inter,BEL,FW,29.0,9,1,1
+Roberto Gagliardini,Inter,ITA,MF,28.0,10,0,0
+Kristjan Asllani,Inter,ALB,MF,20.0,12,0,0
+Robin Gosens,Inter,GER,DF,28.0,18,1,0
+Danilo D'Ambrosio,Inter,ITA,DF,34.0,4,0,0
+Raoul Bellanova,Inter,ITA,"DF,MF",22.0,10,0,0
+Valentin Carboni,Inter,ITA,"MF,FW",17.0,2,0,0
+Lucien Agoume,Inter,FRA,MF,20.0,0,0,0
+Nikolaos Botis,Inter,GRE,GK,18.0,0,0,0
+Gabriel Brazão,Inter,BRA,GK,22.0,0,0,0
+Alex Cordaz,Inter,ITA,GK,40.0,0,0,0
+Dennis Curatolo,Inter,ITA,FW,18.0,0,0,0
+Alessandro Fontanarosa,Inter,ITA,DF,20.0,0,0,0
+Eddie Salcedo,Inter,ITA,FW,21.0,0,0,0
+Aleksandar Stanković,Inter,SRB,FW,17.0,0,0,0
+Mattia Zanotti,Inter,ITA,DF,20.0,0,0,0
+Rui Patrício,Roma,POR,GK,34.0,21,0,0
+Bryan Cristante,Roma,ITA,MF,27.0,21,1,0
+Gianluca Mancini,Roma,ITA,DF,26.0,21,0,1
+Chris Smalling,Roma,ENG,DF,33.0,21,3,0
+Roger Ibanez,Roma,BRA,DF,24.0,20,3,0
+Lorenzo Pellegrini,Roma,ITA,MF,26.0,18,2,5
+Tammy Abraham,Roma,ENG,FW,25.0,21,6,3
+Paulo Dybala,Roma,ARG,"MF,FW",29.0,15,7,6
+Nicola Zalewski,Roma,POL,DF,21.0,17,0,1
+Nicolò Zaniolo,Roma,ITA,"MF,FW",23.0,13,1,0
+Nemanja Matić,Roma,SRB,MF,34.0,21,1,1
+Zeki Çelik,Roma,TUR,DF,25.0,15,0,0
+Leonardo Spinazzola,Roma,ITA,DF,29.0,13,0,1
+Rick Karsdorp,Roma,NED,DF,27.0,9,0,0
+Mohamed Camara,Roma,GUI,MF,25.0,9,0,0
+Stephan El Shaarawy,Roma,ITA,"DF,MF",30.0,15,3,0
+Andrea Belotti,Roma,ITA,FW,29.0,17,0,0
+Cristian Volpato,Roma,ITA,MF,19.0,5,1,1
+Marash Kumbulla,Roma,ALB,DF,23.0,4,0,0
+Edoardo Bove,Roma,ITA,MF,20.0,10,0,0
+Benjamin Tahirovic,Roma,SWE,MF,19.0,5,0,0
+Eldor Shomurodov,Roma,UZB,FW,27.0,6,0,0
+Matías Viña,Roma,URU,DF,25.0,3,0,0
+Georginio Wijnaldum,Roma,NED,MF,32.0,1,0,0
+Ola Solbakken,Roma,NOR,FW,24.0,2,0,0
+Diego Llorente,Roma,ESP,DF,29.0,1,0,0
+Felix Afena-Gyan,Roma,GHA,FW,20.0,0,0,0
+Pietro Boer,Roma,ITA,GK,20.0,0,0,0
+Luigi Cherubini,Roma,ITA,FW,19.0,0,0,0
+Giacomo Faticanti,Roma,ITA,MF,18.0,0,0,0
+Dimitrios Keramitsis,Roma,GRE,DF,18.0,0,0,0
+Jordan Majchrzak,Roma,POL,FW,18.0,0,0,0
+Filippo Missori,Roma,ITA,DF,18.0,0,0,0
+Jan Oliveras,Roma,ESP,DF,18.0,0,0,0
+Mile Svilar,Roma,SRB,GK,23.0,0,0,0
+Filippo Tripi,Roma,ITA,MF,21.0,0,0,0
+Ivan Provedel,Lazio,ITA,GK,28.0,21,0,0
+Adam Marušić,Lazio,MNE,DF,30.0,21,0,1
+Alessio Romagnoli,Lazio,ITA,DF,28.0,20,1,0
+Sergej Milinković-Savić,Lazio,SRB,MF,27.0,20,4,8
+Felipe Anderson,Lazio,BRA,FW,29.0,21,6,2
+Mattia Zaccagni,Lazio,ITA,"FW,MF",27.0,19,8,4
+Danilo Cataldi,Lazio,ITA,MF,28.0,19,0,1
+Manuel Lazzari,Lazio,ITA,DF,29.0,17,0,0
+Nicolò Casale,Lazio,ITA,DF,24.0,14,1,1
+Ciro Immobile,Lazio,ITA,FW,32.0,16,7,3
+Luis Alberto,Lazio,ESP,MF,30.0,18,4,3
+Pedro,Lazio,ESP,FW,35.0,19,3,2
+Matías Vecino,Lazio,URU,MF,31.0,19,1,0
+Patric,Lazio,ESP,DF,29.0,10,0,0
+Elseid Hysaj,Lazio,ALB,DF,28.0,17,0,1
+Toma Bašić,Lazio,CRO,MF,26.0,14,0,0
+Marcos Antônio,Lazio,BRA,MF,22.0,11,0,0
+Matteo Cancellieri,Lazio,ITA,FW,20.0,14,0,0
+Luka Romero,Lazio,ARG,FW,18.0,5,1,0
+Luís Maximiano,Lazio,POR,GK,24.0,1,0,0
+Mario Gila,Lazio,ESP,DF,22.0,4,0,0
+Ștefan Radu,Lazio,ROU,DF,36.0,0,0,0
+Marius Adamonis,Lazio,LTU,GK,25.0,0,0,0
+Djavan Anderson,Lazio,NED,"DF,MF",27.0,0,0,0
+Marco Bertini,Lazio,ITA,MF,20.0,0,0,0
+Mohamed Fares,Lazio,ALG,"DF,FW",26.0,0,0,0
+Romano Floriani,Lazio,ITA,DF,20.0,0,0,0
+Dimitrije Kamenović,Lazio,SRB,DF,22.0,0,0,0
+Federico Magro,Lazio,ITA,GK,18.0,0,0,0
+Raúl Moro,Lazio,ESP,FW,20.0,0,0,0
+Luca Pellegrini,Lazio,ITA,"DF,MF",23.0,0,0,0
+Teun Koopmeiners,Atalanta,NED,MF,24.0,20,6,3
+Marten de Roon,Atalanta,NED,MF,31.0,19,0,1
+Rafael Tolói,Atalanta,ITA,DF,32.0,16,1,1
+Hans Hateboer,Atalanta,NED,DF,29.0,16,1,1
+Juan Musso,Atalanta,ARG,GK,28.0,15,0,0
+Ademola Lookman,Atalanta,NGA,"FW,MF",25.0,20,12,3
+Giorgio Scalvini,Atalanta,ITA,"DF,MF",19.0,17,2,0
+Merih Demiral,Atalanta,TUR,DF,24.0,17,1,0
+Joakim Mæhle,Atalanta,DEN,"DF,MF",25.0,19,2,1
+Mario Pašalić,Atalanta,CRO,"MF,FW",27.0,19,2,2
+Éderson,Atalanta,BRA,"MF,FW",23.0,18,1,0
+Rasmus Højlund,Atalanta,DEN,FW,20.0,17,4,1
+Caleb Okoli,Atalanta,ITA,DF,21.0,13,0,0
+Duván Zapata,Atalanta,COL,FW,31.0,14,1,1
+Brandon Soppy,Atalanta,FRA,DF,20.0,10,0,3
+Marco Sportiello,Atalanta,ITA,GK,30.0,7,0,0
+Luis Muriel,Atalanta,COL,FW,31.0,13,1,2
+Ruslan Malinovskyi,Atalanta,UKR,"MF,FW",29.0,15,1,2
+Berat Djimsiti,Atalanta,ALB,DF,29.0,9,0,0
+José Luis Palomino,Atalanta,ARG,DF,33.0,5,1,0
+Matteo Ruggeri,Atalanta,ITA,"DF,MF",20.0,10,0,0
+Jeremie Boga,Atalanta,CIV,"MF,FW",26.0,11,1,5
+Davide Zappacosta,Atalanta,ITA,"DF,MF",30.0,5,0,1
+Nadir Zortea,Atalanta,ITA,"DF,MF",23.0,9,1,0
+Tommaso Bertini,Atalanta,ITA,GK,19.0,0,0,0
+Francesco Rossi,Atalanta,ITA,GK,31.0,0,0,0
+Lukáš Vorlický,Atalanta,CZE,FW,21.0,0,0,0
+Fikayo Tomori,Milan,ENG,DF,25.0,19,1,0
+Theo Hernández,Milan,FRA,DF,25.0,18,2,2
+Pierre Kalulu,Milan,FRA,DF,22.0,21,1,0
+Sandro Tonali,Milan,ITA,MF,22.0,18,2,4
+Rafael Leão,Milan,POR,"FW,MF",23.0,20,8,5
+Ismaël Bennacer,Milan,ALG,MF,25.0,19,1,1
+Olivier Giroud,Milan,FRA,FW,36.0,19,6,4
+Ciprian Tătărușanu,Milan,ROU,GK,36.0,14,0,1
+Brahim Díaz,Milan,ESP,MF,23.0,18,4,3
+Davide Calabria,Milan,ITA,DF,26.0,13,1,2
+Junior Messias,Milan,BRA,"FW,DF",31.0,15,2,2
+Rade Krunić,Milan,BIH,"MF,FW",29.0,10,0,1
+Mike Maignan,Milan,FRA,GK,27.0,7,0,0
+Alexis Saelemaekers,Milan,BEL,"FW,DF",23.0,13,0,1
+Simon Kjær,Milan,DEN,DF,33.0,10,0,0
+Charles De Ketelaere,Milan,BEL,"MF,FW",21.0,17,0,1
+Matteo Gabbia,Milan,ITA,DF,23.0,10,0,0
+Tommaso Pobega,Milan,ITA,MF,23.0,12,1,0
+Divock Origi,Milan,BEL,FW,27.0,14,2,1
+Ante Rebić,Milan,CRO,FW,29.0,13,3,2
+Sergiño Dest,Milan,USA,DF,22.0,8,0,0
+Fodé Ballo-Touré,Milan,SEN,DF,26.0,3,1,0
+Malick Thiaw,Milan,GER,DF,21.0,5,0,0
+Yacine Adli,Milan,FRA,"MF,FW",22.0,4,0,0
+Alessandro Florenzi,Milan,ITA,DF,31.0,2,0,0
+Aster Vranckx,Milan,BEL,MF,20.0,7,0,0
+Marko Lazetić,Milan,SRB,FW,19.0,1,0,0
+Tiemoué Bakayoko,Milan,FRA,MF,28.0,0,0,0
+Andrea Bozzolan,Milan,ITA,DF,18.0,0,0,0
+Andreas Jungdal,Milan,DEN,GK,20.0,0,0,0
+Antonio Mirante,Milan,ITA,GK,39.0,0,0,0
+Lapo Nava,Milan,ITA,GK,19.0,0,0,0
+Devis Vásquez,Milan,COL,GK,24.0,0,0,0
+Vanja Milinković-Savić,Torino,SRB,GK,25.0,21,0,0
+Nikola Vlašić,Torino,CRO,"MF,FW",25.0,21,4,2
+Koffi Djidji,Torino,CIV,DF,30.0,18,1,0
+Alessandro Buongiorno,Torino,ITA,DF,23.0,17,0,0
+Karol Linetty,Torino,POL,MF,28.0,20,1,0
+Perr Schuurs,Torino,NED,DF,23.0,15,0,2
+Ricardo Rodríguez,Torino,SUI,DF,30.0,18,0,0
+Samuele Ricci,Torino,ITA,MF,21.0,15,1,1
+Saša Lukić,Torino,SRB,MF,26.0,16,2,0
+Aleksei Miranchuk,Torino,RUS,MF,27.0,15,4,2
+Valentino Lazaro,Torino,AUT,DF,26.0,15,0,2
+Antonio Sanabria,Torino,PAR,FW,26.0,16,4,1
+Wilfried Singo,Torino,CIV,DF,22.0,15,0,1
+Mërgim Vojvoda,Torino,KVX,DF,28.0,15,0,4
+Nemanja Radonjić,Torino,SRB,"MF,FW",26.0,18,2,1
+Ola Aina,Torino,NGA,DF,26.0,12,1,1
+Demba Seck,Torino,SEN,"FW,MF",21.0,10,0,0
+David Zima,Torino,CZE,DF,22.0,9,0,0
+Pietro Pellegri,Torino,ITA,FW,21.0,11,1,0
+Michel Ndary Adopo,Torino,FRA,"MF,DF",22.0,6,0,0
+Yann Karamoh,Torino,FRA,"FW,MF",24.0,8,1,0
+Emirhan İlkhan,Torino,TUR,MF,18.0,4,0,0
+Brian Bayeye,Torino,FRA,DF,22.0,1,0,0
+Jacopo Segre,Torino,ITA,DF,25.0,1,0,0
+Ronaldo Vieira,Torino,GNB,MF,24.0,1,0,0
+Etrit Berisha,Torino,ALB,GK,33.0,0,0,0
+Ali Dembélé,Torino,FRA,DF,19.0,0,0,0
+Simone Edera,Torino,ITA,MF,26.0,0,0,0
+Matteo Fiorenza,Torino,,GK,19.0,0,0,0
+Matt Garbett,Torino,NZL,MF,20.0,0,0,0
+Luca Gemello,Torino,ITA,GK,22.0,0,0,0
+Gvidas Gineitis,Torino,LTU,MF,18.0,0,0,0
+Andrew Gravillon,Torino,GLP,DF,25.0,0,0,0
+Caumenan N'Guessan,Torino,FRA,DF,19.0,0,0,0
+Sebastian Wade,Torino,ESP,DF,19.0,0,0,0
+Marco Silvestri,Udinese,ITA,GK,31.0,21,0,0
+Walace,Udinese,BRA,MF,27.0,21,0,0
+Nehuén Pérez,Udinese,ARG,DF,22.0,19,1,0
+Roberto Pereyra,Udinese,ARG,"DF,MF",32.0,18,2,5
+Iyenoma Udogie,Udinese,ITA,DF,20.0,17,2,2
+Jaka Bijol,Udinese,SVN,DF,24.0,17,2,0
+Rodrigo Becão,Udinese,BRA,DF,27.0,15,1,1
+Gerard Deulofeu,Udinese,ESP,FW,28.0,16,2,6
+Isaac Success,Udinese,NGA,FW,27.0,21,0,4
+Beto,Udinese,GNB,FW,25.0,21,7,1
+Sandi Lovrić,Udinese,SVN,MF,24.0,20,2,1
+Jean-Victor Makengo,Udinese,FRA,MF,24.0,16,0,1
+Tolgay Arslan,Udinese,GER,MF,32.0,20,1,0
+Enzo Ebosse,Udinese,CMR,DF,23.0,18,0,0
+Lazar Samardzic,Udinese,GER,MF,20.0,20,4,1
+Kingsley Ehizibue,Udinese,NED,DF,27.0,16,1,0
+Adam Masina,Udinese,MAR,DF,29.0,4,1,0
+Bram Nuytinck,Udinese,NED,DF,32.0,6,0,0
+Brandon Soppy,Udinese,FRA,DF,20.0,1,0,0
+Ilija Nestorovski,Udinese,MKD,"FW,MF",32.0,10,1,1
+Mato Jajalo,Udinese,BIH,MF,34.0,3,0,0
+Festy Ebosele,Udinese,IRL,DF,20.0,5,0,0
+Florian Thauvin,Udinese,FRA,"MF,DF",30.0,1,0,0
+Simone Pafundi,Udinese,ITA,MF,16.0,1,0,0
+Vivaldo Semedo,Udinese,POR,FW,18.0,1,0,0
+James Abankwah,Udinese,IRL,DF,19.0,0,0,0
+Filip Benković,Udinese,CRO,DF,25.0,0,0,0
+Leonardo Buta,Udinese,POR,DF,20.0,0,0,0
+Axel Guessand,Udinese,FRA,DF,18.0,0,0,0
+Daniele Padelli,Udinese,ITA,GK,37.0,0,0,0
+Martin Palumbo,Udinese,NOR,MF,20.0,0,0,0
+Edoardo Piana,Udinese,ITA,GK,19.0,0,0,0
+Łukasz Skorupski,Bologna,POL,GK,31.0,21,0,0
+Jhon Lucumí,Bologna,COL,DF,24.0,18,0,1
+Gary Medel,Bologna,CHI,"MF,DF",35.0,17,0,1
+Nicolás Domínguez,Bologna,ARG,MF,24.0,18,1,2
+Adama Soumaoro,Bologna,FRA,DF,30.0,15,0,0
+Stefan Posch,Bologna,AUT,DF,25.0,14,4,1
+Marko Arnautović,Bologna,AUT,FW,33.0,14,8,0
+Jerdy Schouten,Bologna,NED,MF,26.0,17,0,1
+Andrea Cambiaso,Bologna,ITA,DF,22.0,19,0,2
+Riccardo Orsolini,Bologna,ITA,FW,26.0,18,5,3
+Lewis Ferguson,Bologna,SCO,MF,23.0,15,3,0
+Roberto Soriano,Bologna,ITA,"FW,MF",32.0,20,0,3
+Charalambos Lykogiannis,Bologna,GRE,DF,29.0,16,1,0
+Musa Barrow,Bologna,GAM,"FW,MF",24.0,15,2,1
+Michel Aebischer,Bologna,SUI,"FW,MF",26.0,18,1,0
+Lorenzo De Silvestri,Bologna,ITA,DF,34.0,9,0,0
+Nicola Sansone,Bologna,ITA,FW,31.0,10,1,0
+Joshua Zirkzee,Bologna,NED,FW,21.0,9,1,1
+Nikola Moro,Bologna,CRO,MF,24.0,9,0,1
+Kevin Bonifazi,Bologna,ITA,DF,26.0,7,0,0
+Denso Kasius,Bologna,NED,DF,20.0,7,0,2
+Joaquin Sosa,Bologna,URU,DF,21.0,5,0,0
+Emanuel Vignato,Bologna,ITA,"MF,FW",22.0,8,0,1
+Niklas Pyyhtiä,Bologna,FIN,MF,19.0,3,0,0
+Giorgos Kyriakopoulos,Bologna,GRE,FW,27.0,1,0,0
+Wisdom Amey,Bologna,ITA,DF,17.0,0,0,0
+Matteo Angeli,Bologna,ITA,DF,20.0,0,0,0
+Nicola Bagnolini,Bologna,ITA,GK,18.0,0,0,0
+Francesco Bardi,Bologna,ITA,GK,31.0,0,0,0
+Ibrahima Mbaye,Bologna,SEN,"DF,MF",28.0,0,0,0
+Mattia Motolese,Bologna,ITA,DF,18.0,0,0,0
+Francesco Raffaelli,Bologna,ITA,GK,17.0,0,0,0
+Antonio Raimondo,Bologna,ITA,FW,18.0,0,0,0
+Federico Ravaglia,Bologna,ITA,GK,23.0,0,0,0
+Kacper Urbanski,Bologna,POL,MF,18.0,0,0,0
+Danilo,Juventus,BRA,DF,31.0,21,2,2
+Filip Kostić,Juventus,SRB,"DF,FW",30.0,21,2,5
+Gleison Bremer,Juventus,BRA,DF,25.0,18,1,0
+Manuel Locatelli,Juventus,ITA,MF,25.0,18,0,0
+Adrien Rabiot,Juventus,FRA,MF,27.0,17,3,2
+Wojciech Szczęsny,Juventus,POL,GK,32.0,15,0,0
+Alex Sandro,Juventus,BRA,DF,32.0,17,0,1
+Juan Cuadrado,Juventus,COL,"DF,FW",34.0,16,0,3
+Weston McKennie,Juventus,USA,"MF,DF",24.0,15,1,1
+Dušan Vlahović,Juventus,SRB,FW,23.0,12,8,2
+Arkadiusz Milik,Juventus,POL,FW,28.0,17,6,1
+Fabio Miretti,Juventus,ITA,"MF,FW",19.0,18,0,1
+Moise Kean,Juventus,ITA,FW,22.0,19,4,0
+Ángel Di María,Juventus,ARG,FW,34.0,12,3,2
+Mattia De Sciglio,Juventus,ITA,DF,30.0,10,0,0
+Leonardo Bonucci,Juventus,ITA,DF,35.0,9,1,0
+Mattia Perin,Juventus,ITA,GK,30.0,7,0,0
+Nicolò Fagioli,Juventus,ITA,MF,21.0,12,2,2
+Federico Gatti,Juventus,ITA,DF,24.0,6,0,0
+Leandro Paredes,Juventus,ARG,MF,28.0,13,0,0
+Daniele Rugani,Juventus,ITA,DF,28.0,3,0,0
+Matìas Soulé,Juventus,ARG,"MF,DF",19.0,9,0,0
+Federico Chiesa,Juventus,ITA,"DF,FW",25.0,7,0,2
+Denis Zakaria,Juventus,SUI,MF,26.0,2,0,0
+Samuel Iling-Junior,Juventus,ENG,"DF,MF",19.0,6,0,1
+Nicolò Rovella,Juventus,ITA,MF,21.0,3,0,0
+Tommaso Barbieri,Juventus,ITA,DF,20.0,0,0,0
+Enzo Barrenechea,Juventus,ARG,MF,21.0,0,0,0
+Mattia Compagnon,Juventus,ITA,MF,21.0,0,0,0
+Cosimo Marco Da Graca,Juventus,ITA,FW,20.0,0,0,0
+Giovanni Garofani,Juventus,ITA,GK,20.0,0,0,0
+Carlo Pinsoglio,Juventus,ITA,GK,32.0,0,0,0
+Paul Pogba,Juventus,FRA,MF,29.0,0,0,0
+Alessandro Riccio,Juventus,ITA,DF,21.0,0,0,0
+Simone Scaglia,Juventus,ITA,GK,18.0,0,0,0
+Michele Di Gregorio,Monza,ITA,GK,25.0,21,0,0
+Carlos,Monza,BRA,DF,24.0,20,4,3
+Matteo Pessina,Monza,ITA,MF,25.0,19,3,2
+Gianluca Caprari,Monza,ITA,"MF,FW",29.0,21,4,1
+Luca Caldirola,Monza,ITA,DF,32.0,17,0,0
+Patrick Ciurria,Monza,ITA,"DF,MF",27.0,19,3,4
+Armando Izzo,Monza,ITA,DF,30.0,14,0,0
+Marlon,Monza,BRA,DF,27.0,17,0,0
+Pablo Marí,Monza,ESP,DF,29.0,14,1,0
+Stefano Sensi,Monza,ITA,MF,27.0,14,2,0
+Dany Mota,Monza,POR,"FW,MF",24.0,15,3,0
+Samuele Birindelli,Monza,ITA,DF,23.0,18,0,1
+Nicolò Rovella,Monza,ITA,MF,21.0,12,0,0
+Andrea Petagna,Monza,ITA,FW,27.0,16,2,3
+Pepín,Monza,EQG,MF,26.0,10,0,1
+Filippo Ranocchia,Monza,ITA,MF,21.0,11,1,0
+Andrea Colpani,Monza,ITA,MF,23.0,15,2,0
+Andrea Barberis,Monza,ITA,MF,29.0,7,0,1
+Marco D'Alessandro,Monza,ITA,"DF,FW",31.0,8,0,0
+Christian Gytkjær,Monza,DEN,FW,32.0,14,1,0
+Mattia Valoti,Monza,ITA,MF,29.0,7,0,0
+Giulio Donati,Monza,ITA,DF,33.0,4,0,0
+Luca Marrone,Monza,ITA,DF,32.0,2,0,0
+Salvatore Molina,Monza,ITA,DF,31.0,5,0,0
+Valentin Antov,Monza,BUL,DF,22.0,4,0,0
+Andrea Carboni,Monza,ITA,DF,22.0,4,0,0
+Andrea Ranocchia,Monza,ITA,DF,34.0,1,0,0
+Warren Bondo,Monza,FRA,MF,19.0,4,0,0
+Samuele Vignato,Monza,ITA,"FW,MF",18.0,3,0,0
+Franco Carboni,Monza,ITA,FW,19.0,0,0,0
+Leonardo Colombo,Monza,ITA,MF,17.0,0,0,0
+Alessio Cragno,Monza,ITA,GK,28.0,0,0,0
+Gabriele Ferrarini,Monza,ITA,DF,22.0,0,0,0
+Alessandro Sorrentino,Monza,ITA,GK,20.0,0,0,0
+Guglielmo Vicario,Empoli,ITA,GK,26.0,21,0,0
+Fabiano Parisi,Empoli,ITA,DF,22.0,19,2,0
+Sebastiano Luperto,Empoli,ITA,DF,26.0,19,1,0
+Filippo Bandinelli,Empoli,ITA,MF,27.0,21,2,0
+Martin Satriano,Empoli,URU,FW,21.0,19,1,1
+Răzvan Marin,Empoli,ROU,MF,26.0,20,2,2
+Ardian Ismajli,Empoli,ALB,DF,26.0,14,0,0
+Petar Stojanović,Empoli,SVN,DF,27.0,17,0,1
+Sam Lammers,Empoli,NED,FW,25.0,14,1,1
+Tommaso Baldanzi,Empoli,ITA,MF,19.0,12,4,0
+Nicolas Haas,Empoli,SUI,MF,27.0,15,1,0
+Koni De Winter,Empoli,BEL,DF,20.0,11,0,0
+Nedim Bajrami,Empoli,ALB,"MF,FW",23.0,19,1,1
+Tyronne Ebuehi,Empoli,NGA,DF,27.0,12,1,1
+Liam Henderson,Empoli,SCO,MF,26.0,15,0,1
+Jean-Daniel Akpa-Akpro,Empoli,CIV,MF,30.0,11,0,0
+Francesco Caputo,Empoli,ITA,"FW,MF",35.0,6,1,2
+Alberto Grassi,Empoli,ITA,MF,27.0,11,0,0
+Mattia Destro,Empoli,ITA,FW,31.0,10,1,0
+Marko Pjaca,Empoli,CRO,"MF,FW",27.0,10,0,0
+Nicolò Cambiaghi,Empoli,ITA,"FW,MF",22.0,15,1,1
+Jacopo Fazzini,Empoli,ITA,MF,19.0,11,0,0
+Liberato Cacace,Empoli,NZL,DF,22.0,4,0,0
+Sebastian Walukiewicz,Empoli,POL,DF,22.0,4,0,0
+Roberto Piccoli,Empoli,ITA,FW,22.0,1,0,0
+Emmanuel Ekong,Empoli,SWE,"FW,MF",20.0,2,0,0
+Duccio Degli Innocenti,Empoli,ITA,MF,19.0,1,0,0
+Samuele Angori,Empoli,ITA,DF,19.0,0,0,0
+Giovanni Crociata,Empoli,ITA,MF,25.0,0,0,0
+Gabriele Guarino,Empoli,ITA,DF,18.0,0,0,0
+Gabriele Indragoli,Empoli,ITA,DF,18.0,0,0,0
+Gian Marco Fantoni,Empoli,ITA,GK,19.0,0,0,0
+Davide Merola,Empoli,ITA,FW,22.0,0,0,0
+Herculano Nabian,Empoli,POR,FW,19.0,0,0,0
+Samuele Perisan,Empoli,ITA,GK,25.0,0,0,0
+Jacopo Seghetti,Empoli,ITA,GK,17.0,0,0,0
+Leo Štulac,Empoli,SVN,MF,28.0,0,0,0
+Samir Ujkani,Empoli,KVX,GK,34.0,0,0,0
+Emanuel Vignato,Empoli,ITA,MF,22.0,0,0,0
+Cristiano Biraghi,Fiorentina,ITA,DF,30.0,20,0,2
+Pietro Terracciano,Fiorentina,ITA,GK,32.0,18,0,0
+Christian Kouamé,Fiorentina,CIV,FW,25.0,19,2,2
+Giacomo Bonaventura,Fiorentina,ITA,MF,33.0,18,3,0
+Dodô,Fiorentina,BRA,DF,24.0,17,0,1
+Nikola Milenković,Fiorentina,SRB,DF,25.0,16,2,1
+Sofyan Amrabat,Fiorentina,MAR,MF,26.0,18,0,0
+Lucas Martínez Quarta,Fiorentina,ARG,DF,26.0,15,1,1
+Jonathan Ikone,Fiorentina,FRA,FW,24.0,19,2,2
+Igor,Fiorentina,BRA,DF,25.0,16,0,0
+Luka Jović,Fiorentina,SRB,"FW,MF",25.0,19,3,0
+Antonín Barák,Fiorentina,CZE,MF,28.0,17,1,0
+Rolando Mandragora,Fiorentina,ITA,MF,25.0,15,1,1
+Riccardo Saponara,Fiorentina,ITA,FW,31.0,17,2,2
+Arthur,Fiorentina,BRA,FW,24.0,16,3,1
+Alfred Duncan,Fiorentina,GHA,MF,29.0,13,0,0
+Lorenzo Venuti,Fiorentina,ITA,DF,27.0,9,0,1
+Riccardo Sottil,Fiorentina,ITA,FW,23.0,7,0,2
+Nicolás González,Fiorentina,ARG,"FW,MF",24.0,11,3,1
+Youssef Maleh,Fiorentina,ITA,MF,24.0,7,0,0
+Pierluigi Gollini,Fiorentina,ITA,GK,27.0,3,0,0
+Aleksa Terzić,Fiorentina,SRB,DF,23.0,11,0,0
+Luca Ranieri,Fiorentina,ITA,DF,23.0,2,0,0
+Alessandro Bianco,Fiorentina,ITA,MF,20.0,3,0,0
+Marco Benassi,Fiorentina,ITA,DF,28.0,2,0,0
+Gaetano Castrovilli,Fiorentina,ITA,MF,25.0,3,0,0
+Szymon Żurkowski,Fiorentina,POL,MF,25.0,2,0,1
+Josip Brekalo,Fiorentina,CRO,FW,24.0,1,0,0
+Lorenzo Amatucci,Fiorentina,ITA,MF,19.0,0,0,0
+Michele Cerofolini,Fiorentina,ITA,GK,24.0,0,0,0
+Filippo Distefano,Fiorentina,ITA,FW,19.0,0,0,0
+Costantino Favasuli,Fiorentina,ITA,MF,18.0,0,0,0
+Michael Kayode,Fiorentina,ITA,DF,18.0,0,0,0
+Dimo Krastev,Fiorentina,BUL,MF,19.0,0,0,0
+Tommaso Martinelli,Fiorentina,ITA,GK,17.0,0,0,0
+Matija Nastasić,Fiorentina,SRB,DF,29.0,0,0,0
+Salvatore Sirigu,Fiorentina,ITA,GK,36.0,0,0,0
+Federico Baschirotto,Lecce,ITA,DF,26.0,21,3,0
+Wladimiro Falcone,Lecce,ITA,GK,27.0,21,0,0
+Valentin Gendrey,Lecce,FRA,DF,22.0,21,0,0
+Morten Hjulmand,Lecce,DEN,MF,23.0,19,0,4
+Joan Gonzàlez,Lecce,ESP,MF,21.0,21,1,3
+Gabriel Strefezza,Lecce,BRA,"FW,MF",25.0,19,7,0
+Antonino Gallo,Lecce,ITA,DF,23.0,17,0,1
+Alexis Blin,Lecce,FRA,"MF,DF",26.0,19,0,0
+Federico Di Francesco,Lecce,ITA,"FW,MF",28.0,21,1,2
+Lameck Banda,Lecce,ZAM,"FW,MF",22.0,21,1,1
+Lorenzo Colombo,Lecce,ITA,FW,20.0,19,4,2
+Assan Ceesay,Lecce,GAM,FW,28.0,18,3,0
+Samuel Umtiti,Lecce,FRA,DF,29.0,11,0,0
+Marin Pongračić,Lecce,CRO,DF,25.0,9,0,0
+Giuseppe Pezzella,Lecce,ITA,DF,25.0,9,0,1
+Kristoffer Askildsen,Lecce,NOR,MF,22.0,15,0,0
+Kristijan Bistrović,Lecce,CRO,MF,24.0,11,0,0
+Remi Oudin,Lecce,FRA,"FW,MF",26.0,14,0,0
+Alessandro Tuia,Lecce,ITA,DF,32.0,3,0,0
+Youssef Maleh,Lecce,ITA,MF,24.0,5,0,0
+Þórir Jóhann Helgason,Lecce,ISL,MF,22.0,7,0,0
+Yıldırım Mert Çetin,Lecce,TUR,DF,26.0,1,0,0
+Marcin Listkowski,Lecce,POL,"MF,FW",24.0,5,0,0
+Pablo Rodríguez,Lecce,ESP,"FW,MF",21.0,4,0,0
+Kastriot Dermaku,Lecce,ALB,DF,31.0,1,0,0
+Joel Voelkerling Persson,Lecce,SWE,FW,20.0,3,0,0
+Medon Berisha,Lecce,KVX,FW,19.0,0,0,0
+Marco Bleve,Lecce,ITA,GK,27.0,0,0,0
+Federico Brancolini,Lecce,ITA,GK,21.0,0,0,0
+Tommaso Cassandro,Lecce,ITA,DF,23.0,0,0,0
+Pietro Ceccaroni,Lecce,ITA,DF,27.0,0,0,0
+Mattia Ciucci,Lecce,ITA,DF,20.0,0,0,0
+Francesco Di Mariano,Lecce,ITA,"FW,MF",26.0,0,0,0
+Gianluca Frabotta,Lecce,ITA,DF,23.0,0,0,0
+Mats Lemmens,Lecce,BEL,DF,20.0,0,0,0
+Simone Romagnoli,Lecce,ITA,DF,32.0,0,0,0
+Jasper Samooja,Lecce,FIN,GK,19.0,0,0,0
+Davide Frattesi,Sassuolo,ITA,MF,23.0,21,5,0
+Andrea Consigli,Sassuolo,ITA,GK,36.0,19,0,0
+Rogério,Sassuolo,BRA,DF,25.0,20,0,2
+Jeremy Toljan,Sassuolo,GER,DF,28.0,19,0,1
+Gian Marco Ferrari,Sassuolo,ITA,DF,30.0,19,1,0
+Andrea Pinamonti,Sassuolo,ITA,FW,23.0,17,3,0
+Armand Lauriente,Sassuolo,FRA,FW,24.0,15,4,3
+Martin Erlic,Sassuolo,CRO,DF,25.0,14,0,0
+Maxime Lopez,Sassuolo,FRA,MF,25.0,14,0,0
+Kristian Thorstvedt,Sassuolo,NOR,MF,23.0,19,1,1
+Domenico Berardi,Sassuolo,ITA,FW,28.0,13,4,3
+Giorgos Kyriakopoulos,Sassuolo,GRE,"FW,DF",27.0,12,1,1
+Pedro Obiang,Sassuolo,EQG,MF,30.0,10,0,1
+Matheus Henrique,Sassuolo,BRA,MF,25.0,13,1,0
+Hamed Junior Traorè,Sassuolo,CIV,"MF,FW",22.0,11,0,3
+Ruan,Sassuolo,BRA,DF,23.0,8,0,0
+Kaan Ayhan,Sassuolo,TUR,DF,28.0,10,0,0
+Luca D'Andrea,Sassuolo,ITA,FW,18.0,5,0,1
+Grégoire Defrel,Sassuolo,MTQ,FW,31.0,10,1,0
+Emil Ceide,Sassuolo,NOR,FW,21.0,12,0,0
+Abdou Harroui,Sassuolo,NED,MF,25.0,13,1,0
+Gianluca Pegolo,Sassuolo,ITA,GK,41.0,2,0,0
+Agustín Álvarez Martínez,Sassuolo,URU,"FW,MF",21.0,16,1,1
+Riccardo Marchizza,Sassuolo,ITA,DF,24.0,4,0,1
+Nadir Zortea,Sassuolo,ITA,DF,23.0,1,0,0
+Mert Müldür,Sassuolo,TUR,DF,23.0,1,0,0
+Janis Antiste,Sassuolo,FRA,FW,20.0,2,1,0
+Giacomo Raspadori,Sassuolo,ITA,FW,22.0,1,0,0
+Nedim Bajrami,Sassuolo,ALB,MF,23.0,1,0,0
+Filippo Romagna,Sassuolo,ITA,DF,25.0,0,0,0
+Alessandro Russo,Sassuolo,ITA,GK,21.0,0,0,0
+Gioele Zacchi,Sassuolo,ITA,GK,19.0,0,0,0
+Lassana Coulibaly,Salernitana,MLI,MF,26.0,19,1,2
+Antonio Candreva,Salernitana,ITA,"DF,MF",35.0,20,2,1
+Tonny Vilhena,Salernitana,NED,MF,28.0,20,3,1
+Boulaye Dia,Salernitana,SEN,FW,26.0,20,8,4
+Luigi Sepe,Salernitana,ITA,GK,31.0,15,0,0
+Pasquale Mazzocchi,Salernitana,ITA,DF,27.0,15,2,2
+Dylan Bronn,Salernitana,TUN,DF,27.0,18,0,0
+Krzysztof Piątek,Salernitana,POL,FW,27.0,17,3,2
+Federico Fazio,Salernitana,ARG,DF,35.0,12,1,0
+Flavius Daniliuc,Salernitana,AUT,DF,21.0,13,0,1
+Norbert Gyömbér,Salernitana,SVK,DF,30.0,14,0,0
+Domagoj Bradarić,Salernitana,CRO,DF,23.0,16,0,1
+Federico Bonazzoli,Salernitana,ITA,FW,25.0,19,2,1
+Giulio Maggiore,Salernitana,ITA,MF,24.0,10,0,0
+Ivan Radovanović,Salernitana,SRB,"MF,DF",34.0,10,0,0
+Lorenzo Pirola,Salernitana,ITA,DF,20.0,9,0,0
+Guillermo Ochoa,Salernitana,MEX,GK,37.0,6,0,0
+Hans Nicolussi Caviglia,Salernitana,ITA,MF,22.0,5,1,0
+Matteo Lovato,Salernitana,ITA,DF,22.0,7,0,0
+Emil Bohinen,Salernitana,NOR,MF,23.0,10,0,0
+Erik Botheim,Salernitana,NOR,FW,23.0,15,1,1
+Junior Sambia,Salernitana,FRA,"DF,MF",26.0,10,0,0
+Grigoris Kastanos,Salernitana,CYP,"MF,DF",25.0,12,0,0
+William Troost-Ekong,Salernitana,NGA,DF,29.0,2,0,0
+Diego Valencia,Salernitana,CHI,"MF,FW",23.0,10,0,0
+Domen Črnigoj,Salernitana,SVN,"MF,FW",27.0,2,0,0
+Franck Ribéry,Salernitana,FRA,MF,39.0,1,0,0
+Julian Kristoffersen,Salernitana,NOR,FW,25.0,1,0,0
+Reda Boultam,Salernitana,NED,MF,24.0,0,0,0
+Leonardo Capezzi,Salernitana,ITA,MF,27.0,0,0,0
+Jacopo De Matteis,Salernitana,ITA,GK,20.0,0,0,0
+Vincenzo Fiorillo,Salernitana,ITA,GK,33.0,0,0,0
+Antonio Iervolino,Salernitana,ITA,MF,20.0,0,0,0
+Paweł Jaroszyński,Salernitana,POL,"DF,MF",28.0,0,0,0
+Wajdi Kechrida,Salernitana,TUN,DF,27.0,0,0,0
+Alessandro Micai,Salernitana,ITA,GK,29.0,0,0,0
+Andrei Motoc,Salernitana,ROU,MF,20.0,0,0,0
+Andrea Sorrentino,Salernitana,ITA,GK,18.0,0,0,0
+Freddie Veseli,Salernitana,ALB,DF,30.0,0,0,0
+Mehdi Bourabia,Spezia,MAR,MF,31.0,21,0,2
+Bartłomiej Drągowski,Spezia,POL,GK,25.0,19,0,0
+Dimitris Nikolaou,Spezia,GRE,DF,24.0,19,0,0
+M'Bala Nzola,Spezia,ANG,FW,26.0,18,9,1
+Emmanuel Gyasi,Spezia,GHA,"FW,DF",29.0,18,1,0
+Jakub Kiwior,Spezia,POL,DF,22.0,17,0,0
+Emil Holm,Spezia,SWE,DF,22.0,19,1,1
+Ethan Ampadu,Spezia,WAL,"DF,MF",22.0,16,0,1
+Kevin Agudelo,Spezia,COL,"MF,FW",24.0,20,0,0
+Arkadiusz Reca,Spezia,POL,DF,27.0,17,1,1
+Simone Bastoni,Spezia,ITA,"MF,DF",26.0,13,2,2
+Mattia Caldara,Spezia,ITA,DF,28.0,14,0,0
+Kelvin Amian,Spezia,FRA,DF,25.0,14,0,1
+Albin Ekdal,Spezia,SWE,MF,33.0,14,0,1
+Viktor Kovalenko,Spezia,UKR,MF,26.0,10,0,0
+Daniele Verde,Spezia,ITA,"FW,MF",26.0,11,0,0
+Petko Hristov,Spezia,BUL,DF,23.0,9,0,0
+Jeroen Zoet,Spezia,NED,GK,32.0,3,0,0
+Daniel Maldini,Spezia,ITA,"FW,MF",21.0,9,1,0
+Mikael Ellertsson,Spezia,ISL,"MF,DF",20.0,11,0,0
+Dávid Strelec,Spezia,SVK,FW,21.0,7,0,0
+Salvatore Esposito,Spezia,ITA,MF,22.0,3,0,0
+Jacopo Sala,Spezia,ITA,MF,31.0,6,0,0
+Eldor Shomurodov,Spezia,UZB,FW,27.0,1,0,0
+Salvador Ferrer,Spezia,ESP,DF,25.0,2,0,0
+Petar Zovko,Spezia,BIH,GK,20.0,1,0,0
+João Moutinho,Spezia,POR,"DF,FW",25.0,4,0,0
+Tio Cipot,Spezia,SVN,"DF,FW",19.0,2,0,0
+Leandro Sanca,Spezia,POR,"FW,MF",23.0,4,0,0
+Raimonds Krollis,Spezia,LVA,FW,21.0,1,0,0
+Julius Beck,Spezia,DEN,MF,17.0,1,0,0
+Szymon Żurkowski,Spezia,POL,MF,25.0,1,0,0
+Przemysław Wiśniewski,Spezia,POL,DF,24.0,1,0,0
+Nicolò Bertola,Spezia,ITA,DF,19.0,0,0,0
+Pietro Candelari,Spezia,ITA,MF,18.0,0,0,0
+Elio Capradossi,Spezia,ITA,DF,26.0,0,0,0
+Leonardo Dido,Spezia,ITA,GK,19.0,0,0,0
+Simone Giorgeschi,Spezia,ITA,DF,18.0,0,0,0
+Emil Kornvig,Spezia,DEN,MF,22.0,0,0,0
+Federico Marchetti,Spezia,ITA,GK,40.0,0,0,0
+Aurélien Nguiamba,Spezia,FRA,MF,24.0,0,0,0
+Leonardo Pedicillo,Spezia,ITA,MF,20.0,0,0,0
+Suf Podgoreanu,Spezia,ISR,FW,21.0,0,0,0
+Aimar Sher,Spezia,SWE,MF,20.0,0,0,0
+Lorenzo Montipò,Hellas Verona,ITA,GK,26.0,21,0,0
+Adrien Tameze,Hellas Verona,CMR,MF,29.0,20,0,0
+Darko Lazović,Hellas Verona,SRB,"DF,MF",32.0,17,3,3
+Isak Hien,Hellas Verona,SWE,DF,24.0,18,0,0
+Federico Ceccherini,Hellas Verona,ITA,DF,30.0,15,1,0
+Fabio Depaoli,Hellas Verona,ITA,DF,25.0,16,2,2
+Thomas Henry,Hellas Verona,FRA,FW,28.0,16,2,0
+Kevin Lasagna,Hellas Verona,ITA,"FW,MF",30.0,17,1,2
+Koray Günter,Hellas Verona,GER,DF,28.0,13,1,0
+Josh Doig,Hellas Verona,SCO,DF,20.0,14,2,3
+Ivan Ilić,Hellas Verona,SRB,MF,21.0,11,0,1
+Miguel Veloso,Hellas Verona,POR,MF,36.0,15,0,0
+Paweł Dawidowicz,Hellas Verona,POL,DF,27.0,11,1,0
+Milan Đurić,Hellas Verona,BIH,FW,32.0,16,1,0
+Diego Coppola,Hellas Verona,ITA,DF,19.0,8,0,0
+Davide Faraoni,Hellas Verona,ITA,DF,31.0,8,0,2
+Yayah Kallon,Hellas Verona,SLE,"MF,FW",21.0,16,1,1
+Martin Hongla,Hellas Verona,CMR,MF,24.0,9,0,0
+Simone Verdi,Hellas Verona,ITA,MF,30.0,10,1,0
+Filippo Terracciano,Hellas Verona,ITA,"DF,MF",20.0,12,0,0
+Giangiacomo Magnani,Hellas Verona,ITA,DF,27.0,9,0,0
+Ibrahim Sulemana,Hellas Verona,GHA,MF,19.0,11,0,0
+Ajdin Hrustic,Hellas Verona,AUS,MF,26.0,6,0,0
+Roberto Piccoli,Hellas Verona,ITA,FW,22.0,7,0,0
+Ondrej Duda,Hellas Verona,SVK,MF,28.0,2,0,0
+Panagiotis Retsos,Hellas Verona,GRE,DF,24.0,2,0,0
+Cyril Ngonge,Hellas Verona,BEL,"FW,MF",22.0,2,1,0
+Jayden Braaf,Hellas Verona,NED,MF,20.0,1,0,0
+Bruno Amione,Hellas Verona,ARG,DF,21.0,1,0,0
+Juan Cabal,Hellas Verona,COL,DF,22.0,3,0,0
+Antonín Barák,Hellas Verona,CZE,MF,28.0,1,0,0
+Adolfo Gaich,Hellas Verona,ARG,FW,23.0,1,0,0
+Oliver Abildgaard,Hellas Verona,DEN,MF,26.0,1,0,0
+Alessandro Cortinovis,Hellas Verona,ITA,MF,22.0,1,0,0
+Alessandro Berardi,Hellas Verona,ITA,GK,32.0,0,0,0
+Davide Bragantini,Hellas Verona,ITA,FW,19.0,0,0,0
+Mattia Chiesa,Hellas Verona,ITA,GK,22.0,0,0,0
+Joselito,Hellas Verona,ESP,MF,18.0,0,0,0
+Simone Perilli,Hellas Verona,ITA,GK,28.0,0,0,0
+Mateusz Praszelik,Hellas Verona,POL,MF,22.0,0,0,0
+Deyovaisio Zeefuik,Hellas Verona,NED,DF,24.0,0,0,0
+Emil Audero,Sampdoria,ITA,GK,26.0,21,0,0
+Tommaso Augello,Sampdoria,ITA,DF,28.0,20,1,2
+Filip Đuričić,Sampdoria,SRB,"MF,FW",31.0,20,2,0
+Mehdi Léris,Sampdoria,ALG,"MF,DF",24.0,19,0,1
+Tomás Rincón,Sampdoria,VEN,MF,35.0,18,0,2
+Omar Colley,Sampdoria,GAM,DF,30.0,16,1,0
+Bartosz Bereszyński,Sampdoria,POL,DF,30.0,15,0,0
+Francesco Caputo,Sampdoria,ITA,FW,35.0,15,1,0
+Manolo Gabbiadini,Sampdoria,ITA,"FW,MF",31.0,19,4,1
+Abdelhamid Sabiri,Sampdoria,MAR,"MF,FW",26.0,13,1,0
+Alex Ferrari,Sampdoria,ITA,DF,28.0,12,0,0
+Bruno Amione,Sampdoria,ARG,DF,21.0,10,0,1
+Ronaldo Vieira,Sampdoria,GNB,MF,24.0,16,0,0
+Gonzalo Villar,Sampdoria,ESP,MF,24.0,15,0,0
+Jeison Murillo,Sampdoria,COL,DF,30.0,11,0,0
+Valerio Verre,Sampdoria,ITA,MF,29.0,18,0,0
+Bram Nuytinck,Sampdoria,NED,DF,32.0,6,0,0
+Sam Lammers,Sampdoria,NED,FW,25.0,6,0,1
+Nicola Murru,Sampdoria,ITA,DF,28.0,9,0,0
+Harry Winks,Sampdoria,ENG,MF,27.0,4,0,0
+Daniele Montevago,Sampdoria,ITA,FW,19.0,6,0,0
+Fabio Quagliarella,Sampdoria,ITA,FW,40.0,15,0,0
+Gerard Yepes,Sampdoria,ESP,MF,20.0,5,0,0
+Ignacio Pussetto,Sampdoria,ARG,"MF,DF",27.0,5,0,0
+Fabio Depaoli,Sampdoria,ITA,"DF,MF",25.0,3,0,0
+Mickaël Cuisance,Sampdoria,FRA,MF,23.0,1,0,0
+Alessandro Zanoli,Sampdoria,ITA,"DF,MF",22.0,5,0,0
+Flavio Paoletti,Sampdoria,ITA,MF,20.0,4,0,0
+Manuel De Luca,Sampdoria,ITA,FW,24.0,1,0,0
+Andrea Conti,Sampdoria,ITA,DF,28.0,1,0,0
+Lorenzo Malagrida,Sampdoria,ITA,MF,19.0,1,0,0
+Nikita Contini Baranovsky,Sampdoria,ITA,GK,26.0,0,0,0
+Emirhan İlkhan,Sampdoria,TUR,MF,18.0,0,0,0
+Maxime Leverbe,Sampdoria,FRA,DF,25.0,0,0,0
+Nicola Ravaglia,Sampdoria,ITA,GK,34.0,0,0,0
+Telasco Segovia,Sampdoria,VEN,MF,19.0,0,0,0
+Elia Tantalocchi,Sampdoria,ITA,GK,18.0,0,0,0
+Simone Trimboli,Sampdoria,ITA,MF,20.0,0,0,0
+Martin Turk,Sampdoria,SVN,GK,19.0,0,0,0
+Lorenzo Villa,Sampdoria,ITA,DF,19.0,0,0,0
+Emanuele Valeri,Cremonese,ITA,"DF,FW",24.0,20,1,1
+David Okereke,Cremonese,NGA,"FW,MF",25.0,20,5,0
+Charles Pickel,Cremonese,SUI,MF,25.0,19,1,0
+Leonardo Sernicola,Cremonese,ITA,DF,25.0,17,1,1
+Cyriel Dessers,Cremonese,NGA,FW,28.0,18,3,0
+Soualiho Meïté,Cremonese,FRA,MF,28.0,15,0,1
+Luka Lochoshvili,Cremonese,GEO,DF,24.0,14,0,1
+Matteo Bianchetti,Cremonese,ITA,DF,29.0,15,1,0
+Marco Carnesecchi,Cremonese,ITA,GK,22.0,12,0,0
+Emanuel Aiwum,Cremonese,AUT,DF,22.0,15,0,0
+Ionuț Radu,Cremonese,ROU,GK,25.0,9,0,0
+Luca Zanimacchia,Cremonese,ITA,"MF,FW",24.0,15,0,0
+Vlad Chiricheș,Cremonese,ROU,DF,33.0,8,0,0
+Santiago Ascacíbar,Cremonese,ARG,MF,25.0,13,0,0
+Michele Castagnetti,Cremonese,ITA,MF,33.0,14,0,0
+Gonzalo Escalante,Cremonese,ARG,MF,29.0,9,0,1
+Johan Vásquez,Cremonese,MEX,DF,24.0,10,0,0
+Paolo Ghiglione,Cremonese,ITA,DF,26.0,6,0,1
+Daniel Ciofani,Cremonese,ITA,FW,37.0,18,3,0
+Alex Ferrari,Cremonese,ITA,DF,28.0,5,0,0
+Giacomo Quagliata,Cremonese,ITA,DF,22.0,13,0,0
+Cristian Buonaiuto,Cremonese,ITA,"MF,FW",30.0,16,0,0
+Felix Afena-Gyan,Cremonese,GHA,"FW,MF",20.0,12,0,0
+Jack Hendry,Cremonese,SCO,DF,27.0,4,0,0
+Frank Tsadjout,Cremonese,ITA,"FW,MF",23.0,7,0,1
+Marco Benassi,Cremonese,ITA,MF,28.0,3,0,0
+Jaime Báez,Cremonese,URU,DF,27.0,2,0,0
+Pablo Galdames Millán,Cremonese,CHI,DF,26.0,1,0,0
+Samuel Di Carmine,Cremonese,ITA,"FW,MF",34.0,2,0,0
+Tommaso Milanese,Cremonese,ITA,MF,20.0,2,0,0
+Christian Acella,Cremonese,ITA,MF,20.0,0,0,0
+Dorian Ciężkowski,Cremonese,POL,GK,21.0,0,0,0
+Maissa Ndiaye,Cremonese,SEN,DF,21.0,0,0,0
+Luca Ravanelli,Cremonese,ITA,DF,26.0,0,0,0
+Gianluca Saro,Cremonese,ITA,GK,22.0,0,0,0
+Mouhamadou Sarr,Cremonese,SEN,GK,26.0,0,0,0
+Marc-André ter Stegen,Barcelona,GER,GK,30.0,20,0,0
+Pedri,Barcelona,ESP,"MF,FW",20.0,20,5,0
+Robert Lewandowski,Barcelona,POL,FW,34.0,17,14,4
+Sergio Busquets,Barcelona,ESP,MF,34.0,18,0,1
+Gavi,Barcelona,ESP,"MF,FW",18.0,20,1,2
+Alejandro Balde,Barcelona,ESP,DF,19.0,18,0,4
+Frenkie de Jong,Barcelona,NED,MF,25.0,18,2,1
+Ousmane Dembélé,Barcelona,FRA,FW,25.0,18,5,5
+Jules Koundé,Barcelona,FRA,DF,24.0,13,0,2
+Raphinha,Barcelona,BRA,FW,26.0,19,4,4
+Ronald Araújo,Barcelona,URU,DF,23.0,10,0,1
+Jordi Alba,Barcelona,ESP,DF,33.0,14,1,3
+Eric García,Barcelona,ESP,DF,22.0,11,1,0
+Andreas Christensen,Barcelona,DEN,DF,26.0,10,0,1
+Ansu Fati,Barcelona,ESP,FW,20.0,20,3,3
+Ferrán Torres,Barcelona,ESP,FW,22.0,17,2,0
+Marcos Alonso,Barcelona,ESP,DF,32.0,12,1,0
+Sergi Roberto,Barcelona,ESP,DF,31.0,12,2,0
+Gerard Piqué,Barcelona,ESP,DF,36.0,6,0,0
+Franck Kessié,Barcelona,CIV,MF,26.0,12,0,1
+Memphis,Barcelona,NED,FW,28.0,2,1,0
+Héctor Bellerín,Barcelona,ESP,DF,27.0,3,0,0
+Pablo Torre,Barcelona,ESP,FW,19.0,1,0,0
+Pierre-Emerick Aubameyang,Barcelona,GAB,FW,33.0,1,0,0
+Chadi Riad,Barcelona,ESP,MF,19.0,1,0,0
+Arnau Tenas,Barcelona,ESP,GK,21.0,0,0,0
+Ángel Alarcón,Barcelona,ESP,FW,18.0,0,0,0
+Ander Astralaga,Barcelona,ESP,GK,18.0,0,0,0
+Marc Casado,Barcelona,ESP,MF,19.0,0,0,0
+Iñaki Peña,Barcelona,ESP,GK,23.0,0,0,0
+Miralem Pjanić,Barcelona,BIH,MF,32.0,0,0,0
+Vinicius Júnior,Real Madrid,BRA,FW,22.0,20,7,3
+Federico Valverde,Real Madrid,URU,"FW,MF",24.0,20,6,2
+David Alaba,Real Madrid,AUT,DF,30.0,17,1,3
+Thibaut Courtois,Real Madrid,BEL,GK,30.0,15,0,0
+Toni Kroos,Real Madrid,GER,MF,33.0,17,2,2
+Éder Militão,Real Madrid,BRA,DF,25.0,16,3,0
+Ferland Mendy,Real Madrid,FRA,DF,27.0,14,0,1
+Antonio Rüdiger,Real Madrid,GER,DF,29.0,18,1,0
+Luka Modrić,Real Madrid,CRO,MF,37.0,19,3,2
+Aurélien Tchouaméni,Real Madrid,FRA,MF,23.0,16,0,2
+Rodrygo,Real Madrid,BRA,FW,22.0,18,4,5
+Dani Carvajal,Real Madrid,ESP,DF,31.0,15,0,1
+Karim Benzema,Real Madrid,FRA,FW,35.0,12,9,3
+Eduardo Camavinga,Real Madrid,FRA,"MF,DF",20.0,20,0,1
+Dani Ceballos,Real Madrid,ESP,MF,26.0,13,0,1
+Nacho,Real Madrid,ESP,DF,33.0,11,0,0
+Marco Asensio,Real Madrid,ESP,"FW,MF",27.0,15,2,3
+Andriy Lunin,Real Madrid,UKR,GK,23.0,5,0,0
+Lucas Vázquez,Real Madrid,ESP,DF,31.0,10,2,0
+Eden Hazard,Real Madrid,BEL,FW,32.0,3,0,0
+Mariano,Real Madrid,DOM,FW,29.0,5,0,0
+Casemiro,Real Madrid,BRA,MF,30.0,1,0,0
+Lucas Cañizars,Real Madrid,ESP,GK,20.0,0,0,0
+Luis López,Real Madrid,ESP,GK,21.0,0,0,0
+Mario Martín,Real Madrid,ESP,MF,18.0,0,0,0
+Álvaro Muñoz,Real Madrid,URU,FW,18.0,0,0,0
+Álvaro Odriozola,Real Madrid,ESP,DF,27.0,0,0,0
+Diego Piñeiro,Real Madrid,ESP,GK,18.0,0,0,0
+Jesús Vallejo,Real Madrid,ESP,DF,26.0,0,0,0
+Álex Remiro,Real Sociedad,ESP,GK,27.0,20,0,0
+Martín Zubimendi,Real Sociedad,ESP,MF,24.0,19,1,2
+Brais Méndez,Real Sociedad,ESP,MF,26.0,19,7,3
+Alexander Sørloth,Real Sociedad,NOR,FW,27.0,16,8,1
+Robin Le Normand,Real Sociedad,FRA,DF,26.0,17,0,0
+Mikel Merino,Real Sociedad,ESP,MF,26.0,16,1,7
+Takefusa Kubo,Real Sociedad,JPN,"FW,MF",21.0,17,3,2
+David Silva,Real Sociedad,ESP,MF,37.0,16,1,2
+Igor Zubeldia,Real Sociedad,ESP,DF,25.0,16,1,1
+Aritz Elustondo,Real Sociedad,ESP,DF,28.0,16,0,1
+Diego Rico,Real Sociedad,ESP,DF,29.0,13,0,0
+Aihen Muñoz,Real Sociedad,ESP,DF,25.0,11,0,0
+Andoni Gorosabel,Real Sociedad,ESP,DF,26.0,13,0,0
+Jon Pacheco,Real Sociedad,ESP,DF,22.0,9,0,0
+Asier Illarramendi,Real Sociedad,ESP,MF,32.0,12,1,0
+Carlos Fernández,Real Sociedad,ESP,FW,26.0,10,0,0
+Pablo Marín,Real Sociedad,ESP,"MF,FW",19.0,7,0,0
+Mohamed Ali Cho,Real Sociedad,FRA,FW,19.0,8,0,2
+Alex Sola,Real Sociedad,ESP,DF,23.0,5,0,0
+Ander Barrenetxea,Real Sociedad,ESP,"FW,DF",21.0,7,1,0
+Alexander Isak,Real Sociedad,SWE,FW,23.0,2,1,0
+Roberto Navarro,Real Sociedad,ESP,"MF,FW",20.0,14,0,0
+Mikel Oyarzabal,Real Sociedad,ESP,"FW,MF",25.0,6,1,0
+Ander Guevara,Real Sociedad,ESP,MF,25.0,5,0,0
+Beñat Turrientes,Real Sociedad,ESP,"MF,FW",21.0,6,0,0
+Umar Sadiq,Real Sociedad,NGA,FW,26.0,2,1,0
+Jon Karrikaburu,Real Sociedad,ESP,FW,20.0,6,0,0
+Jon Magunacelaya,Real Sociedad,ESP,"MF,FW",22.0,2,0,0
+Olasagasti,Real Sociedad,ESP,"MF,DF",22.0,3,0,0
+Ander Martin,Real Sociedad,ESP,"MF,FW",22.0,3,0,0
+Egoitz Arana,Real Sociedad,ESP,GK,20.0,0,0,0
+Jonathan Gomez,Real Sociedad,USA,DF,19.0,0,0,0
+Urko González,Real Sociedad,ESP,DF,21.0,0,0,0
+Unai Marrero,Real Sociedad,ESP,GK,21.0,0,0,0
+Andoni Zubiaurre,Real Sociedad,ESP,GK,26.0,0,0,0
+Reinildo Mandava,Atlético Madrid,MOZ,DF,29.0,19,0,0
+Jan Oblak,Atlético Madrid,SVN,GK,30.0,18,0,0
+Nahuel Molina,Atlético Madrid,ARG,DF,24.0,16,0,1
+Álvaro Morata,Atlético Madrid,ESP,FW,30.0,20,7,1
+Axel Witsel,Atlético Madrid,BEL,"DF,MF",34.0,17,0,0
+Antoine Griezmann,Atlético Madrid,FRA,"FW,MF",31.0,20,6,6
+Stefan Savić,Atlético Madrid,MNE,DF,32.0,13,0,0
+Koke,Atlético Madrid,ESP,MF,31.0,16,0,2
+Marcos Llorente,Atlético Madrid,ESP,"MF,DF",28.0,13,1,0
+José María Giménez,Atlético Madrid,URU,DF,28.0,12,0,0
+Rodrigo De Paul,Atlético Madrid,ARG,MF,28.0,15,1,2
+Yannick Carrasco,Atlético Madrid,BEL,"DF,MF",29.0,18,1,0
+Geoffrey Kondogbia,Atlético Madrid,CTA,MF,29.0,16,0,2
+Thomas Lemar,Atlético Madrid,FRA,MF,27.0,15,0,2
+Ángel Correa,Atlético Madrid,ARG,"MF,FW",27.0,19,5,0
+João Félix,Atlético Madrid,POR,"FW,MF",23.0,14,4,3
+Saúl Ñíguez,Atlético Madrid,ESP,"MF,DF",28.0,16,1,1
+Mario Hermoso,Atlético Madrid,ESP,DF,27.0,8,2,0
+Pablo Barrios,Atlético Madrid,ESP,MF,19.0,5,0,0
+Matheus Cunha,Atlético Madrid,BRA,"FW,MF",23.0,11,0,2
+Ivo Grbić,Atlético Madrid,CRO,GK,27.0,4,0,0
+Felipe,Atlético Madrid,BRA,DF,33.0,3,0,0
+Sergio Reguilón,Atlético Madrid,ESP,DF,26.0,4,0,0
+Memphis,Atlético Madrid,NED,FW,28.0,2,0,0
+Adrián Corral,Atlético Madrid,ESP,DF,20.0,0,0,0
+Sergio Diez Roldan,Atlético Madrid,ESP,DF,19.0,0,0,0
+Matt Doherty,Atlético Madrid,IRL,"DF,MF",31.0,0,0,0
+Aitor Gismera,Atlético Madrid,ESP,MF,18.0,0,0,0
+Antonio Gomis,Atlético Madrid,ESP,GK,19.0,0,0,0
+Alejandro Iturbe,Atlético Madrid,ESP,GK,19.0,0,0,0
+Renan Lodi,Atlético Madrid,BRA,DF,24.0,0,0,0
+Carlos Martín,Atlético Madrid,ESP,FW,20.0,0,0,0
+Sergio Mestre,Atlético Madrid,ESP,GK,17.0,0,0,0
+Alberto Moreno,Atlético Madrid,ESP,MF,20.0,0,0,0
+Marco Moreno,Atlético Madrid,ESP,DF,21.0,0,0,0
+Iván Balliu,Rayo Vallecano,ALB,DF,31.0,20,0,0
+Francisco Garcia,Rayo Vallecano,ESP,DF,23.0,20,0,2
+Catena,Rayo Vallecano,ESP,DF,28.0,19,1,1
+Stole Dimitrievski,Rayo Vallecano,MKD,GK,29.0,19,0,0
+Isaac Palazón Camacho,Rayo Vallecano,ESP,"FW,MF",28.0,19,5,4
+Florian Lejeune,Rayo Vallecano,FRA,DF,31.0,18,3,0
+Álvaro García,Rayo Vallecano,ESP,"FW,MF",30.0,18,4,2
+Sergio Camello,Rayo Vallecano,ESP,FW,21.0,20,5,3
+Óscar Trejo,Rayo Vallecano,ARG,"MF,FW",34.0,18,2,3
+Óscar Valentín,Rayo Vallecano,ESP,MF,28.0,17,0,0
+Santi Comesaña,Rayo Vallecano,ESP,MF,26.0,18,1,0
+Pathé Ciss,Rayo Vallecano,SEN,"MF,DF",28.0,18,1,0
+Unai López,Rayo Vallecano,ESP,MF,27.0,19,1,2
+Radamel Falcao,Rayo Vallecano,COL,"FW,MF",36.0,17,2,0
+Salvi,Rayo Vallecano,ESP,"FW,MF",31.0,12,0,0
+Abdul Mumin,Rayo Vallecano,GHA,DF,24.0,4,0,0
+Andrés Martín,Rayo Vallecano,ESP,FW,23.0,4,0,0
+Diego López,Rayo Vallecano,ESP,GK,41.0,1,0,0
+José Pozo,Rayo Vallecano,ESP,MF,26.0,6,0,0
+Randy Ntekja,Rayo Vallecano,FRA,"FW,MF",25.0,10,0,0
+Pep Chavarría,Rayo Vallecano,ESP,"FW,DF",24.0,7,0,0
+Bebé,Rayo Vallecano,CPV,FW,32.0,4,0,0
+Raúl de Tomás,Rayo Vallecano,ESP,FW,28.0,2,0,0
+Pablo Muñoz,Rayo Vallecano,ESP,MF,19.0,2,0,0
+Mario Suárez,Rayo Vallecano,ESP,"DF,MF",35.0,1,0,0
+Mario Hernández,Rayo Vallecano,ESP,FW,24.0,1,0,0
+Diego Méndez,Rayo Vallecano,ESP,MF,19.0,1,0,0
+Esteban Saveljich,Rayo Vallecano,MNE,FW,31.0,1,0,0
+Morro,Rayo Vallecano,ESP,GK,22.0,0,0,0
+Daniel Parejo,Villarreal,ESP,MF,33.0,20,1,3
+Pau Torres,Villarreal,ESP,DF,26.0,17,0,0
+Raúl Albiol,Villarreal,ESP,DF,37.0,17,0,0
+Gerónimo Rulli,Villarreal,ARG,GK,30.0,14,0,0
+Étienne Capoue,Villarreal,FRA,MF,34.0,15,0,0
+Yeremi Pino,Villarreal,ESP,"MF,FW",20.0,19,2,1
+Samuel Chukwueze,Villarreal,NGA,"FW,MF",23.0,19,1,2
+Gerard Moreno,Villarreal,ESP,FW,30.0,12,5,2
+Alex Baena,Villarreal,ESP,"MF,FW",21.0,18,4,1
+Kiko Femenía,Villarreal,ESP,DF,32.0,14,0,0
+Alfonso Pedraza,Villarreal,ESP,DF,26.0,12,0,1
+Nicolas Jackson,Villarreal,SEN,FW,21.0,14,2,2
+Francis Coquelin,Villarreal,FRA,MF,31.0,15,1,0
+Giovani Lo Celso,Villarreal,ARG,"MF,FW",26.0,8,1,0
+Juan Foyth,Villarreal,ARG,DF,25.0,9,1,0
+Alberto Moreno,Villarreal,ESP,"DF,FW",30.0,10,0,0
+Arnaut Danjuma,Villarreal,NED,FW,26.0,10,2,0
+Pepe Reina,Villarreal,ESP,GK,40.0,5,0,0
+Aïssa Mandi,Villarreal,ALG,DF,31.0,9,0,0
+José Luis Morales,Villarreal,ESP,"FW,MF",35.0,19,1,0
+Johan Mojica,Villarreal,COL,DF,30.0,9,0,0
+Jorge Cuenca,Villarreal,ESP,DF,23.0,6,0,0
+Manu Trigueros,Villarreal,ESP,"MF,FW",31.0,11,0,0
+Manu Morlanes,Villarreal,ESP,MF,24.0,4,0,0
+Filip Jörgensen,Villarreal,DEN,GK,20.0,1,0,0
+Mamadou Fall,Villarreal,SEN,DF,20.0,1,0,0
+Fernando Niño,Villarreal,ESP,MF,22.0,1,0,0
+Diego Collado,Villarreal,ESP,FW,22.0,2,0,0
+Alberto Del Moral,Villarreal,ESP,MF,22.0,1,0,0
+Iker Álvarez,Villarreal,AND,GK,21.0,0,0,0
+Carlo,Villarreal,ESP,MF,21.0,0,0,0
+Pervis Estupiñán,Villarreal,ECU,DF,25.0,0,0,0
+Ramón Terrats,Villarreal,ESP,MF,22.0,0,0,0
+Borja Iglesias,Betis,ESP,FW,30.0,19,9,3
+Rui Silva,Betis,POR,GK,29.0,17,0,0
+William Carvalho,Betis,POR,MF,30.0,18,2,1
+Guido Rodríguez,Betis,ARG,MF,28.0,17,0,0
+Sergio Canales,Betis,ESP,"MF,FW",31.0,17,2,0
+Germán Pezzella,Betis,ARG,DF,31.0,17,0,0
+Álex Moreno,Betis,ESP,DF,29.0,15,0,3
+Luiz Henrique,Betis,BRA,FW,22.0,18,1,1
+Édgar González,Betis,ESP,DF,25.0,15,0,0
+Rodrigo,Betis,ESP,"FW,MF",22.0,15,1,0
+Youssouf Sabaly,Betis,SEN,DF,29.0,13,0,0
+Nabil Fekir,Betis,FRA,MF,29.0,13,2,2
+Luiz Felipe,Betis,ITA,DF,25.0,11,0,0
+Aitor Ruibal,Betis,ESP,"DF,FW",26.0,17,0,0
+Andrés Guardado,Betis,MEX,"MF,FW",36.0,13,0,0
+Juanmi,Betis,ESP,FW,29.0,9,3,0
+Víctor Ruiz,Betis,ESP,DF,34.0,5,0,0
+Juan Miranda,Betis,ESP,DF,23.0,5,0,0
+Claudio Bravo,Betis,CHI,GK,39.0,3,0,0
+Martín Montoya,Betis,ESP,DF,31.0,3,0,0
+Willian José,Betis,BRA,FW,31.0,15,0,0
+Paul Akouokou,Betis,CIV,MF,25.0,6,0,0
+Abner,Betis,BRA,DF,22.0,3,0,0
+Joaquín,Betis,ESP,"MF,FW",41.0,8,0,1
+Juan Cruz,Betis,ESP,FW,22.0,5,1,0
+Felix Garreta,Betis,ESP,DF,18.0,1,0,0
+Roberto González,Betis,ESP,"FW,MF",22.0,2,0,0
+Ayoze Pérez,Betis,ESP,FW,29.0,1,0,0
+Loren Morón,Betis,ESP,FW,29.0,2,0,0
+Fran Delgado,Betis,ESP,DF,21.0,1,0,0
+José Alonso Lara,Betis,ESP,MF,22.0,0,0,0
+Daniel Martín,Betis,ESP,GK,24.0,0,0,0
+Ricardo Visus,Betis,ESP,DF,21.0,0,0,0
+Unai Simón,Athletic Club,ESP,GK,25.0,20,0,0
+Nico Williams,Athletic Club,ESP,"FW,MF",20.0,20,3,4
+Óscar de Marcos,Athletic Club,ESP,DF,33.0,20,0,3
+Iñaki Williams,Athletic Club,GHA,FW,28.0,18,5,1
+Oihan Sancet,Athletic Club,ESP,MF,22.0,20,7,0
+Yeray Álvarez,Athletic Club,ESP,DF,28.0,17,1,1
+Mikel Vesga,Athletic Club,ESP,MF,29.0,19,2,2
+Álex Berenguer,Athletic Club,ESP,FW,27.0,19,3,1
+Daniel Vivian,Athletic Club,ESP,DF,23.0,14,1,0
+Iker Muniain,Athletic Club,ESP,MF,30.0,17,0,2
+Iñigo Lekue,Athletic Club,ESP,DF,29.0,15,0,1
+Yuri Berchiche,Athletic Club,ESP,DF,32.0,12,0,1
+Iñigo Martínez,Athletic Club,ESP,DF,31.0,9,0,0
+Dani García,Athletic Club,ESP,MF,32.0,12,0,1
+Gorka Guruzeta,Athletic Club,ESP,"FW,MF",26.0,13,5,0
+Ander Herrera,Athletic Club,ESP,MF,33.0,8,0,1
+Raúl García,Athletic Club,ESP,"FW,MF",36.0,19,1,2
+Oier Zarraga,Athletic Club,ESP,MF,24.0,14,0,0
+Aitor Paredes,Athletic Club,ESP,DF,22.0,5,0,0
+Asier Villalibre,Athletic Club,ESP,FW,25.0,5,0,0
+Unai Vencedor Paris,Athletic Club,ESP,MF,22.0,6,0,0
+Jon Morcillo,Athletic Club,ESP,"FW,MF",24.0,9,0,1
+Mikel Balenziaga,Athletic Club,ESP,DF,34.0,1,0,0
+Ander Capa,Athletic Club,ESP,"MF,FW",31.0,2,0,0
+Malcom Abdulai Ares Djalo,Athletic Club,ESP,FW,21.0,1,0,0
+Julen Agirrezabala,Athletic Club,ESP,GK,22.0,0,0,0
+Iru,Athletic Club,ESP,GK,24.0,0,0,0
+Peru Nolaskoain,Athletic Club,ESP,"DF,MF",24.0,0,0,0
+Moi Gómez,Osasuna,ESP,"MF,FW",28.0,20,1,2
+Lucas Torró,Osasuna,ESP,MF,28.0,19,0,0
+David García,Osasuna,ESP,DF,28.0,18,1,0
+Ezequiel Ávila,Osasuna,ARG,"FW,MF",29.0,18,7,2
+Unai García,Osasuna,ESP,DF,31.0,16,0,1
+Juan Cruz Armada,Osasuna,ESP,DF,30.0,16,0,0
+Jon Moncayola,Osasuna,ESP,"MF,FW",24.0,20,0,0
+Aimar Oroz,Osasuna,ESP,"MF,FW",21.0,16,3,1
+Ante Budimir,Osasuna,CRO,FW,31.0,16,2,0
+Aitor Fernández,Osasuna,ESP,GK,31.0,10,0,0
+Sergio Herrera,Osasuna,ESP,GK,29.0,10,0,0
+Nacho Vidal,Osasuna,ESP,DF,28.0,13,0,0
+Manuel Sánchez,Osasuna,ESP,DF,22.0,15,0,1
+Abdessamad Ezzalzouli,Osasuna,MAR,"FW,MF",21.0,14,0,2
+Rubén Peña,Osasuna,ESP,"DF,MF",31.0,11,0,1
+Darko Brašanac,Osasuna,SRB,MF,30.0,18,1,1
+Aridane Hernández,Osasuna,EQG,DF,33.0,7,0,0
+Rubén García,Osasuna,ESP,"MF,FW",29.0,17,1,2
+Diego Moreno,Osasuna,ESP,DF,21.0,5,0,0
+Kike Barja,Osasuna,ESP,"FW,MF",25.0,10,1,1
+Kike,Osasuna,ESP,FW,33.0,20,2,0
+Pablo Ibáñez,Osasuna,ESP,MF,24.0,8,0,0
+Roberto Torres,Osasuna,ESP,"FW,MF",33.0,2,0,0
+Iker Benito,Osasuna,ESP,FW,20.0,0,0,0
+Jorge Herrando,Osasuna,ESP,DF,21.0,0,0,0
+Javi Martínez,Osasuna,ESP,MF,23.0,0,0,0
+Juan Pérez,Osasuna,ESP,GK,26.0,0,0,0
+Dario Ramos,Osasuna,ESP,GK,23.0,0,0,0
+Predrag Rajković,Mallorca,SRB,GK,27.0,20,0,0
+Antonio Raillo,Mallorca,ESP,DF,31.0,19,1,0
+Vedat Muriqi,Mallorca,KVX,FW,28.0,18,8,1
+Martin Valjent,Mallorca,SVK,DF,27.0,17,0,0
+Jaume Costa,Mallorca,ESP,DF,34.0,17,0,1
+Pablo Maffeo,Mallorca,ESP,DF,25.0,18,1,2
+Lee Kangin,Mallorca,KOR,"MF,FW",21.0,19,2,3
+Copete,Mallorca,ESP,DF,23.0,17,0,0
+Iñigo Ruiz de Galarreta,Mallorca,ESP,MF,29.0,16,0,0
+Dani Rodríguez,Mallorca,ESP,MF,34.0,19,1,2
+Iddrisu Baba,Mallorca,GHA,MF,27.0,16,0,0
+Rodrigo Battaglia,Mallorca,ARG,MF,31.0,13,0,0
+Antonio Sánchez,Mallorca,ESP,MF,26.0,18,0,0
+Clément Grenier,Mallorca,FRA,MF,32.0,14,0,0
+Giovanni González,Mallorca,URU,DF,28.0,8,0,2
+Matija Nastasić,Mallorca,SRB,DF,29.0,7,0,0
+Amath,Mallorca,SEN,"MF,FW",26.0,13,1,0
+Braian Cufré,Mallorca,ARG,DF,26.0,5,0,0
+Franco Russo,Mallorca,ARG,DF,28.0,3,0,0
+Ángel Rodríguez,Mallorca,ESP,"FW,MF",35.0,8,0,0
+Abdón Prats,Mallorca,ESP,"FW,MF",30.0,13,1,0
+Tino Kadewere,Mallorca,ZIM,"FW,MF",27.0,4,0,0
+Lago Junior,Mallorca,CIV,"FW,MF",32.0,5,0,0
+Javier Llabrés,Mallorca,ESP,FW,20.0,1,0,0
+Josep Antoni Gayá,Mallorca,ESP,DF,22.0,0,0,0
+Ludwig Augustinsson,Mallorca,SWE,"DF,MF",28.0,0,0,0
+Dominik Greif,Mallorca,SVK,GK,25.0,0,0,0
+Dennis Hadzikadunic,Mallorca,BIH,DF,24.0,0,0,0
+Pere Joan,Mallorca,ESP,GK,20.0,0,0,0
+Miguel Llabrés,Mallorca,ESP,MF,23.0,0,0,0
+Manu Morlanes,Mallorca,ESP,MF,24.0,0,0,0
+Leonardo Román,Mallorca,ESP,GK,22.0,0,0,0
+Aleix García,Girona,ESP,MF,25.0,20,0,4
+Santiago Bueno,Girona,URU,DF,24.0,19,0,1
+Valentín Castellanos,Girona,ARG,FW,24.0,19,4,0
+Miguel Gutiérrez,Girona,ESP,DF,21.0,19,0,2
+Oriol Romeu,Girona,ESP,MF,31.0,16,1,0
+Arnau Martinez,Girona,ESP,DF,19.0,16,2,1
+Rodrigo Riquelme,Girona,ESP,"MF,FW",22.0,19,3,1
+David López,Girona,ESP,DF,33.0,11,2,1
+Juan Carlos,Girona,ESP,GK,35.0,10,0,0
+Paulo Gazzaniga,Girona,ARG,GK,31.0,10,0,0
+Yangel Herrera,Girona,VEN,"MF,FW",25.0,16,2,2
+Bernardo Espinosa,Girona,COL,DF,33.0,12,0,1
+Juanpe,Girona,ESP,DF,31.0,9,0,0
+Yan Couto,Girona,BRA,"DF,MF",20.0,14,0,1
+Toni Villa,Girona,ESP,"MF,FW",28.0,16,1,1
+Cristhian Stuani,Girona,URU,FW,36.0,16,5,0
+Valery,Girona,ESP,"MF,DF",23.0,15,0,2
+Iván Martín,Girona,ESP,"MF,FW",23.0,8,2,0
+Javi,Girona,ESP,DF,24.0,10,0,1
+Reinier,Girona,BRA,"MF,FW",21.0,7,1,0
+Ramón Terrats,Girona,ESP,MF,22.0,8,0,0
+Manu Vallejo,Girona,ESP,"FW,MF",25.0,7,0,1
+Samuel Sáiz,Girona,ESP,MF,32.0,8,2,0
+Oscar Ureña,Girona,ESP,MF,20.0,3,0,0
+Borja García,Girona,ESP,"FW,MF",32.0,2,1,0
+Joel Roca,Girona,ESP,"MF,FW",17.0,3,0,0
+Viktor Tsyhankov,Girona,UKR,MF,25.0,1,0,0
+Ricard Artero,Girona,ESP,MF,20.0,0,0,0
+Alexander Callens,Girona,PER,DF,30.0,0,0,0
+Biel Farres,Girona,ESP,DF,20.0,0,0,0
+Toni Fuidias,Girona,ESP,GK,21.0,0,0,0
+Matas,Girona,ESP,GK,21.0,0,0,0
+Eric Monjonell,Girona,ESP,DF,21.0,0,0,0
+Álex Sala,Girona,ESP,MF,21.0,0,0,0
+Pau Victor Delgado,Girona,ESP,FW,21.0,0,0,0
+Joseph Aidoo,Celta Vigo,GHA,DF,27.0,20,2,0
+Javi Galán,Celta Vigo,ESP,DF,28.0,20,0,1
+Agustín Marchesín,Celta Vigo,ARG,GK,34.0,19,0,0
+Unai Núñez,Celta Vigo,ESP,DF,26.0,19,0,0
+Iago Aspas,Celta Vigo,ESP,FW,35.0,20,9,3
+Fran Beltrán,Celta Vigo,ESP,MF,24.0,20,0,1
+Franco Cervi,Celta Vigo,ARG,MF,28.0,19,0,2
+Hugo Mallo,Celta Vigo,ESP,DF,31.0,15,0,0
+Óscar Rodríguez Arnaiz,Celta Vigo,ESP,MF,24.0,19,2,0
+Gabriel Veiga,Celta Vigo,ESP,MF,20.0,19,6,2
+Jørgen Strand Larsen,Celta Vigo,NOR,FW,23.0,16,2,3
+Óscar Mingueza,Celta Vigo,ESP,DF,23.0,16,0,0
+Carles Pérez,Celta Vigo,ESP,"MF,FW",24.0,19,0,3
+Renato Tapia,Celta Vigo,PER,MF,27.0,15,0,0
+Gonçalo Paciência,Celta Vigo,POR,FW,28.0,12,1,0
+Luca de la Torre,Celta Vigo,USA,MF,24.0,11,0,2
+Augusto Solari,Celta Vigo,ARG,"MF,FW",31.0,8,0,1
+Kevin Vázquez,Celta Vigo,ESP,"MF,DF",29.0,4,0,0
+Iván Villar,Celta Vigo,ESP,GK,25.0,1,0,0
+Pablo Durán,Celta Vigo,ESP,"MF,DF",22.0,4,0,0
+Williot Swedberg,Celta Vigo,SWE,MF,19.0,1,0,0
+Haris Seferović,Celta Vigo,SUI,MF,30.0,1,0,0
+Carlos Dominguez,Celta Vigo,ESP,MF,21.0,1,0,0
+Hugo Álvarez,Celta Vigo,ESP,DF,19.0,0,0,0
+Miguel Baeza,Celta Vigo,ESP,MF,22.0,0,0,0
+Coke Carrillo,Celta Vigo,ESP,GK,21.0,0,0,0
+Martín Conde,Celta Vigo,ESP,DF,19.0,0,0,0
+Francisco Lopez,Celta Vigo,ESP,FW,21.0,0,0,0
+Fernando Medrano,Celta Vigo,ESP,DF,22.0,0,0,0
+Miguel Rodríguez,Celta Vigo,ESP,FW,19.0,0,0,0
+Christian Sánchez,Celta Vigo,CUB,GK,23.0,0,0,0
+Javi Sánchez,Valladolid,ESP,DF,25.0,17,1,0
+Jordi Masip,Valladolid,ESP,GK,34.0,15,0,0
+Kike Pérez,Valladolid,ESP,MF,25.0,19,0,1
+Joaquín Fernández,Valladolid,ESP,DF,26.0,16,1,0
+Roque Mesa,Valladolid,ESP,MF,33.0,16,2,1
+Óscar Plano,Valladolid,ESP,"FW,MF",31.0,20,1,1
+Álvaro Aguado,Valladolid,ESP,MF,26.0,19,0,2
+Monchu,Valladolid,ESP,MF,23.0,17,1,1
+Sergio León,Valladolid,ESP,FW,34.0,17,5,1
+Sergio Escudero,Valladolid,ESP,DF,33.0,10,0,0
+Gonzalo Plata,Valladolid,ECU,"FW,MF",22.0,16,0,2
+Lucas Olaza,Valladolid,URU,DF,28.0,12,0,0
+Iván Sánchez,Valladolid,ESP,"MF,FW",30.0,15,0,0
+Sergi Guardiola,Valladolid,ESP,FW,31.0,14,0,0
+Iván Fresneda,Valladolid,ESP,DF,18.0,10,0,0
+Luis Pérez,Valladolid,ESP,DF,28.0,9,0,1
+Jawad El Yamiq,Valladolid,MAR,DF,30.0,12,0,0
+Lucas Oliveira Rosa,Valladolid,BRA,DF,22.0,10,0,0
+Shon Weissman,Valladolid,ISR,FW,26.0,15,1,0
+Sergio Asenjo,Valladolid,ESP,GK,33.0,5,0,0
+Zouhair Feddal,Valladolid,MAR,DF,34.0,8,0,0
+Anuar,Valladolid,MAR,"MF,FW",28.0,3,1,0
+Darwin Machís,Valladolid,VEN,FW,30.0,2,0,1
+Juanjo Narváez,Valladolid,COL,"MF,FW",27.0,5,0,0
+David Torres,Valladolid,ESP,DF,19.0,2,0,0
+Toni Villa,Valladolid,ESP,MF,28.0,2,0,0
+Martin Hongla,Valladolid,CMR,DF,24.0,1,0,0
+Kenedy,Valladolid,BRA,"FW,MF",27.0,4,0,0
+Mickael Malsa,Valladolid,MTQ,MF,27.0,5,0,0
+Cyle Larin,Valladolid,CAN,FW,27.0,2,2,0
+Sékou Gassama,Valladolid,SEN,FW,27.0,1,0,0
+Roberto Arroyo,Valladolid,ESP,MF,19.0,1,0,0
+Álvaro Aceves,Valladolid,ESP,GK,19.0,0,0,0
+Selim Amallah,Valladolid,MAR,"FW,MF",26.0,0,0,0
+Diego Moreno,Valladolid,ESP,DF,21.0,0,0,0
+Sergio Akieme,Almería,ESP,DF,25.0,20,0,0
+Fernando,Almería,ESP,GK,32.0,19,0,0
+Rodrigo Ely,Almería,BRA,DF,29.0,19,0,0
+Lucas Robertone,Almería,ARG,MF,25.0,20,1,3
+Srđan Babić,Almería,SRB,DF,26.0,17,1,0
+Gonzalo Melero,Almería,ESP,MF,29.0,14,2,3
+Léo Baptistão,Almería,BRA,"FW,MF",30.0,16,3,1
+Largie Ramazani,Almería,BEL,"FW,MF",21.0,18,2,0
+Samu Costa,Almería,POR,MF,22.0,16,0,0
+El Bilal Touré,Almería,MLI,FW,21.0,14,4,2
+Alejandro Pozo Pozo,Almería,ESP,DF,23.0,16,0,1
+César de la Hoz,Almería,ESP,MF,30.0,11,1,0
+Adri Embarba,Almería,ESP,"FW,MF",30.0,15,1,3
+Houboulang Mendes,Almería,FRA,DF,24.0,10,0,1
+Juan Brandáriz,Almería,ESP,DF,23.0,10,1,0
+Íñigo Eguaras,Almería,ESP,MF,30.0,15,1,1
+Kaiky,Almería,BRA,DF,19.0,8,0,0
+Umar Sadiq,Almería,NGA,FW,26.0,3,2,0
+Luis Javier Suárez,Almería,COL,FW,25.0,5,1,0
+Dyego Sousa,Almería,POR,FW,33.0,13,0,1
+Lázaro,Almería,BRA,"MF,FW",20.0,8,1,0
+Francisco Portillo,Almería,ESP,"MF,FW",32.0,14,2,0
+Arnau Puigmal,Almería,ESP,"MF,DF",22.0,11,0,0
+Fernando Pacheco,Almería,ESP,GK,30.0,1,0,0
+Curro,Almería,ESP,MF,27.0,2,0,0
+José Carlos Lazo,Almería,ESP,"MF,FW",26.0,1,0,0
+Marko Milovanović,Almería,SRB,FW,19.0,2,0,0
+Álex Centelles,Almería,ESP,DF,25.0,0,0,0
+Arvin Appiah,Almería,ENG,MF,22.0,0,0,0
+Diego Fuoli,Almería,ESP,GK,25.0,0,0,0
+Gui Guedes,Almería,POR,MF,20.0,0,0,0
+Carlos Rojas,Almería,ESP,FW,20.0,0,0,0
+Martin Šviderský,Almería,SVK,MF,20.0,0,0,0
+Sergi Darder,Espanyol,ESP,MF,29.0,20,2,1
+Joselu,Espanyol,ESP,FW,32.0,19,11,2
+Brian Oliván,Espanyol,ESP,DF,28.0,19,0,5
+Leandro Cabrera,Espanyol,URU,DF,31.0,19,0,0
+Vinicius Souza,Espanyol,BRA,MF,23.0,18,0,0
+Óscar Gil,Espanyol,ESP,DF,25.0,16,0,1
+Martin Braithwaite,Espanyol,DEN,"FW,MF",31.0,15,5,1
+Fernando Calero,Espanyol,ESP,"DF,MF",27.0,17,0,0
+Javi Puado,Espanyol,ESP,"FW,MF",24.0,19,3,1
+Sergi Gómez,Espanyol,ESP,DF,30.0,14,0,0
+Edu Expósito,Espanyol,ESP,MF,26.0,18,2,2
+Álvaro Fernández,Espanyol,ESP,GK,24.0,10,0,0
+Benjamin Lecomte,Espanyol,FRA,GK,31.0,10,0,0
+Aleix Vidal,Espanyol,ESP,"MF,FW",33.0,15,0,0
+Nico Ribaudo,Espanyol,ESP,"FW,MF",21.0,14,0,0
+César Montes,Espanyol,MEX,DF,25.0,5,0,0
+Rubén,Espanyol,ESP,"DF,MF",22.0,9,0,1
+Keidi Bare,Espanyol,ALB,MF,25.0,11,0,0
+Omar El Hilali,Espanyol,MAR,"DF,MF",19.0,5,0,0
+Ronaël Pierre-Gabriel,Espanyol,FRA,DF,24.0,1,0,0
+José Carlos Lazo,Espanyol,ESP,"MF,FW",26.0,8,1,0
+Dani Gómez,Espanyol,ESP,"MF,FW",24.0,7,0,0
+Wassim Boullif,Espanyol,ESP,"DF,MF",18.0,4,0,0
+Adri Embarba,Espanyol,ESP,FW,30.0,1,0,0
+José Gragera,Espanyol,ESP,MF,22.0,1,0,0
+Denis Suárez,Espanyol,ESP,MF,29.0,1,0,0
+Luca Koleosho,Espanyol,CAN,"FW,DF",18.0,2,0,0
+Pol Lozano,Espanyol,ESP,MF,23.0,4,0,0
+Roger Martínez,Espanyol,ESP,DF,18.0,1,0,0
+Nabil Touaizi,Espanyol,MAR,MF,22.0,1,0,0
+Fortuño,Espanyol,ESP,GK,21.0,0,0,0
+Joan García,Espanyol,ESP,GK,21.0,0,0,0
+Fernando Pacheco,Espanyol,ESP,GK,30.0,0,0,0
+Daniel Villahermosa,Espanyol,ESP,MF,22.0,0,0,0
+Yassine Bounou,Sevilla,MAR,GK,31.0,18,0,0
+Óliver Torres,Sevilla,ESP,"MF,FW",28.0,18,3,1
+Nemanja Gudelj,Sevilla,SRB,"DF,MF",31.0,18,2,0
+Joan Jordán,Sevilla,ESP,MF,28.0,16,0,1
+Érik Lamela,Sevilla,ARG,"FW,MF",30.0,18,3,0
+Marcos Acuña,Sevilla,ARG,DF,31.0,15,2,1
+Jesús Navas,Sevilla,ESP,"DF,FW",37.0,16,0,0
+Ivan Rakitić,Sevilla,CRO,MF,34.0,16,1,2
+Fernando,Sevilla,BRA,"MF,DF",35.0,12,0,0
+Tanguy Nianzou,Sevilla,FRA,DF,20.0,12,1,0
+Isco,Sevilla,ESP,"MF,FW",30.0,12,0,2
+Gonzalo Montiel,Sevilla,ARG,DF,26.0,12,0,1
+Rafa Mir,Sevilla,ESP,FW,25.0,14,3,0
+Karim Rekik,Sevilla,NED,DF,28.0,10,1,1
+Alex Telles,Sevilla,BRA,DF,30.0,13,0,2
+Youssef En-Nesyri,Sevilla,MAR,"FW,MF",25.0,16,2,0
+Papu Gómez,Sevilla,ARG,"MF,FW",34.0,13,0,1
+Carmona,Sevilla,ESP,DF,21.0,10,2,1
+Enrique Valiente,Sevilla,ESP,DF,20.0,6,1,1
+Marcão,Sevilla,BRA,DF,26.0,4,0,0
+Loïc Bade,Sevilla,FRA,DF,22.0,5,0,0
+Thomas Delaney,Sevilla,DEN,MF,31.0,8,0,0
+Lucas Ocampos,Sevilla,ARG,"FW,MF",28.0,6,0,0
+Marko Dmitrović,Sevilla,SRB,GK,31.0,3,0,0
+Kasper Dolberg,Sevilla,DEN,FW,25.0,4,0,1
+Suso,Sevilla,ESP,"FW,MF",29.0,9,0,1
+Pape Gueye,Sevilla,SEN,MF,24.0,1,0,0
+Jesús Corona,Sevilla,MEX,FW,30.0,1,0,0
+Adnan Januzaj,Sevilla,BEL,FW,28.0,2,0,0
+Bryan,Sevilla,ESP,MF,21.0,1,0,0
+Iván Romero,Sevilla,ESP,MF,21.0,1,0,0
+Carlos Álvarez,Sevilla,ESP,FW,19.0,1,0,0
+Pedro Ortiz,Sevilla,ESP,MF,22.0,1,0,0
+Matías Árbol,Sevilla,ESP,GK,20.0,0,0,0
+Munir El Haddadi,Sevilla,MAR,"FW,MF",27.0,0,0,0
+Diego Iturralde,Sevilla,ESP,DF,19.0,0,0,0
+Alberto López,Sevilla,ESP,GK,19.0,0,0,0
+Nacho Quintana,Sevilla,ESP,MF,21.0,0,0,0
+Manuel Sebastián,Sevilla,ESP,MF,18.0,0,0,0
+Giorgi Mamardashvili,Valencia,GEO,GK,22.0,20,0,0
+Samuel,Valencia,BRA,"FW,MF",23.0,20,2,0
+José Luis Gayà,Valencia,ESP,DF,27.0,16,1,2
+Thierry Correia,Valencia,POR,DF,23.0,16,0,0
+Yunus Musah,Valencia,USA,MF,20.0,17,0,2
+Eray Cömert,Valencia,SUI,DF,25.0,16,1,0
+Hugo Guillamón,Valencia,ESP,MF,23.0,17,1,4
+Domingos André Ribeiro Almeida,Valencia,POR,MF,22.0,17,2,3
+Mouctar Diakhaby,Valencia,GUI,DF,26.0,13,2,0
+Edinson Cavani,Valencia,URU,FW,35.0,13,5,1
+Samu Castillejo,Valencia,ESP,FW,28.0,15,2,0
+Gabriel Paulista,Valencia,BRA,DF,32.0,12,1,0
+Justin Kluivert,Valencia,NED,"FW,MF",23.0,14,3,0
+Nicolás González,Valencia,ESP,MF,21.0,13,1,0
+Dimitri Foulquier,Valencia,FRA,"DF,MF",29.0,14,0,1
+Toni Lato,Valencia,ESP,"MF,DF",25.0,13,1,0
+Ilaix Moriba,Valencia,GUI,MF,20.0,12,0,0
+Cenk Özkacar,Valencia,TUR,DF,22.0,6,0,0
+Hugo Duro,Valencia,ESP,"FW,MF",23.0,14,1,0
+Maranhão,Valencia,BRA,"FW,MF",26.0,15,1,0
+Carlos Soler,Valencia,ESP,MF,26.0,3,1,0
+Jesus Vazquez,Valencia,ESP,"DF,MF",20.0,6,0,0
+Cristhian Mosquera,Valencia,COL,DF,18.0,3,0,0
+Maxi Gómez,Valencia,URU,FW,26.0,3,0,0
+Francisco Perez,Valencia,ESP,"FW,DF",20.0,3,0,0
+Diego Noguerol,Valencia,ESP,"FW,DF",20.0,1,0,0
+Emilio Bernard,Valencia,ESP,GK,23.0,0,0,0
+Cristian,Valencia,ESP,GK,24.0,0,0,0
+Jaume Doménech,Valencia,ESP,GK,32.0,0,0,0
+Mario Dominguez,Valencia,ESP,MF,18.0,0,0,0
+Javier Guerra,Valencia,ESP,MF,20.0,0,0,0
+Iago Herrerín,Valencia,ESP,GK,35.0,0,0,0
+Koba Koindredi,Valencia,FRA,MF,21.0,0,0,0
+Ruben Lendinez,Valencia,ESP,DF,19.0,0,0,0
+Charlie Perez,Valencia,ESP,GK,20.0,0,0,0
+Uroš Račić,Valencia,SRB,MF,24.0,0,0,0
+Tiago Ribeiro,Valencia,POR,MF,20.0,0,0,0
+Jesús Santiago,Valencia,ESP,MF,18.0,0,0,0
+Manu Vallejo,Valencia,ESP,"FW,MF",25.0,0,0,0
+Jeremías Ledesma,Cádiz,ARG,GK,29.0,20,0,0
+Alfonso Espino,Cádiz,URU,DF,31.0,20,0,3
+Luis Hernández,Cádiz,ESP,DF,33.0,18,0,0
+Álex Fernández,Cádiz,ESP,"MF,FW",30.0,18,3,0
+Rubén Sobrino,Cádiz,ESP,"FW,MF",30.0,16,1,1
+Brian Ocampo,Cádiz,URU,"MF,FW",23.0,16,1,1
+Fede San Emeterio,Cádiz,ESP,MF,25.0,16,0,0
+Anthony Lozano,Cádiz,HON,FW,29.0,18,0,0
+Isaac Carcelen,Cádiz,ESP,DF,29.0,13,0,0
+Fali,Cádiz,ESP,"DF,MF",29.0,13,0,0
+Rubén Alcaraz,Cádiz,ESP,MF,31.0,15,1,0
+Víctor Chust,Cádiz,ESP,DF,22.0,11,1,0
+Theo Bongonda,Cádiz,COD,MF,27.0,13,2,0
+Iván Alejo,Cádiz,ESP,"MF,FW",27.0,15,0,1
+Joseba Zaldúa,Cádiz,ESP,DF,30.0,10,0,1
+Álvaro Negredo,Cádiz,ESP,FW,37.0,14,1,2
+Mamadou Mbaye,Cádiz,SEN,DF,24.0,7,0,0
+Lucas Pérez,Cádiz,ESP,FW,34.0,14,3,0
+Santiago Arzamendia,Cádiz,PAR,"MF,DF",24.0,8,0,0
+José Mari,Cádiz,ESP,MF,35.0,12,0,0
+Tomás Alarcón,Cádiz,CHI,MF,24.0,4,0,0
+Blanco,Cádiz,ESP,MF,22.0,3,0,0
+Awer Mabil,Cádiz,AUS,"MF,FW",27.0,5,0,0
+Cala,Cádiz,ESP,DF,33.0,3,0,0
+Gonzalo Escalante,Cádiz,ARG,MF,29.0,2,1,0
+Roger Martí,Cádiz,ESP,FW,32.0,2,0,0
+Mamady Diarra,Cádiz,MLI,"MF,DF",22.0,2,0,0
+Alberto Perea,Cádiz,ESP,MF,32.0,1,0,0
+Youba Diarra,Cádiz,MLI,MF,24.0,3,0,0
+Raúl Parra,Cádiz,ESP,"DF,MF",23.0,2,0,0
+Carlos García,Cádiz,ESP,DF,22.0,1,0,1
+Sergi Guardiola,Cádiz,ESP,FW,31.0,1,0,0
+Chris Ramos,Cádiz,ESP,MF,26.0,1,0,0
+Álvaro Giménez,Cádiz,ESP,FW,31.0,1,0,0
+Álvaro Bastida,Cádiz,ESP,MF,18.0,0,0,0
+Karl Etta,Cádiz,CMR,MF,19.0,0,0,0
+David Gil,Cádiz,ESP,GK,29.0,0,0,0
+Kikín,Cádiz,ESP,DF,20.0,0,0,0
+Curro Muñoz,Cádiz,ESP,MF,20.0,0,0,0
+Lautaro Spatz,Cádiz,ARG,DF,21.0,0,0,0
+Victor Wehbi,Cádiz,BRA,GK,20.0,0,0,0
+David Soria,Getafe,ESP,GK,29.0,20,0,0
+Enes Ünal,Getafe,TUR,FW,25.0,20,6,3
+Borja Mayoral,Getafe,ESP,FW,25.0,20,4,0
+Domingos Duarte,Getafe,POR,DF,27.0,19,0,2
+Carles Aleñá,Getafe,ESP,MF,25.0,19,2,2
+Djené,Getafe,TOG,DF,31.0,18,0,0
+Iglesias,Getafe,ESP,DF,24.0,18,1,0
+Luis Milla,Getafe,ESP,MF,28.0,14,0,0
+Damián Suárez,Getafe,URU,DF,34.0,13,1,0
+Stefan Mitrović,Getafe,SRB,DF,32.0,14,0,0
+Nemanja Maksimović,Getafe,SRB,MF,28.0,12,0,0
+Ángel Algobia,Getafe,ESP,MF,23.0,14,0,0
+Omar Alderete,Getafe,PAR,DF,26.0,8,0,0
+Mauro Arambarri,Getafe,URU,MF,27.0,7,0,1
+Fabrizio Angileri,Getafe,ARG,DF,28.0,8,0,0
+Portu,Getafe,ESP,"DF,MF",30.0,17,0,2
+Gastón Álvarez,Getafe,URU,DF,22.0,10,2,0
+Jaime Seoane,Getafe,ESP,MF,26.0,11,0,0
+Jordan Amavi,Getafe,FRA,DF,28.0,4,0,0
+Munir El Haddadi,Getafe,MAR,"MF,FW",27.0,12,1,0
+Latasa,Getafe,ESP,"FW,DF",21.0,10,0,0
+Gonzalo Villar,Getafe,ESP,MF,24.0,4,0,0
+Jaime Mata,Getafe,ESP,FW,34.0,6,0,0
+Moises Parra Gutierrez,Getafe,ESP,FW,20.0,1,0,0
+Alejandro Revuelta Montero,Getafe,ESP,DF,22.0,1,0,0
+Emmanuel Amankwaa Akurugu,Getafe,GHA,DF,21.0,0,0,0
+Vicente Bellmunt,Getafe,ESP,GK,23.0,0,0,0
+Kiko Casilla,Getafe,ESP,GK,36.0,0,0,0
+Diego Conde,Getafe,ESP,GK,24.0,0,0,0
+John Joe,Getafe,IRL,MF,19.0,0,0,0
+Pablo Ramírez,Getafe,ESP,DF,19.0,0,0,0
+Gorka Rivera Alonso,Getafe,ESP,DF,18.0,0,0,0
+Alex Rodríguez,Getafe,ESP,DF,20.0,0,0,0
+Édgar Badía,Elche,ESP,GK,30.0,20,0,0
+Omar Mascarell,Elche,ESP,MF,30.0,18,0,0
+Pedro Bigas,Elche,ESP,DF,32.0,17,0,0
+Lucas Boyé,Elche,ARG,FW,26.0,18,1,2
+Gerard Gumbau,Elche,ESP,MF,28.0,18,0,3
+Pere Milla,Elche,ESP,"FW,MF",30.0,19,6,1
+Carlos Clerc,Elche,ESP,"DF,MF",30.0,15,0,1
+Helibelton Palacios,Elche,COL,DF,29.0,15,0,0
+Enzo Roco,Elche,CHI,DF,30.0,15,0,0
+Tete Morente,Elche,ESP,"MF,DF",26.0,15,0,0
+Raúl Guti,Elche,ESP,MF,26.0,15,0,0
+Roger Martí,Elche,ESP,FW,32.0,12,0,1
+Álex Collado,Elche,ESP,MF,23.0,9,1,1
+Pol Lirola,Elche,ESP,DF,25.0,8,1,0
+Diego González,Elche,ESP,DF,28.0,11,0,0
+Gonzalo Verdú,Elche,ESP,DF,34.0,8,1,0
+Ezequiel Ponce,Elche,ARG,FW,25.0,19,3,0
+Fidel,Elche,ESP,"FW,MF",33.0,10,0,1
+Josan,Elche,ESP,"DF,MF",33.0,13,1,0
+Johan Mojica,Elche,COL,"DF,MF",30.0,3,0,0
+Carmona,Elche,ESP,MF,21.0,3,1,0
+Nicolás Ezequiel Fernández,Elche,ARG,"MF,DF",23.0,9,0,0
+Domingos Quina,Elche,POR,MF,23.0,10,0,0
+Lautaro Blanco,Elche,ARG,"MF,DF",23.0,5,0,1
+John Donald,Elche,ESP,DF,22.0,3,0,0
+Lisandro Magallán,Elche,ARG,DF,29.0,3,0,0
+Federico Fernández,Elche,ARG,DF,33.0,1,0,0
+Randy Ntekja,Elche,FRA,FW,25.0,1,0,0
+Alejandro Alfaro,Elche,ESP,MF,20.0,1,0,0
+Javier Pastore,Elche,ARG,MF,33.0,1,0,0
+Manu Cocca,Elche,ARG,DF,20.0,0,0,0
+Jesús López,Elche,ESP,GK,20.0,0,0,0
+Rodrigo Mendoza,Elche,ESP,MF,17.0,0,0,0
+Juan Navarro,Elche,ESP,GK,24.0,0,0,0
+Marco Soler,Elche,ESP,DF,22.0,0,0,0
+Axel Werner,Elche,ARG,GK,26.0,0,0,0
+Gianluigi Donnarumma,Paris S-G,ITA,GK,23,22,0,0
+Marquinhos,Paris S-G,BRA,DF,28,21,2,0
+Lionel Messi,Paris S-G,ARG,"MF,FW",35,18,10,10
+Sergio Ramos,Paris S-G,ESP,DF,36,19,0,1
+Kylian Mbappé,Paris S-G,FRA,FW,24,19,13,2
+Achraf Hakimi,Paris S-G,MAR,"DF,MF",24,20,4,3
+Neymar,Paris S-G,BRA,"MF,FW",31,18,12,10
+Vitinha,Paris S-G,POR,MF,22,20,0,0
+Marco Verratti,Paris S-G,ITA,MF,30,17,0,0
+Danilo Pereira,Paris S-G,POR,"DF,MF",31,17,1,0
+Fabián Ruiz Peña,Paris S-G,ESP,MF,26,14,1,1
+Nordi Mukiele,Paris S-G,FRA,DF,25,17,0,3
+Juan Bernat,Paris S-G,ESP,DF,29,16,1,1
+Nuno Mendes,Paris S-G,POR,"DF,MF",20,14,1,4
+Carlos Soler,Paris S-G,ESP,"MF,FW",26,14,2,2
+Hugo Ekitike,Paris S-G,FRA,FW,20,15,3,3
+Presnel Kimpembe,Paris S-G,FRA,DF,27,8,0,0
+Renato Sanches,Paris S-G,POR,MF,25,14,2,0
+Pablo Sarabia,Paris S-G,ESP,"FW,MF",30,14,0,0
+Warren Zaire-Emery,Paris S-G,FRA,MF,16,10,1,0
+El Chadaille Bitshiabu,Paris S-G,FRA,DF,17,4,0,0
+Leandro Paredes,Paris S-G,ARG,MF,28,3,0,1
+Ismaël Gharbi,Paris S-G,ESP,FW,18,2,0,0
+Abdou Diallo,Paris S-G,SEN,DF,26,0,0,0
+Ilyes Housni,Paris S-G,FRA,FW,17,0,0,0
+Arnaud Kalimuendo,Paris S-G,FRA,FW,21,0,0,0
+Ayman Kari,Paris S-G,FRA,MF,18,0,0,0
+Alexandre Letellier,Paris S-G,FRA,GK,32,0,0,0
+Keylor Navas,Paris S-G,CRC,GK,36,0,0,0
+Timothee Pembele,Paris S-G,FRA,DF,20,0,0,0
+Sergio Rico,Paris S-G,ESP,GK,29,0,0,0
+Chancel Mbemba,Marseille,COD,DF,28,22,2,0
+Leonardo Balerdi,Marseille,ARG,DF,24,22,0,1
+Valentin Rongier,Marseille,FRA,MF,28,21,1,0
+Pau López,Marseille,ESP,GK,28,18,0,1
+Jonathan Clauss,Marseille,FRA,DF,30,18,1,8
+Mattéo Guendouzi,Marseille,FRA,MF,23,20,1,3
+Alexis Sánchez,Marseille,CHI,"FW,MF",34,19,7,1
+Nuno Tavares,Marseille,POR,"DF,MF",23,19,5,0
+Jordan Veretout,Marseille,FRA,MF,29,22,3,2
+Samuel Gigot,Marseille,FRA,DF,29,16,2,2
+Cengiz Ünder,Marseille,TUR,"MF,DF",25,21,1,3
+Sead Kolašinac,Marseille,BIH,DF,29,18,3,1
+Dimitri Payet,Marseille,FRA,"MF,FW",35,18,2,3
+Amine Harit,Marseille,MAR,"MF,FW",25,10,0,0
+Gerson,Marseille,BRA,MF,25,10,2,0
+Issa Kaboré,Marseille,BFA,DF,21,10,1,0
+Pape Gueye,Marseille,SEN,"MF,DF",24,14,1,1
+Rubén Blanco,Marseille,ESP,GK,27,4,0,0
+Eric Bailly,Marseille,CIV,DF,28,6,0,0
+Ruslan Malinovskyi,Marseille,UKR,"MF,FW",29,5,1,0
+Luis Javier Suárez,Marseille,COL,FW,25,7,3,1
+Arkadiusz Milik,Marseille,POL,FW,28,2,0,0
+Bamba Dieng,Marseille,SEN,"FW,MF",22,10,1,0
+Vitinha,Marseille,POR,FW,22,1,0,0
+Souleymane Touré,Marseille,FRA,DF,19,5,0,0
+Cédric Bakambu,Marseille,COD,MF,31,3,0,1
+Azzedine Ounahi,Marseille,MAR,MF,22,2,1,0
+Duje Ćaleta-Car,Marseille,CRO,DF,26,1,0,0
+Salim Ben Seghir,Marseille,FRA,MF,19,1,0,0
+Bartuğ Elmaz,Marseille,TUR,MF,19,0,0,0
+Pol Lirola,Marseille,ESP,"DF,MF",25,0,0,0
+François Mughe,Marseille,CMR,FW,18,0,0,0
+Simon Ngapandouetnbu,Marseille,CMR,GK,19,0,0,0
+Yakine Said Mmadi,Marseille,COM,DF,18,0,0,0
+Kevin Danso,Lens,AUT,DF,24,22,1,1
+Brice Samba,Lens,CGO,GK,28,22,0,0
+Salis Abdul Samed,Lens,GHA,MF,22,20,1,0
+Florian Sotoca,Lens,FRA,"MF,FW",32,22,6,6
+Facundo Medina,Lens,ARG,DF,23,20,1,2
+Seko Fofana,Lens,CIV,MF,27,20,3,3
+Przemysław Frankowski,Lens,POL,"DF,MF",27,22,2,2
+Jonathan Gradit,Lens,FRA,DF,30,17,1,2
+Deiver Machado,Lens,COL,"DF,MF",29,19,1,1
+Loïs Openda,Lens,BEL,FW,22,22,9,1
+David Pereira da Costa,Lens,POR,"MF,FW",22,20,1,3
+Massadio Haïdara,Lens,MLI,"DF,MF",30,20,0,0
+Wesley Saïd,Lens,FRA,"FW,MF",27,17,5,0
+Jimmy Cabot,Lens,FRA,"DF,MF",28,11,0,1
+Jean Onana,Lens,CMR,MF,23,11,0,0
+Alexis Claude-Maurice,Lens,FRA,"MF,FW",24,13,2,2
+Łukasz Poręba,Lens,POL,MF,22,7,0,1
+Adrien Thomasson,Lens,FRA,"MF,FW",29,4,1,0
+Julien Le Cardinal,Lens,FRA,DF,25,3,0,0
+Ismaëlben Boura,Lens,FRA,"DF,FW",22,9,0,0
+Rémy Labeau Lascary,Lens,GLP,"FW,MF",19,5,0,0
+Adam Buksa,Lens,POL,"FW,MF",26,4,0,0
+Ignatius Ganago,Lens,CMR,FW,23,4,0,0
+Patrick Berg,Lens,NOR,"MF,FW",25,3,0,0
+Gaël Kakuta,Lens,COD,FW,31,2,0,0
+Angelo Fulgini,Lens,FRA,DF,26,1,0,0
+Steven Fortes,Lens,CPV,DF,30,1,0,0
+Christopher Wooh,Lens,CMR,MF,21,1,0,0
+Ibrahima Baldé,Lens,FRA,FW,20,0,0,0
+Yacouba Barry,Lens,FRA,MF,20,0,0,0
+Nolan Bonte,Lens,FRA,FW,19,0,0,0
+Pierre Ganiou,Lens,FRA,DF,17,0,0,0
+Yaya Kader Fofana,Lens,MLI,MF,18,0,0,0
+Jean-Louis Leca,Lens,FRA,GK,37,0,0,0
+Adrien Louveau,Lens,FRA,MF,23,0,0,0
+Alexander Nübel,Monaco,GER,GK,26,22,0,0
+Axel Disasi,Monaco,FRA,DF,24,22,2,3
+Youssouf Fofana,Monaco,FRA,MF,24,21,1,1
+Caio Henrique Oliveira Silva,Monaco,BRA,DF,25,19,1,7
+Breel Embolo,Monaco,SUI,FW,25,22,12,2
+Aleksandr Golovin,Monaco,RUS,"MF,FW",26,21,4,6
+Guillermo Maripán,Monaco,CHI,DF,28,17,3,0
+Mohamed Camara,Monaco,MLI,MF,23,17,0,2
+Wissam Ben Yedder,Monaco,FRA,FW,32,18,12,2
+Vanderson,Monaco,BRA,DF,21,20,0,3
+Krépin Diatta,Monaco,SEN,"MF,FW",23,18,2,1
+Benoît Badiashile,Monaco,FRA,DF,21,11,2,0
+Takumi Minamino,Monaco,JPN,"MF,FW",28,11,1,3
+Eliot Matazo,Monaco,BEL,"MF,FW",20,10,0,0
+Ruben Aguilar,Monaco,FRA,DF,29,12,0,0
+Eliesse Ben Seghir,Monaco,FRA,FW,17,6,3,0
+Ismail Jakobs,Monaco,SEN,"DF,MF",23,18,0,2
+Malang Sarr,Monaco,FRA,DF,24,9,0,0
+Gelson Martins,Monaco,POR,"MF,FW",27,10,0,0
+Jean Lucas,Monaco,BRA,MF,24,6,0,0
+Kevin Volland,Monaco,GER,"MF,FW",30,8,2,1
+Maghnes Akliouche,Monaco,FRA,"MF,DF",20,6,0,0
+Sofiane Diop,Monaco,FRA,MF,22,1,1,0
+Soungoutou Magassa,Monaco,MLI,MF,19,1,0,0
+Myron Boadu,Monaco,NED,FW,22,4,1,0
+Thomas Didillon,Monaco,FRA,GK,27,0,0,0
+Félix Lemaréchal,Monaco,CIV,MF,19,0,0,0
+Chrislain Matsima,Monaco,FRA,DF,20,0,0,0
+Arthur Theate,Rennes,BEL,DF,22,22,2,0
+Benjamin Bourigeaud,Rennes,FRA,"MF,FW",29,21,3,5
+Steve Mandanda,Rennes,FRA,GK,37,20,0,1
+Adrien Truffert,Rennes,FRA,DF,21,22,0,6
+Hamari Traoré,Rennes,MLI,DF,31,19,1,2
+Amine Gouiri,Rennes,FRA,FW,22,17,9,1
+Flavien Tait,Rennes,FRA,MF,30,22,2,2
+Martin Terrier,Rennes,FRA,"FW,MF",25,16,9,4
+Joe Rodon,Rennes,WAL,DF,25,13,1,0
+Arnaud Kalimuendo,Rennes,FRA,FW,21,15,4,1
+Lovro Majer,Rennes,CRO,"MF,FW",25,17,1,2
+Baptiste Santamaria,Rennes,FRA,MF,27,10,1,0
+Chimuanya Ugochukwu,Rennes,FRA,MF,18,14,0,0
+Christopher Wooh,Rennes,CMR,DF,21,9,0,0
+Désiré Doué,Rennes,FRA,"MF,FW",17,16,3,1
+Xeka,Rennes,POR,MF,28,8,0,0
+Birger Meling,Rennes,NOR,DF,28,16,0,0
+Gaëtan Laborde,Rennes,FRA,FW,28,4,2,0
+Jeremy Doku,Rennes,BEL,"MF,FW",20,15,0,0
+Kamaldeen Sulemana,Rennes,GHA,"FW,MF",20,14,1,0
+Doğan Alemdar,Rennes,TUR,GK,20,3,0,0
+Lorenz Assignon,Rennes,TOG,DF,22,6,0,1
+Warmed Omari,Rennes,FRA,DF,22,2,0,0
+Karl Toko Ekambi,Rennes,CMR,"FW,MF",30,2,0,0
+Loïc Bade,Rennes,FRA,DF,22,1,0,1
+Djed Spence,Rennes,ENG,DF,22,1,0,0
+Matthis Abline,Rennes,FRA,"FW,MF",19,11,1,0
+Sehrou Guirassy,Rennes,GUI,MF,26,1,0,0
+Jeanöel Belocian,Rennes,FRA,DF,17,1,0,0
+Alan Do Marcolino,Rennes,GAB,FW,20,1,0,0
+Guela Doué,Rennes,FRA,FW,20,1,0,0
+Ibrahim Salah,Rennes,BEL,MF,21,1,0,0
+Romain Salin,Rennes,FRA,GK,38,0,0,0
+Noah Francoise,Rennes,FRA,MF,19,0,0,0
+Léo Rouille,Rennes,FRA,DF,18,0,0,0
+Gabriel Tutu,Rennes,FRA,FW,19,0,0,0
+Angel Gomes,Lille,ENG,MF,22,21,2,3
+Jonathan David,Lille,CAN,FW,23,21,12,4
+Benjamin André,Lille,FRA,MF,32,20,1,1
+Tiago Djaló,Lille,POR,DF,22,21,2,0
+Bafodé Diakité,Lille,FRA,DF,22,21,0,0
+José Fonte,Lille,POR,DF,39,19,1,0
+Ismaily,Lille,BRA,DF,33,18,2,1
+Jonathan Bamba,Lille,FRA,FW,26,18,4,3
+Lucas Chevalier,Lille,FRA,GK,21,16,0,0
+Rémy Cabella,Lille,FRA,"MF,FW",32,16,4,6
+Adam Ounas,Lille,ALG,FW,26,13,1,1
+André Gomes,Lille,POR,MF,29,14,1,0
+Timothy Weah,Lille,USA,"DF,FW",22,13,0,2
+Edon Zhegrova,Lille,KVX,"FW,DF",23,12,1,2
+Leonardo César Jardim,Lille,BRA,GK,27,6,0,0
+Mohamed Lamine Bayo,Lille,GUI,"FW,MF",24,15,3,0
+Leny Yoro,Lille,FRA,"DF,MF",17,6,0,0
+Alexsandro Ribeiro,Lille,BRA,DF,23,8,1,0
+Akim Zedadka,Lille,ALG,"DF,MF",27,8,1,0
+Carlos Baleba,Lille,CMR,MF,19,9,0,0
+Yusuf Yazıcı,Lille,TUR,MF,26,4,1,1
+Alan Virginius,Lille,FRA,FW,20,10,1,0
+Jonas Martin,Lille,FRA,MF,32,9,0,0
+Gabriel Gudmundsson,Lille,SWE,"FW,DF",23,5,0,0
+Benoît Costil,Lille,FRA,GK,35,0,0,0
+Ichem Ferrah,Lille,FRA,MF,17,0,0,0
+Adam Jakubech,Lille,SVK,GK,26,0,0,0
+Isaac Lihadji,Lille,FRA,FW,20,0,0,0
+Matteo Makhabé,Lille,FRA,MF,19,0,0,0
+Simon Ramet,Lille,FRA,MF,19,0,0,0
+Vincent Le Goff,Lorient,FRA,DF,33,22,0,0
+Montassar Talbi,Lorient,TUN,DF,24,22,1,1
+Enzo Le Fée,Lorient,FRA,MF,23,22,4,5
+Gedeon Kalulu,Lorient,COD,DF,25,19,0,3
+Dango Ouattara,Lorient,BFA,"FW,MF",20,18,6,5
+Julien Laporte,Lorient,FRA,DF,29,18,0,0
+Terem Moffi,Lorient,NGA,FW,23,18,12,0
+Laurent Abergel,Lorient,FRA,MF,30,15,0,1
+Yvon Mvogo,Lorient,SUI,GK,28,14,0,0
+Julien Ponceau,Lorient,FRA,MF,22,19,0,4
+Théo Le Bris,Lorient,FRA,"MF,DF",20,16,2,1
+Stéphane Diarra,Lorient,FRA,FW,24,19,1,0
+Bonke Innocent,Lorient,NGA,MF,27,19,0,1
+Vito Mannone,Lorient,ITA,GK,34,9,0,0
+Ibrahima Koné,Lorient,MLI,FW,23,21,3,1
+Yoann Cathline,Lorient,FRA,"FW,MF",20,10,1,1
+Armand Lauriente,Lorient,FRA,FW,24,3,1,0
+Bamo Meïté,Lorient,CIV,DF,21,3,0,0
+Chrislain Matsima,Lorient,FRA,"DF,MF",20,6,0,0
+Quentin Boisgard,Lorient,FRA,MF,25,5,1,0
+Jean-Victor Makengo,Lorient,FRA,MF,24,2,0,0
+Romain Faivre,Lorient,FRA,FW,24,2,0,0
+Bamba Dieng,Lorient,SEN,"FW,MF",22,2,0,0
+Adil Aouchiche,Lorient,FRA,"MF,FW",20,6,0,0
+Darlin Yongwa,Lorient,CMR,"FW,DF",22,4,0,0
+Ckene Doucouré,Lorient,COM,"FW,MF",20,5,0,1
+Adrian Grbić,Lorient,AUT,"MF,FW",26,2,0,0
+Igor Carioca,Lorient,BRA,FW,26,1,0,0
+Teddy Bartouche,Lorient,FRA,GK,25,0,0,0
+Paul Bellon,Lorient,FRA,MF,23,0,0,0
+Samuel Loric,Lorient,FRA,FW,22,0,0,0
+Loris Mouyokolo,Lorient,CGO,DF,21,0,0,0
+Paul Nardi,Lorient,FRA,GK,28,0,0,0
+Pablo Pagis,Lorient,FRA,FW,20,0,0,0
+Léo Pétrot,Lorient,FRA,DF,25,0,0,0
+Julian Pollersbeck,Lorient,GER,GK,28,0,0,0
+Maxime Wackers,Lorient,FRA,DF,25,0,0,0
+Dante,Nice,BRA,DF,39,21,0,1
+Kasper Schmeichel,Nice,DEN,GK,36,20,0,0
+Jean-Clair Todibo,Nice,FRA,DF,23,20,0,0
+Jordan Lotomba,Nice,SUI,"DF,MF",24,21,0,1
+Khéphren Thuram-Ulie,Nice,FRA,MF,21,22,1,3
+Melvin Bard,Nice,FRA,DF,22,20,0,0
+Gaëtan Laborde,Nice,FRA,"FW,MF",28,17,6,1
+Nicolas Pépé,Nice,CIV,"FW,MF",27,15,6,0
+Mario Lemina,Nice,GAB,"MF,DF",29,14,0,0
+Aaron Ramsey,Nice,WAL,MF,32,17,1,1
+Sofiane Diop,Nice,FRA,"MF,FW",22,14,1,3
+Pablo Rosario,Nice,NED,"MF,DF",26,16,0,0
+Andy Delort,Nice,ALG,FW,31,14,6,1
+Hicham Boudaoui,Nice,ALG,MF,23,12,0,1
+Youcef Atal,Nice,ALG,"DF,MF",26,13,1,0
+Mattia Viti,Nice,ITA,DF,21,8,1,0
+Ross Barkley,Nice,ENG,"MF,FW",29,14,3,0
+Bilal Brahimi,Nice,ALG,"FW,MF",22,14,1,2
+Alexis Beka Beka,Nice,FRA,MF,21,8,0,0
+Amine Gouiri,Nice,FRA,"FW,MF",22,3,0,0
+Calvin Stengs,Nice,NED,FW,24,4,0,0
+Marcin Bułka,Nice,POL,GK,23,2,0,0
+Youssouf Ndayishimiye,Nice,BDI,"DF,MF",24,3,0,0
+Joe Bryan,Nice,ENG,"MF,DF",29,5,0,0
+Rareş Ilie,Nice,ROU,"MF,FW",19,4,0,0
+Badredine Bouanani,Nice,ALG,"FW,MF",18,3,0,2
+Flavius Daniliuc,Nice,AUT,DF,21,2,0,0
+Antoine Mendy,Nice,FRA,"DF,FW",18,5,0,1
+Terem Moffi,Nice,NGA,FW,23,1,0,0
+Alexis Claude-Maurice,Nice,FRA,FW,24,2,0,0
+Mads Bech Sørensen,Nice,DEN,DF,24,0,0,0
+Reda Belahyane,Nice,FRA,MF,18,0,0,0
+Teddy Boulhendi,Nice,FRA,GK,21,0,0,0
+Yannis Nahounou,Nice,FRA,DF,18,0,0,0
+Alexandre Lacazette,Lyon,FRA,FW,31,22,13,4
+Nicolás Tagliafico,Lyon,ARG,DF,30,20,1,3
+Anthony Lopes,Lyon,POR,GK,32,19,0,0
+Castello Lukeba,Lyon,FRA,DF,20,19,1,0
+Thiago Mendes,Lyon,BRA,"DF,MF",30,20,0,1
+Maxence Caqueret,Lyon,FRA,MF,22,20,1,3
+Malo Gusto,Lyon,FRA,DF,19,17,0,1
+Karl Toko Ekambi,Lyon,CMR,"FW,MF",30,19,4,2
+Tetê,Lyon,BRA,"FW,MF",22,17,6,2
+Johann Lepenant,Lyon,FRA,MF,20,17,1,1
+Corentin Tolisso,Lyon,FRA,MF,28,16,0,0
+Sinaly Diomande,Lyon,CIV,DF,21,11,0,0
+Rayan Cherki,Lyon,FRA,"MF,FW",19,19,2,3
+Moussa Dembélé,Lyon,FRA,"FW,MF",26,15,2,0
+Houssem Aouar,Lyon,FRA,MF,24,9,1,1
+Dejan Lovren,Lyon,CRO,DF,33,5,0,0
+Sael Kumbedi,Lyon,FRA,DF,17,7,0,0
+Jérôme Boateng,Lyon,GER,DF,34,6,0,0
+Damien Da Silva,Lyon,FRA,DF,34,7,0,0
+Bradley Barcola,Lyon,FRA,"FW,MF",20,12,1,1
+Rémy Riou,Lyon,FRA,GK,35,4,0,0
+Romain Faivre,Lyon,FRA,MF,24,10,0,1
+Lucas Paquetá,Lyon,BRA,MF,25,2,0,0
+Jeff Reine-Adélaïde,Lyon,FRA,MF,25,14,0,0
+Henrique,Lyon,BRA,DF,28,3,0,0
+Amin Sarr,Lyon,SWE,"FW,MF",21,2,0,0
+Mohamed El Arouch,Lyon,FRA,MF,18,0,0,0
+Kayne Bonnevie,Lyon,FRA,GK,21,0,0,0
+Djibrail Dib,Lyon,FRA,MF,20,0,0,0
+Tino Kadewere,Lyon,ZIM,FW,27,0,0,0
+Mamadou Sarr,Lyon,FRA,DF,17,0,0,0
+Yunis Abdelhamid,Reims,MAR,DF,35,22,0,1
+Emmanuel Agbadou,Reims,CIV,DF,25,19,0,2
+Folarin Balogun,Reims,ENG,FW,21,21,14,1
+Junya Ito,Reims,JPN,FW,29,19,4,1
+Marshall Munetsi,Reims,ZIM,MF,26,19,3,1
+Yehvann Diouf,Reims,FRA,GK,23,15,0,0
+Azor Matusiwa,Reims,NED,MF,24,16,0,0
+Alexis Flips,Reims,FRA,"DF,MF",23,17,2,3
+Banzouzi Locko,Reims,FRA,DF,20,15,0,0
+Andrew Gravillon,Reims,GLP,DF,25,13,0,0
+Arber Zeneli,Reims,KVX,"FW,MF",27,18,0,2
+Kamory Doumbia,Reims,MLI,MF,19,19,2,2
+Dion Lopy,Reims,SEN,MF,21,17,0,0
+Jens Cajuste,Reims,SWE,MF,23,16,1,1
+Thibault De Smet,Reims,BEL,DF,24,8,0,1
+Patrick Pentz,Reims,AUT,GK,26,7,0,0
+Thomas Foket,Reims,BEL,DF,28,8,0,0
+Maxime Busi,Reims,BEL,DF,23,9,0,1
+Mitchell van Bergen,Reims,NED,"FW,DF",23,18,0,1
+Wout Faes,Reims,BEL,DF,24,3,0,0
+Noah Holm,Reims,NOR,"FW,MF",21,8,0,0
+Ibrahim Diakité,Reims,GUI,DF,19,3,0,0
+Check Keita,Reims,FRA,DF,19,2,0,0
+El Bilal Touré,Reims,MLI,FW,21,3,0,0
+Martin Adeline,Reims,FRA,"MF,FW",19,5,0,0
+Nathanael Mbuku,Reims,FRA,"FW,MF",20,6,0,0
+Myziane Maolida,Reims,FRA,FW,23,1,0,0
+Kaj Sierhuis,Reims,NED,FW,24,2,0,0
+Rafik Guitane,Reims,FRA,FW,23,1,0,0
+Samuel Koeberlé,Reims,FRA,MF,18,0,0,0
+Moustapha Mbow,Reims,SEN,DF,22,0,0,0
+Alexandre Olliero,Reims,FRA,GK,26,0,0,0
+Nicolas Penneteau,Reims,FRA,GK,41,0,0,0
+Mory Diaw,Clermont Foot,SEN,GK,29,22,0,0
+Mateusz Wieteska,Clermont Foot,POL,DF,25,22,0,1
+Alidu Seidu,Clermont Foot,GHA,DF,22,20,0,0
+Neto Borges,Clermont Foot,BRA,DF,26,19,2,0
+Johan Gastien,Clermont Foot,FRA,MF,35,18,2,2
+Yohann Magnin,Clermont Foot,FRA,"MF,DF",25,22,0,0
+Saîf-Eddine Khaoui,Clermont Foot,TUN,"MF,FW",27,21,2,3
+Maximiliano Caufriez,Clermont Foot,BEL,DF,25,15,0,0
+Elba Rashani,Clermont Foot,KVX,"MF,DF",29,19,2,1
+Komnen Andrić,Clermont Foot,SRB,FW,27,22,4,2
+Muhammed Saracevic Cham,Clermont Foot,AUT,MF,22,22,4,2
+Jim Allevinah,Clermont Foot,GAB,"DF,FW",27,20,1,0
+Grejohn Kyei,Clermont Foot,FRA,FW,27,21,3,2
+Florent Ogier,Clermont Foot,FRA,DF,33,13,0,1
+Maxime Gonalons,Clermont Foot,FRA,MF,33,10,1,0
+Jérémie Bela,Clermont Foot,ANG,DF,29,13,1,1
+Jodel Dossou,Clermont Foot,BEN,"MF,DF",30,9,1,0
+Arial Mendy,Clermont Foot,SEN,DF,28,5,0,0
+Aïman Maurer,Clermont Foot,MAR,MF,18,1,0,0
+Mehdi Zeffane,Clermont Foot,ALG,"DF,MF",30,6,0,0
+Brandon Baiye,Clermont Foot,BEL,MF,22,7,0,0
+Yanis Massolin,Clermont Foot,FRA,MF,20,4,0,0
+Baila Diallo,Clermont Foot,FRA,DF,21,2,0,0
+Jason Berthomier,Clermont Foot,FRA,MF,33,2,0,0
+Jean-Claude Billong,Clermont Foot,CMR,MF,29,1,0,0
+Souleymane Cissé,Clermont Foot,FRA,DF,20,1,0,0
+Sofyan Chader,Clermont Foot,FRA,MF,22,0,0,0
+Ouparine Djoco,Clermont Foot,SEN,GK,24,0,0,0
+Wabo Kamdem,Clermont Foot,FRA,MF,20,0,0,0
+Lucas Margueron,Clermont Foot,FRA,GK,21,0,0,0
+Maxime Dupé,Toulouse,FRA,GK,29,22,0,0
+Stijn Spierings,Toulouse,NED,MF,26,22,2,0
+Anthony Rouault,Toulouse,FRA,DF,21,22,2,1
+Branco van den Boomen,Toulouse,NED,MF,27,22,5,7
+Rasmus Nicolaisen,Toulouse,DEN,DF,25,21,0,2
+Zakaria Aboukhlal,Toulouse,MAR,"FW,MF",22,22,5,4
+Issiaga Sylla,Toulouse,GUI,DF,29,17,0,0
+Brecht Dejaegere,Toulouse,BEL,MF,31,18,4,1
+Rafael Ratão,Toulouse,BRA,FW,27,17,4,2
+Fares Chaïbi,Toulouse,FRA,"FW,MF",20,20,4,4
+Thijs Dallinga,Toulouse,NED,FW,22,21,7,1
+Mikkel Desler,Toulouse,DEN,DF,27,15,0,1
+Moussa Diarra,Toulouse,MLI,DF,22,17,0,1
+Ado Onaiwu,Toulouse,JPN,FW,27,19,1,1
+Kévin Keben Biakolo,Toulouse,CMR,DF,19,10,0,0
+Veljko Birmančević,Toulouse,SRB,"FW,MF",24,14,0,0
+Oliver Zandén,Toulouse,SWE,"DF,MF",21,5,0,0
+Gabriel Suazo,Toulouse,CHI,DF,25,3,0,0
+Christian Mawissa,Toulouse,FRA,DF,17,2,0,0
+Waren Kamanzi,Toulouse,NOR,DF,22,3,0,0
+Nathan N'Goumou,Toulouse,FRA,FW,22,1,0,0
+Yanis Begraoui,Toulouse,FRA,"FW,MF",21,3,0,0
+Denis Genreau,Toulouse,AUS,"MF,FW",23,8,0,0
+Rhys Healey,Toulouse,WAL,FW,28,3,1,0
+Logan Costa,Toulouse,CPV,DF,21,1,0,0
+Vincent Sierro,Toulouse,SUI,"MF,FW",27,3,0,0
+Naatan Skyttä,Toulouse,FIN,MF,20,2,0,0
+Theocharis Tsingaras,Toulouse,GRE,MF,22,1,0,0
+Ylies Aradj,Toulouse,FRA,DF,17,0,0,0
+Junior Flemmings,Toulouse,JAM,"FW,MF",27,0,0,0
+Kjetil Haug,Toulouse,NOR,GK,24,0,0,0
+Steve Mvoué,Toulouse,CMR,MF,21,0,0,0
+Edhy Zuliani,Toulouse,ITA,MF,18,0,0,0
+Alban Lafont,Nantes,FRA,GK,24,21,0,0
+Andrei Girotto,Nantes,BRA,"DF,MF",30,21,1,1
+Pedro Chirivella,Nantes,ESP,MF,25,19,0,1
+Moses Simon,Nantes,NGA,"FW,MF",27,19,5,2
+Ludovic Blas,Nantes,FRA,"MF,FW",25,22,4,1
+Jean-Charles Castelletto,Nantes,CMR,DF,28,19,0,0
+Nicolas Pallois,Nantes,FRA,DF,35,16,0,0
+Quentin Merlin,Nantes,FRA,DF,20,16,0,1
+Samuel Moutoussamy,Nantes,COD,MF,26,19,0,2
+Moussa Sissoko,Nantes,FRA,MF,33,15,1,0
+Mostafa Mohamed,Nantes,EGY,FW,25,22,5,2
+Evann Guessand,Nantes,FRA,"FW,MF",21,21,2,2
+Dennis Appiah,Nantes,FRA,"DF,MF",30,15,0,0
+Ignatius Ganago,Nantes,CMR,"FW,MF",23,16,3,3
+Fabien Centonze,Nantes,FRA,DF,27,10,0,0
+Sébastien Corchia,Nantes,FRA,"DF,MF",32,18,0,1
+Marcus Coco,Nantes,FRA,"DF,FW",26,14,1,0
+Charles Traore,Nantes,MLI,DF,31,7,0,0
+Fábio,Nantes,BRA,"DF,MF",32,6,0,0
+Jaouen Hadjam,Nantes,FRA,DF,19,3,0,0
+João Victor,Nantes,BRA,DF,24,2,0,0
+Florent Mollet,Nantes,FRA,"MF,FW",31,3,0,0
+Rémy Descamps,Nantes,FRA,GK,26,1,0,0
+Abdoul Kader Bamba,Nantes,FRA,"FW,MF",28,4,0,0
+Nathan Zeze,Nantes,FRA,DF,17,1,0,0
+Lohann Doucet,Nantes,FRA,"MF,FW",20,8,0,0
+Mohamed Achi,Nantes,FRA,FW,21,2,0,0
+Andy Delort,Nantes,ALG,FW,31,2,0,0
+Loïc Affamah,Nantes,FRA,FW,20,0,0,0
+Junior Diaz,Nantes,FRA,DF,19,0,0,0
+Gor Manvelyan,Nantes,FRA,MF,20,0,0,0
+Denis Petrić,Nantes,SRB,GK,34,0,0,0
+Robin Voisine,Nantes,FRA,DF,20,0,0,0
+Marco Bizot,Brest,NED,GK,31,21,0,0
+Franck Honorat,Brest,FRA,"FW,MF",26,22,3,3
+Lilian Brassier,Brest,FRA,DF,23,20,0,0
+Brendan Chardonnet,Brest,FRA,DF,28,18,0,0
+Pierre Lees-Melou,Brest,FRA,MF,29,17,3,1
+Haris Belkebla,Brest,ALG,MF,29,22,1,0
+Jean-Kevin Duverne,Brest,FRA,DF,25,19,0,0
+Mahdi Camara,Brest,FRA,MF,24,17,0,0
+Mathias Pereira Lage,Brest,POR,"MF,FW",26,18,1,1
+Noah Fadiga,Brest,SEN,DF,23,13,1,0
+Islam Slimani,Brest,ALG,FW,34,16,1,1
+Hugo Magnetti,Brest,FRA,MF,24,18,0,1
+Jérémy Le Douaron,Brest,FRA,"FW,MF",24,17,5,1
+Achraf Dari,Brest,MAR,DF,23,12,1,0
+Christophe Hérelle,Brest,MTQ,DF,30,12,0,0
+Romain Del Castillo,Brest,FRA,"FW,MF",26,12,4,3
+Steve Mounié,Brest,BEN,FW,28,9,4,0
+Kenny Lala,Brest,FRA,DF,31,5,0,0
+Youcef Belaïli,Brest,ALG,"FW,MF",30,6,0,2
+Jere Uronen,Brest,FIN,DF,28,6,0,1
+Irvin Cardona,Brest,FRA,"FW,MF",25,10,0,0
+Joaquín Blázquez,Brest,ARG,GK,22,1,0,0
+Karamoko Dembele,Brest,SCO,"FW,MF",19,11,0,0
+Alberth Elis,Brest,HON,"MF,FW",26,2,0,0
+Axel Camblan,Brest,FRA,"FW,MF",19,7,0,0
+Taïryk Arconte,Brest,FRA,"FW,MF",19,2,0,0
+Hianga Mananga Mbock,Brest,FRA,MF,23,2,0,0
+Félix Lemaréchal,Brest,CIV,MF,19,1,0,0
+Grégoire Coudert,Brest,FRA,GK,23,0,0,0
+Banzouzi Locko,Brest,FRA,MF,20,0,0,0
+Téji Savanier,Montpellier,FRA,MF,31,18,7,1
+Sepe Elye Wahi,Montpellier,FRA,FW,20,19,7,1
+Jordan Ferri,Montpellier,FRA,MF,30,19,0,2
+Christopher Jullien,Montpellier,FRA,DF,29,16,0,1
+Maxime Estève,Montpellier,FRA,DF,20,18,0,0
+Joris Chotard,Montpellier,FRA,MF,21,19,0,1
+Nicolas Cozza,Montpellier,FRA,DF,24,17,2,1
+Falaye Sacko,Montpellier,MLI,DF,27,19,0,2
+Faitout Maouassa,Montpellier,FRA,"DF,FW",24,20,1,4
+Jonas Omlin,Montpellier,SUI,GK,29,14,0,0
+Arnaud Nordin,Montpellier,FRA,"FW,MF",24,20,4,1
+Stephy Mavididi,Montpellier,ENG,FW,24,12,2,1
+Enzo Tchato,Montpellier,CMR,DF,20,16,1,1
+Wahbi Khazri,Montpellier,TUN,"FW,MF",32,14,2,1
+Léo Leroy,Montpellier,FRA,MF,22,16,0,0
+Valère Germain,Montpellier,FRA,"FW,MF",32,20,2,0
+Mamadou Sakho,Montpellier,FRA,DF,32,10,1,0
+Khalil Fayad,Montpellier,FRA,MF,18,13,0,2
+Théo Sainte-Luce,Montpellier,FRA,DF,24,5,1,1
+Bingourou Kamara,Montpellier,SEN,GK,26,5,0,0
+Arnaud Souquet,Montpellier,FRA,"DF,FW",30,12,0,0
+Benjamin Lecomte,Montpellier,FRA,GK,31,3,0,0
+Boubakar Kouyaté,Montpellier,MLI,DF,25,2,0,0
+Béni Makouana,Montpellier,CGO,"FW,MF",20,8,0,0
+Matis Carvalho,Montpellier,POR,GK,23,2,0,0
+Issiaga Sylla,Montpellier,GUI,DF,29,1,0,0
+Cheikh Faye,Montpellier,SEN,FW,24,2,0,0
+Sacha Delaye,Montpellier,FRA,"FW,MF",20,3,1,0
+Axel Gueguin,Montpellier,FRA,"FW,MF",17,2,0,0
+Téo Allix,Montpellier,FRA,DF,18,0,0,0
+Dimitry Bertaud,Montpellier,FRA,GK,24,0,0,0
+Redouane Halhal,Montpellier,MAR,DF,19,0,0,0
+Matéo Loubatieres,Montpellier,FRA,MF,19,0,0,0
+Pedro Mendes,Montpellier,POR,DF,32,0,0,0
+Thibault Tamas,Montpellier,FRA,DF,22,0,0,0
+Ryan Tchato Mbiayi,Montpellier,CMR,DF,18,0,0,0
+Erik Palmer-Brown,Troyes,USA,DF,25,22,0,0
+Rominigue Kouamé,Troyes,MLI,MF,26,20,0,1
+Yoann Salmier,Troyes,GUF,DF,30,20,1,0
+Mama Samba Baldé,Troyes,GNB,FW,27,20,9,3
+Thierno Balde,Troyes,FRA,DF,20,18,0,0
+Rony Lopes,Troyes,POR,"MF,FW",27,18,4,5
+Gauthier Gallon,Troyes,FRA,GK,29,15,0,0
+Xavier Chavalerin,Troyes,FRA,MF,31,20,2,2
+Jackson Porozo,Troyes,ECU,DF,22,15,2,0
+Yasser Larouci,Troyes,ALG,"DF,FW",22,19,1,0
+Andreas Bruus,Troyes,DEN,"DF,FW",24,16,0,2
+Renaud Ripart,Troyes,FRA,"FW,MF",29,19,3,1
+Florian Tardieu,Troyes,FRA,MF,30,14,3,0
+Abdu Conté,Troyes,POR,DF,24,12,1,1
+Wilson Odobert,Troyes,FRA,"MF,FW",18,20,3,2
+Mateusz Lis,Troyes,POL,GK,25,7,0,0
+Adil Rami,Troyes,FRA,DF,37,7,0,0
+Ike Ugbo,Troyes,CAN,"FW,MF",24,14,1,1
+Lucien Agoume,Troyes,FRA,MF,20,5,0,0
+Papa Ndiaga Yade,Troyes,SEN,"DF,MF",23,8,0,1
+Tristan Dingomé,Troyes,CMR,MF,31,8,0,0
+Alexis Tibidi,Troyes,FRA,FW,19,1,0,0
+Kyliane Dong,Troyes,FRA,"DF,MF",18,3,0,0
+Jeff Reine-Adélaïde,Troyes,FRA,MF,25,1,0,0
+Amar Ahmed,Troyes,SWE,FW,18,1,0,0
+Marlos Moreno,Troyes,COL,"MF,DF",26,2,0,0
+Ante Palaversa,Troyes,CRO,MF,22,1,1,0
+Mathis Hamdi,Troyes,FRA,DF,19,1,0,0
+Jordan Dongmo,Troyes,CMR,MF,22,0,0,0
+Derek Mazou-Sacko,Troyes,FRA,MF,18,0,0,0
+Corentin Michel,Troyes,BEL,GK,22,0,0,0
+Jessy Moulin,Troyes,FRA,GK,37,0,0,0
+Eric N'Jo,Troyes,FRA,DF,18,0,0,0
+Yoann Touzghar,Troyes,TUN,FW,36,0,0,0
+Banhie Zoukrou,Troyes,FRA,DF,19,0,0,0
+Matz Sels,Strasbourg,BEL,GK,30,22,0,0
+Alexander Djiku,Strasbourg,GHA,DF,28,21,1,2
+Jean-Ricner Bellegarde,Strasbourg,FRA,MF,24,19,1,5
+Habib Diallo,Strasbourg,SEN,FW,27,22,10,0
+Kévin Gameiro,Strasbourg,FRA,FW,35,20,7,0
+Sanjin Prcić,Strasbourg,BIH,MF,29,20,1,1
+Maxime Le Marchand,Strasbourg,FRA,DF,33,18,0,0
+Gerzino Nyamsi,Strasbourg,FRA,DF,26,12,0,0
+Dimitri Liénard,Strasbourg,FRA,"DF,MF",34,17,0,0
+Ismaël Doukouré,Strasbourg,FRA,DF,19,13,1,0
+Adrien Thomasson,Strasbourg,FRA,MF,29,15,0,2
+Jean-Eudes Aholou,Strasbourg,CIV,MF,28,19,1,0
+Lucas Perrin,Strasbourg,FRA,DF,24,13,0,0
+Mouhamadou Diarra,Strasbourg,SEN,MF,19,16,0,0
+Ludovic Ajorque,Strasbourg,REU,FW,28,13,1,0
+Thomas Delaine,Strasbourg,FRA,DF,30,12,0,1
+Ronaël Pierre-Gabriel,Strasbourg,FRA,DF,24,14,0,1
+Colin Dagba,Strasbourg,FRA,DF,24,12,0,0
+Ibrahima Sissoko,Strasbourg,FRA,MF,25,12,0,0
+Morgan Sanson,Strasbourg,FRA,MF,28,3,0,1
+Eduard Sobol,Strasbourg,UKR,"DF,MF",27,3,0,0
+Frederic Guilbert,Strasbourg,FRA,DF,28,3,0,0
+Lebo Mothiba,Strasbourg,RSA,"FW,MF",27,12,2,0
+Franci Bouebari,Strasbourg,FRA,DF,19,2,0,0
+Karol Fila,Strasbourg,POL,DF,24,2,0,0
+Nordine Kandil,Strasbourg,FRA,"MF,FW",21,4,0,0
+Dany Jean,Strasbourg,HAI,DF,20,1,0,0
+Marvin Senaya,Strasbourg,TOG,DF,22,1,0,0
+Eiji Kawashima,Strasbourg,JPN,GK,39,0,0,0
+Anas Nanah,Strasbourg,MAR,DF,19,0,0,0
+Antoine Nuss,Strasbourg,FRA,DF,19,0,0,0
+Robin Risser,Strasbourg,FRA,GK,18,0,0,0
+Jordan Robinand,Strasbourg,FRA,MF,19,0,0,0
+Tom Saettel,Strasbourg,FRA,FW,17,0,0,0
+Yuito Suzuki,Strasbourg,JPN,FW,21,0,0,0
+Vincent Marchetti,Ajaccio,FRA,MF,25,21,0,1
+Benjamin Leroy,Ajaccio,FRA,GK,33,19,0,0
+Mounaim El Idrissy,Ajaccio,FRA,FW,23,20,4,0
+Ismael Diallo,Ajaccio,CIV,DF,26,19,0,0
+Oumar Gonzalez,Ajaccio,CMR,DF,24,17,0,0
+Mohamed Youssouf,Ajaccio,COM,DF,34,18,0,0
+Cyrille Bayala,Ajaccio,BFA,MF,26,21,1,1
+Riad Nouri,Ajaccio,FRA,MF,37,20,1,1
+Cédric Avinel,Ajaccio,GLP,DF,36,13,1,0
+Mathieu Coutadeur,Ajaccio,FRA,MF,36,14,0,0
+Youcef Belaïli,Ajaccio,ALG,"MF,FW",30,12,5,3
+Thomas Mangani,Ajaccio,FRA,MF,35,18,1,1
+Mickaël Alphonse,Ajaccio,GLP,DF,33,16,0,0
+Romain Hamouma,Ajaccio,FRA,FW,35,11,2,1
+Bevic Moussiti-Oko,Ajaccio,CGO,FW,28,17,1,0
+Clément Vidal,Ajaccio,FRA,DF,22,12,0,0
+Youssouf Koné,Ajaccio,MLI,DF,27,7,0,0
+Fernand Mayembo,Ajaccio,CGO,DF,27,8,0,0
+Kevin Spadanuda,Ajaccio,SUI,"MF,FW",26,12,0,0
+Yoann Touzghar,Ajaccio,TUN,FW,36,8,0,0
+Yanis Cimignani,Ajaccio,FRA,"MF,DF",21,8,0,0
+François-Joseph Sollacaro,Ajaccio,FRA,GK,28,3,0,0
+Mickaël Barreto,Ajaccio,FRA,MF,32,6,0,1
+Florian Chabrolle,Ajaccio,FRA,MF,24,5,0,0
+Kouamé Botué,Ajaccio,BFA,"FW,MF",20,7,0,0
+Qazim Laçi,Ajaccio,ALB,MF,27,9,0,0
+Ghjuvanni Quilichini,Ajaccio,FRA,GK,20,1,0,0
+Paolo Lebas,Ajaccio,POR,MF,19,1,0,0
+Moussa Soumano,Ajaccio,FRA,"MF,FW",17,2,1,0
+Moussa Djitte,Ajaccio,SEN,FW,23,1,0,0
+Gaëtan Courtet,Ajaccio,FRA,FW,33,0,0,0
+Anthony Khelifa,Ajaccio,FRA,DF,17,0,0,0
+Ruan Levine,Ajaccio,BRA,FW,24,0,0,0
+Birama Touré,Auxerre,MLI,MF,30,22,0,0
+Jubal,Auxerre,BRA,DF,29,21,1,1
+Benoît Costil,Auxerre,FRA,GK,35,19,0,0
+Hamza Sakhi,Auxerre,MAR,MF,26,22,1,2
+Julian Jeanvier,Auxerre,GUI,DF,30,15,1,0
+Mathias Autret,Auxerre,FRA,"MF,FW",31,19,2,2
+Lassine Sinayoko,Auxerre,MLI,"MF,FW",23,21,0,2
+Gideon Mensah,Auxerre,GHA,DF,24,13,0,0
+M'Baye Niang,Auxerre,SEN,FW,28,17,3,0
+Nuno da Costa,Auxerre,CPV,"FW,MF",31,19,3,1
+Rayan Raveloson,Auxerre,MAD,"MF,DF",26,18,0,0
+Gauthier Hein,Auxerre,FRA,"MF,FW",26,19,1,0
+Paul Joly,Auxerre,FRA,DF,22,10,0,0
+Gaëtan Perrin,Auxerre,FRA,"MF,FW",26,21,2,1
+Quentin Bernard,Auxerre,FRA,DF,33,7,0,1
+Youssouf M'Changama,Auxerre,COM,MF,32,18,0,0
+Alexandre Coeff,Auxerre,FRA,DF,30,7,0,1
+Akim Zedadka,Auxerre,ALG,DF,27,6,0,0
+Souleymane Touré,Auxerre,FRA,DF,19,5,0,0
+Ionuț Radu,Auxerre,ROU,GK,25,3,0,0
+Gaëtan Charbonnier,Auxerre,FRA,"FW,MF",34,6,1,0
+Matthis Abline,Auxerre,FRA,"FW,MF",19,5,1,0
+Brayann Pereira,Auxerre,FRA,DF,19,2,0,0
+Dénys Bain,Auxerre,FRA,DF,29,2,0,0
+Han-Noah Massengo,Auxerre,FRA,"MF,DF",21,2,0,0
+Kenji-Van Boto,Auxerre,MAD,DF,26,1,0,0
+Kays Ruiz,Auxerre,MAR,MF,20,1,0,0
+Rémy Dugimont,Auxerre,FRA,"FW,MF",36,10,0,1
+Ousmane Camara,Auxerre,GUI,"FW,MF",21,3,0,0
+Siriki Dembélé,Auxerre,CIV,FW,26,1,0,0
+Ousoumane Camara,Auxerre,FRA,MF,24,0,0,0
+Kévin Danois,Auxerre,FRA,FW,18,0,0,0
+Théo De Percin,Auxerre,MTQ,GK,22,0,0,0
+Donovan Léon,Auxerre,GUF,GK,30,0,0,0
+Cédric Hountondji,Angers,BEN,DF,29,22,0,0
+Adrien Hunou,Angers,FRA,"FW,MF",29,21,3,1
+Batista Mendy,Angers,FRA,"MF,DF",23,20,0,0
+Souleyman Doumbia,Angers,CIV,"DF,FW",26,18,0,0
+Nabil Bentaleb,Angers,ALG,MF,28,18,2,3
+Miha Blažič,Angers,SVN,DF,29,17,2,0
+Paul Bernardoni,Angers,FRA,GK,25,14,0,0
+Yan Valery,Angers,TUN,DF,23,14,0,0
+Azzedine Ounahi,Angers,MAR,"MF,FW",22,15,0,0
+Amine Salama,Angers,FRA,"FW,MF",22,20,3,1
+Abdallah Sima,Angers,SEN,FW,21,18,2,0
+Sofiane Boufal,Angers,MAR,"FW,MF",29,13,4,3
+Pierrick Capelle,Angers,FRA,"MF,DF",35,16,0,2
+Himad Abdelli,Angers,FRA,"MF,FW",23,14,0,0
+Yahia Fofana,Angers,FRA,GK,22,8,0,0
+Sada Thioub,Angers,SEN,"FW,MF",27,18,0,1
+Lois Diony,Angers,FRA,FW,30,8,1,0
+Farid El Melali,Angers,ALG,"FW,DF",25,9,0,0
+Abdoulaye Bamba,Angers,CIV,DF,32,9,0,0
+Ibrahim Amadou,Angers,FRA,"DF,MF",29,6,0,0
+Halid Šabanović,Angers,BIH,"DF,FW",23,5,0,0
+Ousmane Camara,Angers,FRA,DF,19,3,0,0
+Waniss Taibi,Angers,FRA,MF,20,9,0,1
+Ilyes Cheti,Angers,ALG,DF,28,4,0,0
+Ibrahima Niane,Angers,SEN,FW,23,1,0,0
+Lilian Raolisoa,Angers,FRA,"MF,DF",22,2,0,0
+Zinédine Ould Khaled,Angers,FRA,"MF,FW",23,2,0,0
+Marin Jakoliš,Angers,CRO,FW,26,1,0,0
+Faouzi Ghoulam,Angers,ALG,DF,32,1,0,0
+Jason Mbock,Angers,FRA,"MF,FW",23,2,0,0
+Antonin Bobichon,Angers,FRA,MF,27,3,0,0
+Salim Akkal,Angers,FRA,MF,22,0,0,0
+Yassin Belkhdim,Angers,FRA,MF,20,0,0,0
+Théo Borne,Angers,FRA,GK,20,0,0,0
+Jean Mattéo Bahoya,Angers,FRA,MF,17,0,0,0
+Dayot Upamecano,Bayern Munich,FRA,DF,24,18,0,1
+Joshua Kimmich,Bayern Munich,GER,MF,28,19,3,4
+Alphonso Davies,Bayern Munich,CAN,DF,22,16,0,2
+Jamal Musiala,Bayern Munich,GER,"MF,FW",19,18,10,6
+Benjamin Pavard,Bayern Munich,FRA,DF,26,16,1,1
+Matthijs de Ligt,Bayern Munich,NED,DF,23,16,1,0
+Leroy Sané,Bayern Munich,GER,"FW,MF",27,17,6,3
+Manuel Neuer,Bayern Munich,GER,GK,36,12,0,0
+Serge Gnabry,Bayern Munich,GER,FW,27,19,8,4
+Leon Goretzka,Bayern Munich,GER,MF,28,14,3,1
+Sadio Mané,Bayern Munich,SEN,FW,30,14,6,3
+Eric Maxim Choupo-Moting,Bayern Munich,CMR,FW,33,13,7,2
+Thomas Müller,Bayern Munich,GER,"FW,MF",33,12,3,4
+Kingsley Coman,Bayern Munich,FRA,"FW,MF",26,13,3,3
+Marcel Sabitzer,Bayern Munich,AUT,MF,28,15,1,1
+Noussair Mazraoui,Bayern Munich,MAR,DF,25,11,0,3
+Lucas Hernández,Bayern Munich,FRA,DF,26,7,0,0
+Yann Sommer,Bayern Munich,SUI,GK,34,4,0,0
+Sven Ulreich,Bayern Munich,GER,GK,34,3,0,0
+Josip Stanišić,Bayern Munich,CRO,DF,22,8,0,0
+Mathys Tel,Bayern Munich,FRA,FW,17,11,3,0
+João Cancelo,Bayern Munich,POR,DF,28,1,0,1
+Ryan Gravenberch,Bayern Munich,NED,MF,20,12,0,0
+Paul Wanner,Bayern Munich,GER,MF,17,2,0,0
+Gabriel Vidovic,Bayern Munich,CRO,FW,19,1,0,1
+Daley Blind,Bayern Munich,NED,DF,32,1,0,0
+Arijon Ibrahimović,Bayern Munich,GER,FW,17,0,0,0
+Gabriel Marušić,Bayern Munich,CRO,DF,19,0,0,0
+Tanguy Nianzou,Bayern Munich,FRA,DF,20,0,0,0
+Bouna Sarr,Bayern Munich,SEN,"DF,MF",31,0,0,0
+Johannes Schenk,Bayern Munich,GER,GK,20,0,0,0
+Joshua Zirkzee,Bayern Munich,NED,FW,21,0,0,0
+Sheraldo Becker,Union Berlin,SUR,FW,27,19,7,4
+Robin Knoche,Union Berlin,GER,DF,30,18,1,0
+Rani Khedira,Union Berlin,GER,MF,29,18,0,0
+Janik Haberer,Union Berlin,GER,MF,28,17,4,1
+Diogo Leite,Union Berlin,POR,DF,24,16,0,1
+Frederik Rønnow,Union Berlin,DEN,GK,30,15,0,0
+Christopher Trimmel,Union Berlin,AUT,DF,35,16,0,5
+Jordan Pefok,Union Berlin,USA,FW,26,17,4,4
+Julian Ryerson,Union Berlin,NOR,DF,25,13,0,0
+Danilho Doekhi,Union Berlin,NED,DF,24,10,4,1
+Paul Jaeckel,Union Berlin,GER,DF,24,12,1,0
+Niko Gießelmann,Union Berlin,GER,DF,31,15,0,2
+András Schäfer,Union Berlin,HUN,MF,23,13,0,0
+Kevin Behrens,Union Berlin,GER,FW,32,19,4,1
+Genki Haraguchi,Union Berlin,JPN,MF,31,11,0,0
+Morten Thorsby,Union Berlin,NOR,MF,26,12,1,1
+Lennart Grill,Union Berlin,GER,GK,24,4,0,0
+Timo Baumgartl,Union Berlin,GER,DF,26,4,0,0
+Paul Seguin,Union Berlin,GER,MF,27,12,1,3
+Jérôme Roussillon,Union Berlin,FRA,DF,30,3,0,0
+Josip Juranović,Union Berlin,CRO,DF,27,1,0,1
+Tymoteusz Puchacz,Union Berlin,POL,DF,24,1,0,0
+Sven Michel,Union Berlin,GER,FW,32,12,3,0
+Miloš Pantović,Union Berlin,SRB,MF,26,8,1,0
+Jamie Leweling,Union Berlin,GER,FW,21,9,1,1
+Tim Skarke,Union Berlin,GER,"DF,MF",26,3,0,0
+Aïssa Laïdouni,Union Berlin,TUN,MF,26,1,0,0
+Levin Öztunalı,Union Berlin,GER,MF,26,2,0,1
+Jakob Busk,Union Berlin,DEN,GK,29,0,0,0
+Aljoscha Kemlein,Union Berlin,GER,MF,18,0,0,0
+Andreas Voglsammer,Union Berlin,GER,"FW,MF",31,0,0,0
+Nico Schlotterbeck,Dortmund,GER,DF,23,19,3,3
+Jude Bellingham,Dortmund,ENG,MF,19,18,4,4
+Julian Brandt,Dortmund,GER,"MF,FW",26,19,5,4
+Gregor Kobel,Dortmund,SUI,GK,25,15,0,0
+Raphaël Guerreiro,Dortmund,POR,DF,29,15,1,5
+Mats Hummels,Dortmund,GER,DF,34,16,0,0
+Salih Özcan,Dortmund,TUR,MF,25,15,0,1
+Niklas Süle,Dortmund,GER,DF,27,16,1,2
+Donyell Malen,Dortmund,NED,FW,24,13,0,1
+Karim Adeyemi,Dortmund,GER,"FW,MF",21,15,2,1
+Youssoufa Moukoko,Dortmund,GER,FW,18,17,6,3
+Marco Reus,Dortmund,GER,MF,33,11,2,2
+Anthony Modeste,Dortmund,FRA,FW,34,14,2,1
+Marius Wolf,Dortmund,GER,"DF,FW",27,13,1,1
+Thomas Meunier,Dortmund,BEL,DF,31,8,0,0
+Emre Can,Dortmund,GER,MF,29,13,0,0
+Alexander Meyer,Dortmund,GER,GK,31,4,0,0
+Gio Reyna,Dortmund,USA,"FW,MF",20,13,5,0
+Julian Ryerson,Dortmund,NOR,DF,25,3,1,0
+Mahmoud Dahoud,Dortmund,GER,MF,27,4,0,0
+Thorgan Hazard,Dortmund,BEL,"FW,DF",29,14,0,0
+Jamie Bynoe-Gittens,Dortmund,ENG,"FW,MF",18,8,2,0
+Sébastien Haller,Dortmund,CIV,FW,28,4,1,1
+Felix Passlack,Dortmund,GER,DF,24,2,0,0
+Justin Njinmah,Dortmund,GER,FW,22,1,0,0
+Tom Rothe,Dortmund,GER,DF,18,1,0,0
+Antonios Papadopoulos,Dortmund,GER,DF,23,1,0,0
+Marco Pašalić,Dortmund,CRO,MF,22,1,0,0
+Soumaïla Coulibaly,Dortmund,FRA,DF,19,0,0,0
+Abdoulaye Kamara,Dortmund,GUI,MF,18,0,0,0
+Marcel Lotka,Dortmund,POL,GK,21,0,0,0
+Willi Orban,RB Leipzig,HUN,DF,30,19,3,0
+Dominik Szoboszlai,RB Leipzig,HUN,"MF,FW",22,17,3,8
+Christopher Nkunku,RB Leipzig,FRA,"FW,MF",25,15,12,0
+David Raum,RB Leipzig,GER,"DF,FW",24,18,0,1
+Benjamin Henrichs,RB Leipzig,GER,"DF,MF",25,17,1,1
+Xaver Schlager,RB Leipzig,AUT,MF,25,15,1,0
+André Silva,RB Leipzig,POR,FW,27,19,4,2
+Joško Gvardiol,RB Leipzig,CRO,DF,21,17,0,0
+Janis Blaswich,RB Leipzig,GER,GK,31,12,0,0
+Timo Werner,RB Leipzig,GER,"FW,MF",26,13,5,1
+Mohamed Simakan,RB Leipzig,FRA,DF,22,11,1,1
+Dani Olmo,RB Leipzig,ESP,"MF,FW",24,13,2,4
+Marcel Halstenberg,RB Leipzig,GER,DF,31,16,1,1
+Kevin Kampl,RB Leipzig,SVN,MF,32,16,0,1
+Emil Forsberg,RB Leipzig,SWE,"MF,FW",31,16,2,2
+Konrad Laimer,RB Leipzig,AUT,MF,25,8,0,0
+Péter Gulácsi,RB Leipzig,HUN,GK,32,6,0,0
+Amadou Haidara,RB Leipzig,MLI,MF,25,17,1,1
+Abdou Diallo,RB Leipzig,SEN,"DF,MF",26,5,1,0
+Lukas Klostermann,RB Leipzig,GER,DF,26,4,0,0
+Hugo Novoa,RB Leipzig,ESP,"DF,FW",20,7,1,0
+Yussuf Poulsen,RB Leipzig,DEN,FW,28,10,1,0
+Ørjan Nyland,RB Leipzig,NOR,GK,32,1,0,0
+Alexander Sørloth,RB Leipzig,NOR,FW,27,1,0,0
+Sanoussy Ba,RB Leipzig,GER,DF,19,1,0,0
+Jonas Nickisch,RB Leipzig,GER,GK,18,0,0,0
+Obite N'Dicka,Eint Frankfurt,FRA,DF,23,19,0,0
+Mario Götze,Eint Frankfurt,GER,MF,30,19,2,1
+Kevin Trapp,Eint Frankfurt,GER,GK,32,18,0,0
+Tuta,Eint Frankfurt,BRA,DF,23,18,1,0
+Djibril Sow,Eint Frankfurt,SUI,MF,26,19,2,0
+Randal Kolo Muani,Eint Frankfurt,FRA,FW,24,18,9,10
+Jesper Lindstrøm,Eint Frankfurt,DEN,"MF,FW",22,18,7,2
+Daichi Kamada,Eint Frankfurt,JPN,"MF,FW",26,17,7,4
+Kristijan Jakić,Eint Frankfurt,CRO,"DF,MF",25,17,1,0
+Ansgar Knauff,Eint Frankfurt,GER,DF,21,14,1,0
+Sebastian Rode,Eint Frankfurt,GER,MF,32,16,3,1
+Junior Dina Ebimbe,Eint Frankfurt,FRA,"DF,MF",22,11,2,1
+Luca Pellegrini,Eint Frankfurt,ITA,DF,23,9,0,0
+Christopher Lenz,Eint Frankfurt,GER,DF,28,12,0,2
+Rafael Borré,Eint Frankfurt,COL,"FW,MF",27,18,2,2
+Makoto Hasebe,Eint Frankfurt,JPN,DF,39,6,0,0
+Hrvoje Smolčić,Eint Frankfurt,CRO,DF,22,7,0,0
+Lucas Alario,Eint Frankfurt,ARG,FW,30,12,1,0
+Aurélio Buta,Eint Frankfurt,POR,DF,25,4,2,0
+Almamy Touré,Eint Frankfurt,MLI,DF,26,3,0,0
+Diant Ramaj,Eint Frankfurt,GER,GK,21,1,0,0
+Filip Kostić,Eint Frankfurt,SRB,"DF,MF",30,1,0,0
+Philipp Max,Eint Frankfurt,GER,DF,29,1,0,0
+Faride Alidou,Eint Frankfurt,GER,"DF,MF",21,9,0,0
+Timothy Chandler,Eint Frankfurt,USA,DF,32,4,0,0
+Marcel Wenig,Eint Frankfurt,GER,MF,18,1,0,0
+Jens Grahl,Eint Frankfurt,GER,GK,34,0,0,0
+Jérôme Onguéné,Eint Frankfurt,CMR,DF,25,0,0,0
+Mark Flekken,Freiburg,NED,GK,29,19,0,0
+Matthias Ginter,Freiburg,GER,DF,29,19,3,1
+Christian Günter,Freiburg,GER,"DF,MF",29,19,0,2
+Philipp Lienhart,Freiburg,AUT,DF,26,19,1,0
+Nicolas Höfler,Freiburg,GER,MF,32,18,0,1
+Michael Gregoritsch,Freiburg,AUT,FW,28,19,7,3
+Kiliann Sildillia,Freiburg,FRA,"DF,MF",20,18,0,2
+Ritsu Doan,Freiburg,JPN,"FW,MF",24,19,2,3
+Vincenzo Grifo,Freiburg,ITA,"FW,MF",29,18,9,3
+Maximilian Eggestein,Freiburg,GER,MF,26,18,0,2
+Lukas Kübler,Freiburg,GER,DF,30,8,2,0
+Daniel Kyereh,Freiburg,GHA,"MF,FW",26,12,2,0
+Yannik Keitel,Freiburg,GER,MF,22,14,0,2
+Roland Sallai,Freiburg,HUN,"MF,FW",25,9,0,0
+Jeong Woo-yeong,Freiburg,KOR,"MF,FW",23,16,1,1
+Lucas Höler,Freiburg,GER,"FW,MF",28,11,2,0
+Manuel Gulde,Freiburg,GER,DF,31,6,0,0
+Kevin Schade,Freiburg,GER,"FW,MF",21,8,1,0
+Nils Petersen,Freiburg,GER,FW,34,15,0,0
+Noah Weißhaupt,Freiburg,GER,"MF,FW",21,9,0,0
+Robert Wagner,Freiburg,GER,MF,19,2,0,0
+Hugo Siquet,Freiburg,BEL,DF,20,2,0,0
+Keven Schlotterbeck,Freiburg,GER,DF,25,2,0,0
+Noah Atubolu,Freiburg,GER,GK,20,0,0,0
+Merlin Röhl,Freiburg,GER,MF,20,0,0,0
+Jonathan Schmid,Freiburg,FRA,"DF,MF",32,0,0,0
+Benjamin Uphoff,Freiburg,GER,GK,29,0,0,0
+Koen Casteels,Wolfsburg,BEL,GK,30,19,0,1
+Mickey van de Ven,Wolfsburg,NED,DF,21,19,1,1
+Maximilian Arnold,Wolfsburg,GER,MF,28,19,4,2
+Ridle Baku,Wolfsburg,GER,DF,24,19,5,1
+Paulo Otávio,Wolfsburg,BRA,DF,28,16,0,5
+Sebastiaan Bornauw,Wolfsburg,BEL,DF,23,14,0,0
+Jakub Kamiński,Wolfsburg,POL,"FW,MF",20,17,1,2
+Maxence Lacroix,Wolfsburg,FRA,DF,22,14,1,0
+Yannick Gerhardt,Wolfsburg,GER,MF,28,14,4,1
+Patrick Wimmer,Wolfsburg,AUT,"FW,MF",21,12,2,5
+Mattias Svanberg,Wolfsburg,SWE,MF,24,18,2,4
+Lukas Nmecha,Wolfsburg,GER,FW,24,13,4,0
+Felix Kalu Nmecha,Wolfsburg,GER,MF,22,15,2,3
+Omar Marmoush,Wolfsburg,EGY,FW,24,19,3,0
+Jonas Wind,Wolfsburg,DEN,FW,24,10,4,0
+Josuha Guilavogui,Wolfsburg,FRA,"MF,DF",32,12,1,0
+Luca Waldschmidt,Wolfsburg,GER,FW,26,10,1,0
+Josip Brekalo,Wolfsburg,CRO,"MF,FW",24,6,0,1
+Bartol Franjić,Wolfsburg,CRO,MF,23,5,0,1
+Max Kruse,Wolfsburg,GER,"MF,FW",34,5,0,0
+Kevin Paredes,Wolfsburg,USA,"MF,FW",19,11,1,1
+Maximilian Philipp,Wolfsburg,GER,FW,28,3,0,0
+Kilian Fischer,Wolfsburg,GER,"DF,FW",22,3,0,0
+Jérôme Roussillon,Wolfsburg,FRA,"MF,DF",30,4,0,0
+Aster Vranckx,Wolfsburg,BEL,MF,20,1,0,0
+Lukáš Ambros,Wolfsburg,CZE,FW,18,0,0,0
+Bartosz Bialek,Wolfsburg,POL,FW,21,0,0,0
+Nicolas Cozza,Wolfsburg,FRA,DF,24,0,0,0
+Dženan Pejčinović,Wolfsburg,GER,DF,17,0,0,0
+Pavao Pervan,Wolfsburg,AUT,GK,35,0,0,0
+Philipp Schulze,Wolfsburg,GER,GK,20,0,0,0
+Jiří Pavlenka,Werder Bremen,CZE,GK,30,19,0,0
+Marvin Ducksch,Werder Bremen,GER,FW,28,19,4,5
+Niclas Füllkrug,Werder Bremen,GER,FW,29,18,13,3
+Mitchell Weiser,Werder Bremen,GER,"DF,FW",28,18,1,7
+Marco Friedl,Werder Bremen,AUT,DF,24,18,0,0
+Anthony Jung,Werder Bremen,GER,"DF,FW",31,19,2,2
+Amos Pieper,Werder Bremen,GER,DF,25,18,1,1
+Christian Groß,Werder Bremen,GER,MF,34,16,1,0
+Miloš Veljković,Werder Bremen,SRB,DF,27,16,1,0
+Ilia Gruev,Werder Bremen,BUL,MF,22,17,0,0
+Leonardo Bittencourt,Werder Bremen,GER,"MF,DF",29,13,2,0
+Niklas Stark,Werder Bremen,GER,DF,27,14,0,0
+Romano Schmid,Werder Bremen,AUT,MF,23,14,0,2
+Jens Stage,Werder Bremen,DEN,MF,26,18,1,1
+Niklas Schmidt,Werder Bremen,GER,MF,24,11,1,0
+Lee Buchanan,Werder Bremen,ENG,"DF,FW",21,13,1,0
+Oliver Burke,Werder Bremen,SCO,"FW,MF",25,15,2,0
+Eren Dinkçi,Werder Bremen,GER,"FW,MF",21,7,0,0
+Nicolai Rapp,Werder Bremen,GER,"MF,DF",26,7,0,0
+Michael Zetterer,Werder Bremen,GER,GK,27,1,0,0
+Felix Agu,Werder Bremen,GER,"DF,FW",23,3,0,0
+Fabio Chiarodia,Werder Bremen,ITA,DF,17,1,0,0
+Dikeni Salifou,Werder Bremen,TOG,MF,19,1,0,0
+Tom Berger,Werder Bremen,GER,MF,21,0,0,0
+Benjamin Goller,Werder Bremen,GER,"FW,MF",24,0,0,0
+Jean-Manuel Mbom,Werder Bremen,GER,MF,22,0,0,0
+Nick Woltemade,Werder Bremen,GER,FW,20,0,0,0
+Marcus Thuram,M'Gladbach,FRA,FW,25,18,10,3
+Ramy Bensebaini,M'Gladbach,ALG,DF,27,18,5,0
+Kouadio Koné,M'Gladbach,FRA,MF,21,18,1,1
+Christoph Kramer,M'Gladbach,GER,MF,31,18,0,0
+Joe Scally,M'Gladbach,USA,DF,20,18,0,0
+Nico Elvedi,M'Gladbach,SUI,DF,26,17,2,0
+Jonas Hofmann,M'Gladbach,GER,FW,30,16,7,5
+Julian Weigl,M'Gladbach,GER,MF,27,15,0,0
+Alassane Pléa,M'Gladbach,FRA,FW,29,15,2,7
+Marvin Friedrich,M'Gladbach,GER,DF,27,15,1,0
+Yann Sommer,M'Gladbach,SUI,GK,34,10,0,0
+Lars Stindl,M'Gladbach,GER,"FW,MF",34,14,4,6
+Ko Itakura,M'Gladbach,JPN,DF,26,10,0,2
+Florian Neuhaus,M'Gladbach,GER,MF,25,9,0,0
+Jonas Omlin,M'Gladbach,SUI,GK,29,4,0,0
+Nathan N'Goumou,M'Gladbach,FRA,FW,22,10,0,0
+Tobias Sippel,M'Gladbach,GER,GK,34,3,0,0
+Jan Jakob Olschowsky,M'Gladbach,GER,GK,21,2,0,0
+Stefan Lainer,M'Gladbach,AUT,DF,30,7,0,0
+Luca Netz,M'Gladbach,GER,"DF,FW",19,8,0,1
+Tony Jantschke,M'Gladbach,GER,"DF,MF",32,5,0,0
+Patrick Herrmann,M'Gladbach,GER,"FW,MF",31,15,1,0
+Hannes Wolf,M'Gladbach,AUT,"FW,MF",23,8,1,1
+Yvandro Borges Sanches,M'Gladbach,LUX,"FW,MF",18,3,0,0
+Semir Telalovic,M'Gladbach,GER,MF,23,1,0,0
+Rocco Reitz,M'Gladbach,GER,MF,20,1,0,0
+Louis Beyer,M'Gladbach,GER,DF,22,0,0,0
+Maximilian Brüll,M'Gladbach,GER,GK,20,0,0,0
+Florian Dimmer,M'Gladbach,GER,GK,18,0,0,0
+Oscar Fraulo,M'Gladbach,DEN,MF,19,0,0,0
+Torben Müsel,M'Gladbach,GER,FW,23,0,0,0
+Connor Noß,M'Gladbach,IRL,MF,22,0,0,0
+Edmond Tapsoba,Leverkusen,BFA,DF,24,19,1,0
+Moussa Diaby,Leverkusen,FRA,FW,23,19,6,3
+Lukáš Hrádecký,Leverkusen,FIN,GK,33,18,0,0
+Jeremie Frimpong,Leverkusen,NED,"DF,MF",22,19,5,2
+Jonathan Tah,Leverkusen,GER,DF,26,19,1,0
+Robert Andrich,Leverkusen,GER,MF,28,17,1,2
+Piero Hincapié,Leverkusen,ECU,DF,21,17,1,0
+Mitchel Bakker,Leverkusen,NED,"MF,DF",22,16,2,1
+Patrik Schick,Leverkusen,CZE,FW,27,11,2,0
+Exequiel Palacios,Leverkusen,ARG,MF,24,14,1,1
+Adam Hložek,Leverkusen,CZE,"FW,MF",20,17,2,3
+Kerem Demirbay,Leverkusen,GER,MF,29,16,3,3
+Odilon Kossonou,Leverkusen,CIV,DF,22,14,0,1
+Amine Adli,Leverkusen,FRA,FW,22,12,1,2
+Callum Hudson-Odoi,Leverkusen,ENG,"FW,MF",22,12,0,1
+Nadiem Amiri,Leverkusen,GER,"MF,FW",26,14,2,1
+Charles Aránguiz,Leverkusen,CHI,MF,33,10,1,0
+Sardar Azmoun,Leverkusen,IRN,"MF,FW",28,10,0,0
+Florian Wirtz,Leverkusen,GER,"FW,MF",19,4,0,1
+Daley Sinkgraven,Leverkusen,NED,"DF,FW",27,6,0,1
+Timothy Fosu-Mensah,Leverkusen,NED,DF,25,7,0,0
+Andrey Lunyov,Leverkusen,RUS,GK,31,1,0,0
+Paulinho,Leverkusen,BRA,FW,22,4,1,0
+Karim Bellarabi,Leverkusen,GER,FW,32,5,0,0
+Joel Pohjanpalo,Leverkusen,FIN,"FW,MF",28,1,0,0
+Ayman Azhil,Leverkusen,MAR,MF,21,1,0,0
+Niklas Lomb,Leverkusen,GER,GK,29,0,0,0
+Noah Mbamba,Leverkusen,BEL,DF,18,0,0,0
+Patrick Pentz,Leverkusen,AUT,GK,26,0,0,0
+Zidan Sertdemir,Leverkusen,DEN,MF,18,0,0,0
+Marvin Schwäbe,Köln,GER,GK,27,19,0,0
+Ellyes Skhiri,Köln,TUN,MF,27,18,3,1
+Jonas Hector,Köln,GER,DF,32,17,0,1
+Benno Schmitz,Köln,GER,DF,28,18,1,0
+Florian Kainz,Köln,AUT,"MF,FW",30,18,5,5
+Timo Hübers,Köln,GER,DF,26,15,0,0
+Linton Maina,Köln,GER,"FW,MF",23,18,2,5
+Luca Kilian,Köln,GER,DF,23,13,1,0
+Steffen Tigges,Köln,GER,FW,24,16,5,1
+Eric Martel,Köln,GER,MF,20,16,0,0
+Dejan Ljubicic,Köln,AUT,MF,25,13,3,0
+Ondrej Duda,Köln,SVK,MF,28,13,0,0
+Julian Chabot,Köln,GER,DF,24,6,0,1
+Jan Thielmann,Köln,GER,FW,20,12,1,1
+Denis Huseinbasic,Köln,GER,"MF,FW",21,12,3,1
+Nikola Soldo,Köln,CRO,DF,22,6,0,0
+Florian Dietz,Köln,GER,FW,24,11,1,0
+Mathias Olesen,Köln,LUX,MF,21,7,0,0
+Kingsley Schindler,Köln,GER,"DF,MF",29,16,0,0
+Sargis Adamyan,Köln,ARM,"FW,MF",29,16,1,1
+Kristian Pedersen,Köln,DEN,DF,28,5,0,0
+Davie Selke,Köln,GER,FW,28,4,0,0
+Kingsley Ehizibue,Köln,NED,DF,27,1,0,0
+Tim Lemperle,Köln,GER,FW,21,6,0,0
+Mark Uth,Köln,GER,"MF,FW",31,3,0,0
+Justin Diehl,Köln,GER,FW,18,1,0,0
+Elias Bakatukanda,Köln,GER,MF,18,0,0,0
+Timo Horn,Köln,GER,GK,29,0,0,0
+Maximilian Schmid,Köln,GER,FW,19,0,0,0
+Joshua Schwirten,Köln,GER,MF,21,0,0,0
+Rijad Smajic,Köln,BIH,DF,18,0,0,0
+Georg Strauch,Köln,GER,DF,21,0,0,0
+Jonas Urbig,Köln,GER,GK,19,0,0,0
+Karim Onisiwo,Mainz 05,AUT,"FW,MF",30,19,7,1
+Aarón Martín,Mainz 05,ESP,DF,25,17,3,2
+Dominik Kohr,Mainz 05,GER,MF,29,17,2,0
+Robin Zentner,Mainz 05,GER,GK,28,15,0,0
+Silvan Widmer,Mainz 05,SUI,DF,29,16,2,0
+Alexander Hack,Mainz 05,GER,DF,29,15,0,0
+Edimilson Fernandes,Mainz 05,SUI,DF,26,17,0,2
+Lee Jae-sung,Mainz 05,KOR,MF,30,19,4,1
+Anton Stach,Mainz 05,GER,MF,24,17,1,3
+Stefan Bell,Mainz 05,GER,DF,31,15,0,0
+Leandro Barreiro Martins,Mainz 05,LUX,MF,23,17,0,1
+Anthony Caci,Mainz 05,FRA,DF,25,16,1,1
+Marcus Ingvartsen,Mainz 05,DEN,"FW,MF",27,13,6,0
+Maxim Leitsch,Mainz 05,GER,DF,24,9,0,0
+Jonathan Burkardt,Mainz 05,GER,"MF,FW",22,11,1,2
+Angelo Fulgini,Mainz 05,FRA,MF,26,16,0,1
+Danny da Costa,Mainz 05,GER,DF,29,10,0,1
+Finn Dahmen,Mainz 05,GER,GK,24,4,0,0
+Andreas Hanche-Olsen,Mainz 05,NOR,DF,26,3,0,0
+Aymen Barkok,Mainz 05,MAR,MF,24,10,0,1
+Ludovic Ajorque,Mainz 05,REU,FW,28,3,0,0
+Delano Burgzorg,Mainz 05,NED,"FW,MF",24,10,0,1
+Niklas Tauer,Mainz 05,GER,"DF,MF",21,3,0,0
+Suliman Mustapha,Mainz 05,AUT,"FW,MF",21,5,0,0
+Brajan Gruda,Mainz 05,GER,MF,18,2,0,0
+Nelson Weiper,Mainz 05,GER,MF,17,1,0,0
+Ben Bobzien,Mainz 05,GER,FW,19,0,0,0
+Lasse Finn Rieß,Mainz 05,GER,GK,21,0,0,0
+Anderson Lucoqui,Mainz 05,ANG,DF,25,0,0,0
+Matondo-Merveille Papela,Mainz 05,GER,MF,22,0,0,0
+Eniss Shabani,Mainz 05,GER,MF,19,0,0,0
+Jeffrey Gouweleeuw,Augsburg,NED,DF,31,18,0,0
+Elvis Rexhbeçaj,Augsburg,GER,MF,25,18,0,0
+Ermedin Demirović,Augsburg,BIH,"MF,FW",24,18,6,2
+Rafał Gikiewicz,Augsburg,POL,GK,35,15,0,0
+Robert Gumny,Augsburg,POL,DF,24,15,1,1
+Iago,Augsburg,BRA,"DF,MF",25,13,0,1
+Mergim Berisha,Augsburg,GER,FW,24,13,6,4
+Maximilian Bauer,Augsburg,GER,DF,22,15,0,0
+Carlos Gruezo,Augsburg,ECU,MF,27,13,0,0
+Mads Pedersen,Augsburg,DEN,"DF,MF",26,16,0,0
+Florian Niederlechner,Augsburg,GER,"FW,MF",32,14,4,1
+Arne Maier,Augsburg,GER,MF,24,15,1,0
+Ohis Felix Uduokhai,Augsburg,GER,DF,25,11,0,1
+Fredrik Jensen,Augsburg,FIN,"MF,FW",25,14,1,1
+Ruben Vargas,Augsburg,SUI,"MF,FW",24,12,1,1
+André Hahn,Augsburg,GER,"FW,MF",32,7,2,0
+Arne Engels,Augsburg,BEL,MF,19,4,0,2
+Tomáš Koubek,Augsburg,CZE,GK,30,4,0,0
+Dion Drena Beljo,Augsburg,CRO,FW,20,4,0,0
+Julian Baumgartlinger,Augsburg,AUT,MF,35,7,0,0
+Daniel Caligiuri,Augsburg,ITA,"DF,MF",35,11,1,0
+Raphael Framberger,Augsburg,GER,"DF,FW",27,3,0,0
+Ricardo Pepi,Augsburg,USA,FW,20,4,0,0
+Reece Oxford,Augsburg,ENG,DF,24,3,0,0
+Frederik Winther,Augsburg,DEN,DF,22,1,0,1
+Lukas Petkov,Augsburg,GER,"MF,FW",22,7,0,0
+Kelvin Yeboah,Augsburg,ITA,"FW,MF",22,4,0,1
+Irvin Cardona,Augsburg,FRA,MF,25,1,0,0
+Niklas Dorsch,Augsburg,GER,MF,25,3,0,0
+David Čolina,Augsburg,CRO,"DF,MF",22,2,1,0
+Noah Joel Sarenren Bazee,Augsburg,NGA,FW,26,1,0,0
+Aaron Zehnter,Augsburg,GER,DF,18,1,0,0
+Felix Götze,Augsburg,GER,"DF,MF",24,0,0,0
+Daniel Katić,Augsburg,CRO,DF,19,0,0,0
+Daniel Klein,Augsburg,GER,GK,21,0,0,0
+Josué-Emanuel M'bila,Augsburg,ANG,MF,23,0,0,0
+Maurice Malone,Augsburg,GER,"FW,MF",22,0,0,0
+Nathanael Mbuku,Augsburg,FRA,MF,20,0,0,0
+Oliver Baumann,Hoffenheim,GER,GK,32,19,0,0
+Christoph Baumgartner,Hoffenheim,AUT,"MF,FW",23,19,5,3
+Angeliño,Hoffenheim,ESP,DF,26,18,0,5
+Ozan Kabak,Hoffenheim,TUR,DF,22,17,2,2
+Dennis Geiger,Hoffenheim,GER,MF,24,16,1,2
+Kevin Vogt,Hoffenheim,GER,DF,31,15,0,0
+Robert Skov,Hoffenheim,DEN,DF,26,16,3,2
+Andrej Kramarić,Hoffenheim,CRO,"MF,FW",31,18,5,3
+Grischa Prömel,Hoffenheim,GER,MF,28,13,1,1
+Georginio Rutter,Hoffenheim,FRA,FW,20,15,2,2
+Stanley N'Soki,Hoffenheim,FRA,DF,23,13,0,0
+Kevin Akpoguma,Hoffenheim,NGA,DF,27,15,0,0
+Pavel Kadeřábek,Hoffenheim,CZE,"DF,FW",30,16,1,0
+Moanes Dabbur,Hoffenheim,ISR,FW,30,13,5,0
+Sebastian Rudy,Hoffenheim,GER,MF,32,13,0,1
+Angelo Stiller,Hoffenheim,GER,MF,21,13,0,1
+Jacob Bruun Larsen,Hoffenheim,DEN,FW,24,11,1,0
+Ihlas Bebou,Hoffenheim,TOG,"FW,DF",28,4,2,0
+Tom Bischof,Hoffenheim,GER,"MF,FW",17,5,0,0
+John Brooks,Hoffenheim,USA,DF,30,2,0,0
+Kasper Dolberg,Hoffenheim,DEN,FW,25,4,0,0
+Muhammed Damar,Hoffenheim,GER,MF,18,5,0,0
+Eduardo Simões,Hoffenheim,POR,DF,20,4,0,0
+Thomas Delaney,Hoffenheim,DEN,MF,31,1,0,0
+Diadie Samassékou,Hoffenheim,MLI,"MF,FW",27,2,0,0
+Stefan Posch,Hoffenheim,AUT,DF,25,1,0,0
+Ermin Bičakčić,Hoffenheim,BIH,DF,33,2,0,0
+Umut Tohumcu,Hoffenheim,GER,MF,18,1,0,0
+Fisnik Asllani,Hoffenheim,KVX,"FW,MF",20,3,0,0
+Finn Ole Becker,Hoffenheim,GER,MF,22,2,0,0
+Joshua Quarshie,Hoffenheim,GER,MF,18,1,0,0
+Justin Che,Hoffenheim,USA,DF,19,0,0,0
+Nahuel Noll,Hoffenheim,GER,GK,19,0,0,0
+Philipp Pentke,Hoffenheim,GER,GK,37,0,0,0
+Luca Philipp,Hoffenheim,GER,GK,22,0,0,0
+Manuel Riemann,Bochum,GER,GK,34,19,0,0
+Anthony Losilla,Bochum,FRA,MF,36,19,0,2
+Kevin Stöger,Bochum,AUT,MF,29,18,1,1
+Philipp Hofmann,Bochum,GER,FW,29,19,7,1
+Ivan Ordets,Bochum,UKR,DF,30,17,0,0
+Cristian Gamboa,Bochum,CRC,DF,33,15,0,0
+Simon Zoller,Bochum,GER,FW,31,17,3,1
+Danilo Soares,Bochum,BRA,DF,31,14,0,0
+Philipp Förster,Bochum,GER,MF,28,16,2,5
+Erhan Mašović,Bochum,SRB,"DF,MF",24,15,2,0
+Gerrit Holtmann,Bochum,PHI,FW,27,16,1,1
+Takuma Asano,Bochum,JPN,"FW,MF",28,10,1,0
+Christopher Antwi-Adjei,Bochum,GHA,"FW,MF",29,14,2,6
+Vassilis Lambropoulos,Bochum,GRE,DF,32,10,0,0
+Saidy Janko,Bochum,GAM,DF,27,11,0,0
+Jordi Osei-Tutu,Bochum,ENG,"FW,DF",24,15,0,0
+Kostas Stafylidis,Bochum,GRE,"MF,DF",29,9,0,2
+Dominique Heintz,Bochum,GER,DF,29,4,0,0
+Patrick Osterhage,Bochum,GER,"MF,FW",23,12,0,0
+Keven Schlotterbeck,Bochum,GER,DF,25,4,1,0
+Tim Oermann,Bochum,GER,DF,19,4,0,0
+Jacek Góralski,Bochum,POL,MF,30,3,0,0
+Pierre Kunde,Bochum,CMR,MF,27,3,1,0
+Jannes Horn,Bochum,GER,"DF,FW",26,2,0,0
+Silvère Ganvoula M'Boussy,Bochum,CGO,FW,26,11,0,0
+Moritz Broschinski,Bochum,GER,FW,22,1,1,0
+Tarsis Bonga,Bochum,GER,MF,26,0,0,0
+Michael Esser,Bochum,GER,GK,35,0,0,0
+Marko Johansson,Bochum,SWE,GK,24,0,0,0
+Lys Mousset,Bochum,FRA,"FW,MF",27,0,0,0
+Mohammed Tolba,Bochum,GER,DF,18,0,0,0
+Florian Müller,Stuttgart,GER,GK,25,19,0,0
+Waldemar Anton,Stuttgart,GER,DF,26,19,1,0
+Wataru Endo,Stuttgart,JPN,MF,29,18,3,1
+Naouirou Ahamada,Stuttgart,FRA,MF,20,17,2,2
+Hiroki Ito,Stuttgart,JPN,DF,23,17,0,1
+Konstantinos Mavropanos,Stuttgart,GRE,DF,25,16,2,1
+Silas Katompa,Stuttgart,COD,"FW,DF",24,16,3,2
+Chris Führich,Stuttgart,GER,"FW,MF",25,18,3,0
+Sehrou Guirassy,Stuttgart,GUI,FW,26,13,6,0
+Tiago Tomás,Stuttgart,POR,"FW,MF",20,15,2,2
+Borna Sosa,Stuttgart,CRO,"DF,MF",25,13,0,5
+Atakan Karazor,Stuttgart,GER,MF,26,16,0,0
+Josha Vagnoman,Stuttgart,GER,"DF,MF",22,11,0,0
+Luca Pfeiffer,Stuttgart,GER,FW,26,13,0,0
+Dan-Axel Zagadou,Stuttgart,FRA,DF,23,6,0,0
+Nikolas Nartey,Stuttgart,DEN,"DF,MF",22,6,0,0
+Enzo Millot,Stuttgart,FRA,MF,20,11,0,0
+Pascal Stenzel,Stuttgart,GER,DF,26,10,0,1
+Sasa Kalajdzic,Stuttgart,AUT,FW,25,3,0,3
+Lilian Egloff,Stuttgart,GER,"MF,FW",20,10,0,0
+Juan Perea,Stuttgart,COL,"FW,DF",22,11,0,0
+Genki Haraguchi,Stuttgart,JPN,MF,31,1,0,0
+Thomas Kastanaras,Stuttgart,GRE,"FW,DF",20,4,0,0
+Gil Bastião Dias,Stuttgart,POR,FW,26,1,0,0
+Tanguy Coulibaly,Stuttgart,FRA,"DF,FW",21,2,0,0
+Darko Churlinov,Stuttgart,MKD,FW,22,1,0,0
+Clinton Mola,Stuttgart,ENG,DF,21,1,0,0
+Lauren Ulrich,Stuttgart,GER,MF,18,1,0,0
+Alou Kuol,Stuttgart,AUS,FW,22,1,0,0
+Antonis Aidonis,Stuttgart,GER,DF,21,0,0,0
+Fabian Bredlow,Stuttgart,GER,GK,27,0,0,0
+Nicolas Glaus,Stuttgart,SUI,GK,20,0,0,0
+Mattis Hoppe,Stuttgart,GER,DF,19,0,0,0
+Mateo Klimowicz,Stuttgart,GER,MF,22,0,0,0
+Leon Reichardt,Stuttgart,GER,DF,18,0,0,0
+Oliver Christensen,Hertha BSC,DEN,GK,23,19,0,0
+Marc-Oliver Kempf,Hertha BSC,GER,DF,28,19,0,0
+Lucas Tousart,Hertha BSC,FRA,MF,25,18,2,0
+Jonjoe Kenny,Hertha BSC,ENG,DF,25,18,0,1
+Dodi Lukebakio,Hertha BSC,BEL,"FW,MF",25,18,7,1
+Suat Serdar,Hertha BSC,GER,MF,25,18,4,0
+Marvin Plattenhardt,Hertha BSC,GER,DF,31,16,0,2
+Wilfried Kanga,Hertha BSC,CIV,FW,24,17,2,0
+Ivan Šunjić,Hertha BSC,CRO,MF,26,15,0,0
+Marco Richter,Hertha BSC,GER,"MF,FW",25,16,3,2
+Agustín Rogel,Hertha BSC,URU,DF,25,10,0,0
+Chidera Ejuke,Hertha BSC,NGA,"FW,MF",25,15,0,3
+Filip Uremović,Hertha BSC,CRO,DF,25,10,0,0
+Jean-Paul Boëtius,Hertha BSC,NED,MF,28,14,0,0
+Maximilian Mittelstädt,Hertha BSC,GER,DF,25,10,0,0
+Stevan Jovetić,Hertha BSC,MNE,"FW,MF",33,8,1,2
+Davie Selke,Hertha BSC,GER,FW,28,13,1,1
+Márton Dárdai,Hertha BSC,GER,DF,20,7,0,0
+Derry Scherhant,Hertha BSC,GER,FW,20,5,0,0
+Kevin-Prince Boateng,Hertha BSC,GHA,MF,35,9,0,0
+Florian Niederlechner,Hertha BSC,GER,FW,32,2,0,0
+Myziane Maolida,Hertha BSC,FRA,"FW,MF",23,3,0,0
+Peter Pekarík,Hertha BSC,SVK,DF,36,3,0,0
+Jessic Ngankam,Hertha BSC,GER,"MF,FW",22,4,0,0
+Tolga Ciğerci,Hertha BSC,TUR,MF,30,1,0,0
+Vladimír Darida,Hertha BSC,CZE,MF,32,3,0,0
+Julian Eitschberger,Hertha BSC,GER,MF,18,0,0,0
+Tjark Ernst,Hertha BSC,GER,GK,19,0,0,0
+Linus Gechter,Hertha BSC,GER,DF,18,0,0,0
+Rune Jarstein,Hertha BSC,NOR,GK,38,0,0,0
+Robert Kwasigroch,Hertha BSC,GER,GK,18,0,0,0
+Deyovaisio Zeefuik,Hertha BSC,NED,DF,24,0,0,0
+Maya Yoshida,Schalke 04,JPN,DF,34,19,0,0
+Tom Krauß,Schalke 04,GER,MF,21,19,1,0
+Alexander Schwolow,Schalke 04,GER,GK,30,17,0,0
+Marius Bülter,Schalke 04,GER,"FW,MF",29,19,3,0
+Cédric Brunner,Schalke 04,SUI,DF,28,16,0,0
+Simon Terodde,Schalke 04,GER,FW,34,19,3,0
+Alex Král,Schalke 04,CZE,MF,24,14,0,0
+Henning Matriciani,Schalke 04,GER,DF,22,10,0,0
+Dominick Drexler,Schalke 04,GER,"MF,FW",32,15,2,3
+Thomas Ouwejan,Schalke 04,NED,DF,26,11,0,1
+Tobias Mohr,Schalke 04,GER,"DF,MF",27,12,0,2
+Florian Flick,Schalke 04,GER,MF,22,8,0,0
+Jordan Larsson,Schalke 04,SWE,"FW,MF",25,11,0,0
+Sebastian Polter,Schalke 04,GER,"FW,MF",31,14,1,2
+Danny Latza,Schalke 04,GER,MF,33,12,0,0
+Florent Mollet,Schalke 04,FRA,MF,31,9,1,0
+Rodrigo Zalazar,Schalke 04,URU,"MF,FW",23,9,1,0
+Kenan Karaman,Schalke 04,TUR,FW,28,10,0,0
+Sepp van den Berg,Schalke 04,NED,DF,21,4,0,0
+Soichiro Kozuki,Schalke 04,JPN,"FW,MF",22,4,1,0
+Jere Uronen,Schalke 04,FIN,DF,28,4,0,0
+Malick Thiaw,Schalke 04,GER,DF,21,3,0,0
+Leo Greiml,Schalke 04,AUT,DF,21,4,0,0
+Ralf Fährmann,Schalke 04,GER,GK,34,2,0,0
+Moritz Jenz,Schalke 04,GER,DF,23,2,0,0
+Tim Skarke,Schalke 04,GER,"MF,FW",26,2,0,0
+Mehmet-Can Aydin,Schalke 04,GER,DF,20,9,0,0
+Michael Frey,Schalke 04,SUI,FW,28,4,0,1
+Marcin Kamiński,Schalke 04,POL,DF,31,1,0,0
+Éder Álvarez Balanta,Schalke 04,COL,MF,29,1,0,0
+Kerim Calhanoglu,Schalke 04,GER,DF,20,3,0,0
+Andreas Ivan,Schalke 04,ROU,MF,28,1,0,0
+Timothée Kolodziejczak,Schalke 04,FRA,DF,31,1,0,0
+Sidi Sané,Schalke 04,GER,FW,19,1,0,0
+Justin Heekeren,Schalke 04,GER,GK,22,0,0,0
+Keke Maximilian Topp,Schalke 04,GER,FW,18,0,0,0
+Joey Paul Müller,Schalke 04,GER,MF,22,0,0,0
+Julius Schell,Schalke 04,GER,MF,23,0,0,0

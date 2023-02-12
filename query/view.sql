@@ -114,4 +114,13 @@ create or replace view view_ismember_infor as
 	assist from is_member join player on player.player_id=is_member.player_id
 						  join club on club.club_id=is_member.club_id;
 
+	-- 12. view for club
+create or replace view view_club as 
+	select c.club_name, c.country from club c;
 
+	-- 13 view for match
+create or replace view view_match as 
+	select h.club_name home, a.club_name away, l.season season,
+		m.score, m.attendance, m.referee from match m 
+						join club h on m.home_club_id = h.club_id
+						join club a on m.away_club_id = a.club_id;

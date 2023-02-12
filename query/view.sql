@@ -1,6 +1,6 @@
 	--1.view player information--
 create or replace view view_player_infor as select 
-	player_name ,nation ,positions ,number ,height ,weight ,age from player;
+	player_name ,nation ,positions ,age from player;
 	--2.view stadium information--
 create or replace view view_stadium_infor as 
 	select team,name,capacity from stadium;

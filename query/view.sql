@@ -123,4 +123,5 @@ create or replace view view_match as
 	select h.club_name home, a.club_name away, l.season season,
 		m.score, m.attendance, m.referee from match m 
 						join club h on m.home_club_id = h.club_id
-						join club a on m.away_club_id = a.club_id;
+						join club a on m.away_club_id = a.club_id
+						join lyear l on m.lyear_id = l.lyear_id;

@@ -22,8 +22,8 @@ create table if not exists player(
 );
 
 create table if not exists is_member(
-	player_id serial,
-	club_id serial,
+	player_id int,
+	club_id int,
 	season varchar(15), -- khoảng thời gian thi đấu. E.g: 2013 - 2016
 	match_played int,
 	goal int,
@@ -52,9 +52,9 @@ create table if not exists lyear(
 );
 create table if not exists match(
 	match_id serial primary key,
-	home_club_id serial,
-	away_club_id serial,
-	lyear_id serial,
+	home_club_id int,
+	away_club_id int,
+	lyear_id int,
 	score varchar(10) not null,
 	attendance int not null,
 	referee varchar(50)  not null,

@@ -3,7 +3,7 @@
 returns void as $$
 declare std_id integer;
 begin
-	select(select count(stadium_id) from stadium) + 1 into std_id;
+	select(select max(stadium_id) from stadium) + 1 into std_id;
 	insert into stadium values(std_id,team,stadium_name,capacity);
 end; $$ language plpgsql;
 	--insert club
@@ -13,7 +13,7 @@ declare
 	std_id integer;
 	clb_id integer;
 begin
-	select(select count(club_id) from club)+1 into clb_id;
+	select(select max(club_id) from club)+1 into clb_id;
 	select(select stadium_id from stadium where team = clb_name) into std_id;
 	insert into club values(clb_id,clb_name,country,std_id);
 end; $$ language plpgsql;
@@ -22,7 +22,7 @@ create or replace function insert_player_infor(player_name text,nation text,posi
 returns void as $$
 declare player_id integer;
 begin
-	select(select count(player.player_id) from player) + 1 into player_id;
+	select(select max(player.player_id) from player) + 1 into player_id;
 	insert into player values(player_id,player_name,nation,positions,age);
 end; $$ language plpgsql;
 	--insert league infor
@@ -30,7 +30,7 @@ create or replace function insert_league_infor(league_name text,first_season tex
 returns void as $$
 declare league_id integer;
 begin
-	select(select count(league.league_id) from league) + 1 into league_id;
+	select(select max(league.league_id) from league) + 1 into league_id;
 	insert into league values(league_id,league_name ,first_season,won_most_title_club);
 end; $$ language plpgsql;
 	-- insert lyear infor
@@ -40,8 +40,8 @@ declare
 	lyearId integer;
 	leagueId integer;
 begin
-	select(select count(lyear_id) from lyear)+1 into lyearId;
-	select(select league_id from lyear where "name"=league_name) into leagueId;
+	select(select max(lyear_id) from lyear)+1 into lyearId;
+	select(select league_id from league where "name"=league_name) into leagueId;
 	if leagueId is NULL
 	then
 		raise notice '% is not exist',league_name;
@@ -58,7 +58,7 @@ declare
 	matchId integer;
 	lyearId integer;
 begin
-	select(select count(match_id) from "match")+1 into matchId;
+	select(select max(match_id) from "match")+1 into matchId;
 	select(select club_id from club where home=club_name) into homeId;
 	select(select club_id from club where away=club_name) into awayId;
 	select(select lyear_id from lyear join league on lyear.league_id=league.league_id where season=seasons and leaugue_name="name") into lyearId;

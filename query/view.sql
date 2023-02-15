@@ -115,12 +115,55 @@ create or replace view view_ismember_infor as
 						  join club on club.club_id=is_member.club_id;
 
 	-- 12. view for club
-create or replace view view_club as 
-	select c.club_name, c.country from club c;
+create or replace view view_club_infor as
+	select club_name, country, "name" from club "c" join stadium s on "c".stadium_id=s.stadium_id;
 
 	-- 13 view for match
-create or replace view view_match as 
+create or replace view view_match_infor as 
 	select h.club_name home, a.club_name away, l.season season,
 		m.score, m.attendance, m.referee from match m 
 						join club h on m.home_club_id = h.club_id
 						join club a on m.away_club_id = a.club_id;
+	--view player full stats
+create or replace view view_player_full_stats as
+	select player_name,
+	h.club_name as home,
+	"a".club_name as away,
+	short_passes_completed,
+	short_passes_attempted,
+	long_passes_completed,
+	long_passes_attempted,
+	assists,
+	live, 
+	dead,
+	free_kick,
+	TB , -- completed passes sent between back defenders into open space
+	sw , -- pass > 40 yards
+	TI , -- throws-in taken 
+	CK,
+	def_pen, -- Touches in penalty area
+	def_3rd, -- Touches in defensive 1/3
+	mid_3rd, -- Touch in middle 1/3
+	att_3rd, -- Touch in attacking 1/3 
+	succ, -- Dribbles completed successfully
+	att, -- Dribbles attempted
+	mis, -- Number of times a player when attempting to gain control of a ball
+	dis,
+	tkl_def_3rd, -- Tackles in defensive 1/3
+	tkl_mid_3rd, -- Tackles in middle 1/3
+	tkl_att_3rd, -- Tackles in attacking 1/3
+	dribbler_tkl, -- Number of dribblers tackled
+	dribbled_att, -- Number of times dribbled past plus number of tackles
+	inceptions,
+	pass_block, -- Number of times blocking a pass by standing in its path
+	shot_block,
+	total_shot,
+	goal, 
+	shot_on_target,
+	penalty_made,
+	penalty_attempted,
+	average_distance
+	from stats join player on player.player_id=stats.player_id
+						  join match on stats.match_id=match.match_id
+						  join club h on home_club_id=h.club_id
+						  join club "a" on away_club_id="a".club_id;

@@ -11,4 +11,5 @@ select * from sort_season('goals','desc')
 select delete_stadium_infor('lach tray');
 select delete_club_infor('ha noi');
 select delete_lyear_infor('Serie A','2022-2023')
-
+select * from search_player_infor('Gabriel Jesus');
+select * from search_season_infor('Serie A','2019-2020');

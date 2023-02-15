@@ -804,3 +804,6 @@ begin
 	delete from lyear where league_id=leagueId;
 	delete from league where league_id=leagueId;
 end; $$ language plpgsql;
+
+-- Show all users in the database
+SELECT * FROM pg_catalog.pg_user

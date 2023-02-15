@@ -83,15 +83,14 @@ returns view_ismember_infor as $$
 	select * from view_ismember_infor v where position(player_name in v.player_name) <> 0 and position(club_name in v.club_name)<> 0;
 	$$ language sql;
 --example
-select * from search_rank_infor('English Premier League','2022-2023');
+-- select * from search_rank_infor('English Premier League','2022-2023');
 
 -- DELETIONS --
 -- Delete by name
-create or replace function delete_player_by_name(player)
 
 
 -- SORTING --
-create or replace function sort_
+
 
 -- INSERTION --
 
@@ -138,7 +137,3 @@ create or replace function update_standings_from_stratch()
 		end loop;
 	end;
 $$ language plpgsql;
-
-
-
-

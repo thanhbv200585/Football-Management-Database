@@ -101,14 +101,14 @@ create trigger trigger_ismember_update
 after update on stats
 for each row execute procedure update_stats();
 
-insert into stats(match_id, player_id, goal, assists) values(2, 1, 0, 1);
-insert into stats(match_id, player_id, goal, assists) values(3, 1, 0, 1);
-insert into stats(match_id, player_id, goal, assists) values(4, 1, 0, 1);
-insert into stats(match_id, player_id, goal, assists) values(5, 1, 0, 1);
+-- insert into stats(match_id, player_id, goal, assists) values(2, 1, 0, 1);
+-- insert into stats(match_id, player_id, goal, assists) values(3, 1, 0, 1);
+-- insert into stats(match_id, player_id, goal, assists) values(4, 1, 0, 1);
+-- insert into stats(match_id, player_id, goal, assists) values(5, 1, 0, 1);
 
-delete from stats where match_id = 4;
-select match_id, player_id, goal, assists from stats
-order by match_id desc;
+-- delete from stats where match_id = 4;
+-- select match_id, player_id, goal, assists from stats
+-- order by match_id desc;
 
 
 -- 5. Trigger update standings when inserting match record
@@ -198,9 +198,9 @@ create trigger trigger_delete_match
 after delete on match
 for each row execute procedure delete_match();
 
-select * from match;
-SELECT * FROM public.standings
-ORDER BY lyear_id ASC, points desc; 
+-- select * from match;
+-- SELECT * FROM public.standings
+-- ORDER BY lyear_id ASC, points desc; 
 
 -- -- 5. Trigger update the champion, champion point, top scorer, goals
 -- create or replace function update_lyear()

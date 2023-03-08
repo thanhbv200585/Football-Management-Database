@@ -51,12 +51,11 @@ begin
 		select(select max(league_id) from league) + 1 into leagueId;
 		insert into league values(leagueId,league_name ,first_season,won_most_title_club);
 		raise notice 'insert success';
-	else 
+	else
 		raise notice 'duplicate data';
 	end if;
 end; $$ language plpgsql;
 	-- insert lyear infor
-	drop function if exists insert_lyear_infor;
 create or replace function insert_lyear_infor(league_name text,seasons text,num_of_squad integer,champion text,champion_point integer,top_scorer_name text,goals integer)
 returns void as $$
 declare

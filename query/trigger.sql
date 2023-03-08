@@ -39,17 +39,6 @@ create or replace function insert_stats()
 		where player_id = new.player_id 
 		and season = (select season from lyear where lyear_id = 
 					(select lyear_id from match where match.match_id = new.match_id)); 
--- 		elsif (tg_op = 'delete') then
--- 		update is_member 
--- 		set match_played = match_played - 1,
--- 			goal = goal - old.goal,
--- 			assist = assist - old.assists
--- 		where player_id = old.player_id 
--- 		and season = (select season from lyear where lyear_id = 
--- 					(select lyear_id from match where match.match_id = old.match_id)); 
--- -- 			return old;
--- 		elsif (tg_op = 'update') then 
-
 		return new;
 	end;
 $$ language plpgsql;
@@ -197,24 +186,3 @@ drop trigger if exists trigger_delete_match on match;
 create trigger trigger_delete_match
 after delete on match
 for each row execute procedure delete_match();
-
--- select * from match;
--- SELECT * FROM public.standings
--- ORDER BY lyear_id ASC, points desc; 
-
--- -- 5. Trigger update the champion, champion point, top scorer, goals
--- create or replace function update_lyear()
--- 	returns trigger as
--- $$
--- 	begin 
--- 		select * into f1 from standings
--- 		where lyear_id = new.lyear_id
--- 		order by points desc
--- 		limit 1;
--- 		select 
--- 		update lyear 
--- 		set champion_points = (select points from f1 limit 1), 
--- 			champion = (select club_name from club c where c.club_id = f1.club_id);
--- 		se
--- 	end;
--- $$ language plpgsql;

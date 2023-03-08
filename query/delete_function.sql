@@ -5,7 +5,7 @@ returns setof stadium as $$
 $$ language sql;
 	--delete club infor
 create or replace function delete_club_infor(clb_name text)
-returns void as $$
+	returns void as $$
 declare
 	clbId integer;
 begin

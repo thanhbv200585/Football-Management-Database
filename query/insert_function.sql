@@ -3,8 +3,15 @@
 returns void as $$
 declare std_id integer;
 begin
-	select(select max(stadium_id) from stadium) + 1 into std_id;
-	insert into stadium values(std_id,team,stadium_name,capacity);
+	select(select stadium_id from stadium where stadium_name="name") into std_id;
+	if std_id is NULL
+	then
+		select(select max(stadium_id) from stadium) + 1 into std_id;
+		insert into stadium values(std_id,team,stadium_name,capacity);
+		raise notice 'insert success';
+	else
+		raise notice 'duplicate data';
+	end if;
 end; $$ language plpgsql;
 	--insert club
 	create or replace function insert_club_infor(clb_name text,country text)
@@ -13,9 +20,16 @@ declare
 	std_id integer;
 	clb_id integer;
 begin
-	select(select max(club_id) from club)+1 into clb_id;
-	select(select stadium_id from stadium where team = clb_name) into std_id;
-	insert into club values(clb_id,clb_name,country,std_id);
+	select(select club_id from club where club_name = clb_name) into clb_id;
+	if clb_id is NULL
+	then
+		select(select max(club_id) from club)+1 into clb_id;
+		select(select stadium_id from stadium where team = clb_name) into std_id;
+		insert into club values(clb_id,clb_name,country,std_id);
+		raise notice 'insert success';
+	else
+		raise notice 'duplicate data';
+	end if;
 end; $$ language plpgsql;
 	--insert player infor
 create or replace function insert_player_infor(player_name text,nation text,positions text,age integer)
@@ -24,30 +38,46 @@ declare player_id integer;
 begin
 	select(select max(player.player_id) from player) + 1 into player_id;
 	insert into player values(player_id,player_name,nation,positions,age);
+	raise notice 'insert success';
 end; $$ language plpgsql;
 	--insert league infor
 create or replace function insert_league_infor(league_name text,first_season text,won_most_title_club text)
 returns void as $$
-declare league_id integer;
+declare leagueId integer;
 begin
-	select(select max(league.league_id) from league) + 1 into league_id;
-	insert into league values(league_id,league_name ,first_season,won_most_title_club);
+	select(select league_id from league where league_name="name") into leagueId;
+	if leagueId is NULL
+	then
+		select(select max(league_id) from league) + 1 into leagueId;
+		insert into league values(leagueId,league_name ,first_season,won_most_title_club);
+		raise notice 'insert success';
+	else 
+		raise notice 'duplicate data';
+	end if;
 end; $$ language plpgsql;
 	-- insert lyear infor
-create or replace function insert_lyear_infor(league_name text,season text,num_of_squad integer,champion text,champion_point integer,top_scorer_name text,goals integer)
+	drop function if exists insert_lyear_infor;
+create or replace function insert_lyear_infor(league_name text,seasons text,num_of_squad integer,champion text,champion_point integer,top_scorer_name text,goals integer)
 returns void as $$
 declare
 	lyearId integer;
 	leagueId integer;
 begin
-	select(select max(lyear_id) from lyear)+1 into lyearId;
-	select(select league_id from league where "name"=league_name) into leagueId;
+	select(select lyear_id from lyear join league on lyear.league_id=league.league_id where (league_name="name" and seasons=season)) into lyearId;
+	if lyearId is NULL
+	then
+		select(select max(lyear_id) from lyear)+1 into lyearId;
+		select(select league_id from league where "name"=league_name) into leagueId;
 	if leagueId is NULL
 	then
 		raise notice '% is not exist',league_name;
 	else
-		insert into lyear values(lyearId,season,num_of_squad,champion,champion_point,top_scorer_name,goals,leagueId);
+		insert into lyear values(lyearId,seasons,num_of_squad,champion,champion_point,top_scorer_name,goals,leagueId);
+		raise notice 'insert success';
 	end if;							 
+	else
+		raise notice 'duplicate data';
+	end if;
 end; $$ language plpgsql;
 	--insert match infor
 create or replace function insert_match_infor(leaugue_name text,home text, away text, seasons text, score text, attendance integer, referee text)

@@ -1,9 +1,9 @@
 	--sort_club
 create or replace function sort_club(order_by text,trend text)
-	returns setof view_club_infor as $$
+	returns setof view_club as $$
 	begin
 	return query execute 
-	'select * from view_club_infor 
+	'select * from view_club
 	order by ' || quote_ident(order_by) ||' '|| trend || ' ;';
 	end;
 $$ language plpgsql;
@@ -18,7 +18,7 @@ create or replace function sort_stadium(order_by text,trend text)
 	end;
 $$ language plpgsql;
 	--sort stats
-create or replace function sort_stats(order_by text,trend text)
+create or replace function sort_stats(order_by text,trend text) -- còn hàm này
 	returns setof view_player_full_stats as $$
 	begin
 	return query execute 

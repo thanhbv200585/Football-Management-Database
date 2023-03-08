@@ -38,10 +38,13 @@ grant usage on schema public to team_leader;
 grant select, insert, delete, update on all tables in schema public to team_leader;
 alter default privileges in schema public grant select, insert, delete, update on tables to team_leader;
 grant usage on all sequences in schema public to team_leader;
+grant all on all functions in schema public to team_leader;
 alter default privileges in schema public grant usage on sequences to team_leader;
+
 alter role team_leader with login;
 
 -- 4. Admin as a superuser
+drop role admin_system 
 create role admin_system with login;
 grant connect on database football_management_system to admin_system;
 alter role admin_system with superuser;
@@ -77,4 +80,4 @@ grant customer to customer2;
 grant team_leader to team_leader1;
 grant team_leader to team_leader2;
 
-grant admin1 to admin_system;
+grant admin_system to admin1;
